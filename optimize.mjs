@@ -1,0 +1,238 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { JSDOM } from 'jsdom';
+import TurndownService from 'turndown';
+import { gfm } from 'turndown-plugin-gfm';
+
+const ver = process.env.VER || (fs.existsSync(path.join(process.env.SRC_ROOT ?? '', '..', '..', '..', '..', 'CURRENT_VERSION.txt')) 
+  ? fs.readFileSync(path.join(process.env.SRC_ROOT ?? '', '..', '..', '..', '..', 'CURRENT_VERSION.txt'),'utf-8').trim()
+  : (fs.existsSync('CURRENT_VERSION.txt') ? fs.readFileSync('CURRENT_VERSION.txt','utf-8').trim() : '')
+);
+if (!ver) { console.error('No version found (set VER=NN.N or ensure CURRENT_VERSION.txt in either repo)'); process.exit(1); }
+
+// Source root rules:
+// - If SRC_ROOT is set, it should point to ".../mirror/suite/help/<ver>".
+// - Else if SRC_DIR is set (points to ".../mirror/suite/help"), we'll join the version.
+// - Else default to local mirror/suite/help/<ver> (not used in your setup).
+const SRC_ROOT = process.env.SRC_ROOT
+  ? path.resolve(process.env.SRC_ROOT)
+  : (process.env.SRC_DIR ? path.resolve(process.env.SRC_DIR, ver) : path.join('mirror','suite','help',ver));
+const SRC = SRC_ROOT;
+
+const OUT = process.env.OUT_DIR || path.join('optimized-md','suite','help',ver);
+
+const SPLIT_OVER_KB   = Number(process.env.SPLIT_OVER_KB || 0);
+const CHUNK_TARGET_KB = Number(process.env.CHUNK_TARGET_KB || 200);
+const BIG_HTML_KB     = Number(process.env.BIG_HTML_KB || 1200);
+const SEG_TARGET_KB   = Number(process.env.SEG_TARGET_KB || 300);
+const PROGRESS_EVERY  = Number(process.env.PROGRESS_EVERY || 50);
+const SHARDS          = Number(process.env.SHARDS || 1);
+const SHARD           = Number(process.env.SHARD || 1);
+const SKIP_EXISTING   = String(process.env.SKIP_EXISTING || '1') !== '0';
+
+const STRIP_SELECTORS = [
+  'script','style','noscript','template','link','meta',
+  'nav','header','footer','aside','.breadcrumbs','.toc','.sidebar',
+  '.sidenav','.side-nav','.left-nav','.right-rail','.navbar','.masthead',
+  '.cookie-banner','.cookie','[role=banner]','[role=navigation]'
+];
+
+function* htmlFiles(dir) {
+  for (const name of fs.readdirSync(dir)) {
+    const p = path.join(dir, name);
+    const st = fs.statSync(p);
+    if (st.isDirectory()) yield* htmlFiles(p);
+    else if (/\.html?$/i.test(name)) yield p;
+  }
+}
+
+function pickMain(doc) {
+  const cands = ['main','article','[role=main]','.main','.main-content','.content','#content','.doc-content','.page-content','body'];
+  let best = doc.body, bestLen = (best?.textContent||'').length;
+  for (const sel of cands) {
+    const el = doc.querySelector(sel);
+    if (el) {
+      const len = (el.textContent||'').length;
+      if (len > bestLen * 0.9) { best = el; bestLen = len; }
+    }
+  }
+  return best || doc.body;
+}
+
+function toChunks(md, targetBytes) {
+  if (!targetBytes) return [md];
+  const lines = md.split('\n');
+  const chunks = [];
+  let cur = [], size = 0;
+  const flush = () => { if (cur.length) { chunks.push(cur.join('\n')); cur = []; size = 0; } };
+  for (const line of lines) {
+    const isBreak = line.startsWith('## ') || line.startsWith('### ');
+    if (isBreak && size > targetBytes) flush();
+    cur.push(line);
+    size += Buffer.byteLength(line + '\n');
+  }
+  flush();
+  // secondary pass if still huge
+  const out = [];
+  for (const c of chunks) {
+    if (Buffer.byteLength(c) <= targetBytes*1.2) { out.push(c); continue; }
+    const paras = c.split(/\n{2,}/);
+    let cur2 = [], sz2 = 0;
+    const flush2 = () => { if (cur2.length) { out.push(cur2.join('\n\n')); cur2 = []; sz2 = 0; } };
+    for (const p of paras) {
+      if (sz2 && (sz2 + Buffer.byteLength(p)) > targetBytes) flush2();
+      cur2.push(p); sz2 += Buffer.byteLength(p) + 2;
+    }
+    flush2();
+  }
+  return out;
+}
+
+function alreadyDone(outBase) {
+  const dir = path.dirname(outBase);
+  if (!fs.existsSync(dir)) return false;
+  if (fs.existsSync(outBase + '.md')) return true;
+  const prefix = path.basename(outBase) + '--p';
+  return fs.readdirSync(dir).some(n => n.startsWith(prefix) && n.endsWith('.md'));
+}
+
+function cheapStripHTML(html) {
+  return html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<(?:link|meta)[^>]*?>/gi, '')
+    .replace(/<header[\s\S]*?<\/header>/gi, '')
+    .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+    .replace(/<nav[\s\S]*?<\/nav>/gi, '');
+}
+
+function convertSnippetToMD(htmlSnippet) {
+  const dom = new JSDOM(`<body>${htmlSnippet}</body>`, { pretendToBeVisual: false });
+  const { document, defaultView } = dom.window;
+  const td = new TurndownService({ codeBlockStyle: 'fenced', headingStyle: 'atx', bulletListMarker: '-' });
+  td.use(gfm);
+  document.querySelectorAll('a').forEach(a => {
+    if ((a.textContent||'').match(/View this page in the latest version/i)) {
+      const parent = a.closest('div,section,aside,header,footer') || a;
+      parent?.remove();
+    }
+  });
+  let md = td.turndown(document.body.innerHTML);
+  defaultView?.close?.(); dom.window.close();
+  md = md.replace(/[ \t]+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
+  return md;
+}
+
+function convertFullHTMLToMD(html) {
+  const dom = new JSDOM(html, { pretendToBeVisual: false });
+  const { document, defaultView } = dom.window;
+  for (const sel of STRIP_SELECTORS) document.querySelectorAll(sel).forEach(el => el.remove());
+  document.querySelectorAll('a').forEach(a => {
+    if ((a.textContent||'').match(/View this page in the latest version/i)) {
+      const parent = a.closest('div,section,aside,header,footer') || a;
+      parent?.remove();
+    }
+  });
+  const main = pickMain(document);
+  const td = new TurndownService({ codeBlockStyle:'fenced', headingStyle:'atx', bulletListMarker:'-' });
+  td.use(gfm);
+  let md = (main ? td.turndown(main.innerHTML) : '');
+  defaultView?.close?.(); dom.window.close();
+  md = md.replace(/[ \t]+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
+  return md;
+}
+
+function convertLargeHTMLToMDChunks(html, targetBytes) {
+  const stripped = cheapStripHTML(html);
+  const parts = stripped.split(/(?=<h2\b[^>]*>)/gi);
+  const chunks = [];
+  let buf = '';
+  const limit = targetBytes || 300*1024;
+  const pushBuf = () => {
+    if (!buf) return;
+    chunks.push(convertSnippetToMD(buf));
+    buf = '';
+    globalThis.gc?.();
+  };
+  for (const part of parts) {
+    const newSize = Buffer.byteLength(buf) + Buffer.byteLength(part);
+    if (buf && newSize > limit) pushBuf();
+    buf += part;
+    if (Buffer.byteLength(buf) > limit*1.5) pushBuf();
+  }
+  pushBuf();
+  return chunks;
+}
+
+fs.mkdirSync(OUT, { recursive: true });
+
+let files = Array.from(htmlFiles(SRC));
+if (files.length === 0) {
+  console.error('No HTML files found at', SRC);
+  process.exit(2);
+}
+
+const SHARDS = Number(process.env.SHARDS || 1);
+const SHARD  = Number(process.env.SHARD  || 1);
+if (SHARDS > 1) {
+  if (SHARD < 1 || SHARD > SHARDS) { console.error(`Invalid SHARD=${SHARD} with SHARDS=${SHARDS}`); process.exit(1); }
+  files = files.filter((_, idx) => (idx % SHARDS) === (SHARD - 1));
+}
+
+const total = files.length;
+console.log(`Optimizing ${total} HTML file(s) from ${SRC} -> ${OUT}  ${SHARDS>1?`[shard ${SHARD}/${SHARDS}]`:''}`);
+
+let made = 0, kept = 0, bytes = 0;
+for (let i = 0; i < files.length; i++) {
+  if (i % PROGRESS_EVERY === 0 || i+1 === total) {
+    const pct = Math.round(((i+1)/total)*100);
+    process.stdout.write(`\rProcessed ${i+1}/${total} (${pct}%)`);
+  }
+  const file = files[i];
+
+  try {
+    const stat = fs.statSync(file);
+    const rel = path.relative(SRC, file).replace(/\\/g,'/');
+    const outBase = path.join(OUT, rel.replace(/\.html?$/i,''));
+    if (SKIP_EXISTING && alreadyDone(outBase)) continue;
+
+    const html = fs.readFileSync(file, 'utf-8');
+
+    let chunksMD;
+    if ((stat.size/1024) >= BIG_HTML_KB) {
+      chunksMD = convertLargeHTMLToMDChunks(html, (Number(process.env.SEG_TARGET_KB)||SEG_TARGET_KB)*1024);
+      if (!chunksMD.length) chunksMD = [''];
+    } else {
+      let md = convertFullHTMLToMD(html);
+      const overKB = SPLIT_OVER_KB && (Buffer.byteLength(md)/1024 > SPLIT_OVER_KB);
+      chunksMD = overKB ? toChunks(md, (Number(process.env.CHUNK_TARGET_KB)||CHUNK_TARGET_KB)*1024) : [md];
+    }
+
+    const srcUrl = `https://docs.appian.com/suite/help/${ver}/${rel}`;
+    fs.mkdirSync(path.dirname(outBase), { recursive: true });
+
+    if (chunksMD.length === 1) {
+      const out = outBase + '.md';
+      const fm = `---\nsource_url: ${srcUrl}\noriginal_path: ${rel}\nversion: "${ver}"\n---\n\n`;
+      const body = fm + (chunksMD[0] || '');
+      fs.writeFileSync(out, body);
+      made++; bytes += Buffer.byteLength(body);
+    } else {
+      chunksMD.forEach((c, idx) => {
+        const out = `${outBase}--p${String(idx+1).padStart(2,'0')}.md`;
+        const fm = `---\nsource_url: ${srcUrl}\noriginal_path: ${rel}\nversion: "${ver}"\npart: ${idx+1}/${chunksMD.length}\n---\n\n`;
+        const body = fm + c;
+        fs.writeFileSync(out, body);
+        made++; bytes += Buffer.byteLength(body);
+      });
+    }
+    kept++;
+    globalThis.gc?.();
+  } catch (e) {
+    console.error('\nFailed optimizing:', file, e?.message || e);
+  }
+}
+
+console.log('\n');
+const human = b => { const u=['B','KB','MB']; let i=0; while(b>=1024 && i<u.length-1){ b/=1024; i++; } return b.toFixed(1)+' '+u[i]; };
+console.log(`Optimized ${kept} pages into ${made} Markdown file(s), total ${human(bytes)} at ${OUT} ${SHARDS>1?`[shard ${SHARD}/${SHARDS}]`:''}`);
