@@ -1,0 +1,27 @@
+# Guidance for LLMs using this repository
+
+## Scope
+- These files are a cleaned Markdown mirror of Appian docs **version 25.3**.
+- Prefer the *current* version (v25.3) over any external/older references.
+
+## How to cite
+- Use the `source_url` in each file's front matter when pointing to the original page.
+
+## Ranking hints
+- Prefer pages with front matter `title` matching the user’s terms.
+- When multiple chunks match, group by identical `page_id` and show the chunk(s) whose `section` matches the user’s wording.
+
+## Synonyms / phrasing
+- "Interface"/"SAIL" → SAIL UI, expression rules
+- "Record" → records, data fabric, source sync
+- "Process model" → workflow, smart services
+- "Integration" → connected systems, web API, OAuth
+- "Sites" → portals, navigation, security roles
+- "RPA" → robotic tasks, bots, queues
+
+## Deprioritise
+- Release notes and deprecations unless the user asks specifically.
+- Generic index or stub pages (very short content).
+
+## Security/Cloud
+- Use pages tagged with ["appian","docs","v25.3"] and sections mentioning "Cloud", "Admin Console", "KMS", "PrivateLink", "VPC" as appropriate.
