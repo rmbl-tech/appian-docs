@@ -1,0 +1,81 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/Multiple_Designers_Editing_the_Same_Design_Object.html
+original_path: Multiple_Designers_Editing_the_Same_Design_Object.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# Object Overwrite Prevention
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+## Overview
+
+This page explains how Appian handles multiple attempts to edit the same [design object](design-objects.html) at the same time. In these situations, Appian protects developers from unintentionally overwriting each other's work in a number of ways. First, developers receive notifications about other edits taking place. Second, Appian does not silently overwrite objects when a package is imported if those objects are being edited. Third, if a new version is added after you've opened an object, Appian warns you before you save another new version over it.
+
+## Editing notifications
+
+To prevent developers from accidentally overwriting each other's changes, Appian provides notifications when you open a design object that's in the process of being updated. The following objects have editing notifications:
+
+-   [Custom Data Types](Custom_Data_Types.html)
+-   [Decisions](Decisions.html)
+-   [Expression Rules](Expression_Rules.html)
+-   [Interfaces](interface_object.html)
+-   [Integrations](Integration_Object.html)
+-   [Record Types](Record_Type_Object.html)
+-   [Robotic Tasks](rpa-9.17/robotic-task-definition.html)
+-   [Sites](Sites.html)
+-   [Web APIs](Web_APIs.html)
+
+Once you begin editing one of the above objects, other developers are warned when they open or try to update the same object. You are also warned if you try to edit the same object in more than one window or browser.
+
+![editing awareness warning](images/EditingAwarenessWarning.png)
+
+Once warned, evelopers can open the object in read-only mode, which allows them to take any action available to a Viewer. They also have the option to edit the object anyway, although this introduces the risk of losing work. If a designer decides to edit despite the warning, the original editor will be alerted and encouraged to coordinate changes with them.
+
+### Differences for process models
+
+Developers are blocked from editing a process model once another designer opens the model, as opposed to being blocked only once an edit is made. Any other designer trying to open or import the model receives an editing notification. The process model editing notifications are user-specific, but not session-specific, so a single designer can open the same model in different browsers and not receive an editing warning.
+
+## Protection during import
+
+Following the pattern of process models, design objects with [editing notifications](#editing-notifications) cannot be imported when a different designer is in the process of making updates. If you try to import an object that is being edited, you will receive an error including the username of the person editing the object in the target environment and the object will not be imported. If you encounter this issue, get the other designer to close the object or log out of their session.
+
+See also: [Issues During Export or Import](resolve-deployment-issues.html)
+
+## Saving with an outdated version
+
+The **Version Out of Date** warning is another protection against unintentionally overwriting work. Developers receive this warning when they try to save a design object that has had a new version added since they started editing it. This notification applies to the following objects with versions:
+
+-   [Decisions](Decisions.html)
+-   [Expression Rules](Expression_Rules.html)
+-   [Interfaces](interface_object.html)
+-   [Integrations](Integration_Object.html)
+-   [Web APIs](Web_APIs.html)
+
+This warning gives the designer an opportunity to review the version history and incorporate changes before creating their new version, which will become immediately available to other objects.
+
+![outdated version](images/OutdatedVersion.png)
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...

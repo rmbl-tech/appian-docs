@@ -1,0 +1,296 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/Customizing_Application_Logging.html
+original_path: Customizing_Application_Logging.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# Customizing Log Output
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+## Overview
+
+This page describes Appian logging configuration settings and what changes you can make to capture more detailed information about application behavior.
+
+-   Timestamps listed in the Appian log files are recorded in Greenwich Mean Time (GMT).
+
+-   For more information about Log4j, see the [Apache Log4j2 documentation](https://jakarta.apache.org/log4j).
+
+## Application logging
+
+To configure logging for the Appian application, do one of the following:
+
+-   Make your desired setting changes in the following file:
+
+    ```
+    1
+      <APPIAN_HOME>/deployment/web.war/WEB-INF/resources/appian_log4j.properties
+    ```
+
+-   Create or update a custom `log.properties` file.
+
+See also: [Custom Logging Configuration Files](#custom-logging-configuration-files).
+
+Custom settings set in the `appian_log4j.properties` file are reset to Appian defaults when you patch or upgrade your installation. Keep a backup of your `appian_log4j.properties` file so you can restore your custom settings after upgrading. Custom `log.properties` files are retained during upgrades.
+
+## Search server logging
+
+To configure search server logging for the Appian application:
+
+-   Make your desired setting changes in the following file:
+
+    ```
+    1
+     <APPIAN_HOME>/search-server/conf/log4j2.properties`.
+    ```
+
+Custom settings set in the `log4j2.properties` file are reset to Appian defaults when you patch or upgrade your installation. Keep a backup of your `log4j2.properties` file so you can restore your custom settings after upgrading.
+
+## Log file location
+
+The directory where log files are written is controlled by the following property, in `custom.properties`:
+
+```
+1
+conf.suite.AE_LOGS=<install_dir>/logs/
+```
+
+See also: [Custom Configurations](Custom_Configurations.html)
+
+## Changing logging levels
+
+The following table provides a list of the different logging levels that you can specify for each component and their descriptions.
+
+| Logging Level | Description |
+| --- | --- |
+| DEBUG | All informational events that occur within the package being logged |
+| INFO | Informational messages that highlight application progress |
+| WARN | Potentially harmful situations |
+| ERROR | All error messages that occur when the application is running |
+| FATAL | Severe events that could cause the application to abort |
+
+When a logger is configured to output log entries at a certain level, it also writes any log entries of greater importance, as defined above. For instance, if it is set to `WARN`, the logger also outputs `ERROR` and `FATAL` log entries. If it is set to `DEBUG`, the logger writes all entries.
+
+During development, we recommend that you raise the logging level to `INFO` or `WARN`. In production increased logging can negatively impact system performance, so we recommend that you lower the logging level to `ERROR` once in production.
+
+## Common logging changes
+
+### HTML filtering
+
+Certain HTML tags and tag attributes are forbidden as inputs and are filtered out at runtime. When a forbidden input is encountered, a message like the following is logged.
+
+```
+1
+com.appiancorp.security.util.StringSecurityUtils - The HTML tag contained an attribute that we could not process. The request attribute has been filtered out, but the tag is still in place. The value of the attribute was ...
+```
+
+These messages are logged when the following logger in `appian_log4j.properties` is set to the `WARN` level. By default, it is set to `ERROR`.
+
+```
+1
+log4j.logger.com.appiancorp.security.util.StringSecurityUtils=ERROR
+```
+
+### Performance logging
+
+-   Engine Performance is automatically logged at the `INFO` level, as listed in `log.properties`.
+
+-   You can enable database performance logging and in `log4j.properties`, including Tempo database performance logging.
+
+See also: [Performance Monitoring Log Files](Logging.html#monitoring-performance-and-usage).
+
+### Database integration details
+
+To log the details of the Write to Data Store smart services and [Query Rules](Query_Rules.html), add the following loggers:
+
+```
+1
+2
+3
+4
+ # Output SQL statements
+ log4j.logger.org.hibernate.SQL=DEBUG
+ # Output param values within SQL statements
+ log4j.logger.org.hibernate.type=TRACE
+```
+
+To view the calls made by the Query Database Node, add the following logger:
+
+```
+1
+log4j.logger.com.appiancorp.process.runtime.activities.QueryRdbmsActivity=DEBUG
+```
+
+### Debugging CDTs created by plug-ins
+
+When creating custom data types using a Java object in a plug-in, you can review the XSD being generated by the Java object by adding the following logger to `log4j.properties`:
+
+```
+1
+log4j.logger.com.appiancorp.common.xml.JaxbXsdGenerator=DEBUG
+```
+
+See also: [Custom Data Types from Java Object](Custom_Data_Types_from_Java_Object.html)
+
+## Customizing logging
+
+The `appian_log4j.properties` file allows administrators to set up customized logging for different components of Appian.
+
+### Creating a custom logger
+
+You can create customized loggers in the `appian_log4j.properties` file by entering the package you want logged using the following pattern:
+
+```
+1
+log4j.logger.<package_name>=<logging_level>
+```
+
+For example, to add a custom logger at the `DEBUG` level for the portal component only, type the following statement in the `appian_log4j.properties` file:
+
+```
+1
+log4j.logger.com.appiancorp.ap2=DEBUG
+```
+
+For each logger, you can configure the logging level. (The output formats, or appenders, vary according to property file used.) You can also configure groups of loggers using parent packages. For instance, if you configure `com.appiancorp.common`, then its log level applies to any classes in that package and any of its subpackages (recursively). log4j uses the most specific configuration available for a particular logger, so if both `com.appiancorp.common` and `com.appiancorp.common.struts.BaseAction` are configured, it uses the latter's configuration because it is more specific.
+
+### Appenders
+
+In the `appian_log4j.properties` file, appenders are used to define the output formats of the log file messages. The appenders are listed in the root logger, which uses the following convention:
+
+```
+1
+log4j.rootLogger=<LOGGING_LEVEL>, <APPENDER_NAME_1>, <APPENDER_NAME_2>
+```
+
+In the following example, the root logger statement writes ERROR level messages (and above) using two appenders (console for and a named text file appender for ):
+
+```
+1
+log4j.rootLogger=ERROR, CONSOLE, WORK_POLLER
+```
+
+This sample appender (named the WORK\_POLLER appender) writes messages to a text file named `work-poller.log`.
+
+```
+1
+2
+3
+4
+5
+6
+7
+###### WORK_POLLER appender
+log4j.appender.WORK_POLLER.layout=org.apache.log4j.PatternLayout
+log4j.appender.WORK_POLLER.layout.ConversionPattern=%d{ABSOLUTE} %-5p [%c{1}] %m%n
+log4j.appender.WORK_POLLER=org.apache.log4j.RollingFileAppender
+log4j.appender.WORK_POLLER.File=${AE_LOGS}/work-poller.log
+log4j.appender.WORK_POLLER.MaxFileSize=10MB
+log4j.appender.WORK_POLLER.MaxBackupIndex=<b>1000</b>
+```
+
+### Changing the logging directory or filename
+
+The log file name and path is determined by the `log4j.appender.<APPENDER_NAME>.File` property (in `<APPIAN_HOME>/deployment/web.war/WEB-INF/resources/appian_log4j.properties`). In the prior example, the `log4j.appender.WORK_POLLER.File` property is set to write to the `work-poller.log` file in the `<APPIAN_HOME>/logs/` directory. You can modify this property to write to a different directory and or filename.
+
+### Changing log syntax
+
+The pattern of the log message is defined in the `log4j.appender.<APPENDER_NAME>.layout.ConversionPattern` property. You can modify this property based on various options defined in the Log4j documentation.
+
+See also: [Log4j Documentation](https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/PatternLayout.html).
+
+## Backup and remove log files
+
+Appian stores its log files in the `<APPIAN_HOME>/logs/` directory. The maximum size for any log file is determined by the `log4j.appender.<APPENDER_NAME>.MaxFileSize` property, which has been set to `10MB`. Modify this property to increase or decrease the maximum size of the file.
+
+Each time the size of the file exceeds what is allowed, a new file is created. The number of files that are created are limited by the `log4j.appender.<APPENDER_NAME>.MaxBackupIndex` property. The default value of this property is `1000`.
+
+Log file maintenance is handled by the cleanup script: `<APPIAN_HOME>/server/_scripts/cleanup.bat (.sh)`.
+
+See also: [Data Maintenance](Data_Maintenance.html)
+
+## Application engine logging
+
+The `log.properties` file is used to configure logging for the Appian Real-time database processes in Appian. It is located within the `<APPIAN_HOME>/server/_conf/logging/` directory. This properties file uses the same configuration settings and conventions as the `appian_log4j.properties` file - and is configured in the same manner. The log entries are written to the `<APPIAN_HOME>/logs/` directory.
+
+### Custom logging configuration files
+
+To customize logging for a specific engine:
+
+1.  Create a complete duplicate of the `appian_log.properties` configuration file, in the same directory.
+
+2.  Name the file `log_db_YY.properties` according to the below table.
+
+3.  Edit the log file settings as needed.
+
+The following table describes the logging property file names that can be used to customize logging for an individual application engine.
+
+| Service Name | Custom Server Logging File |
+| --- | --- |
+| Channels | log\_db\_CH.properties |
+| Collaboration Statistics | log\_db\_CS.properties |
+| Collaboration | log\_db\_CO.properties |
+| Notifications Email | log\_db\_NE.properties |
+| Notifications Service | log\_db\_NO.properties |
+| Personalization | log\_db\_PE.properties |
+| Portal | log\_db\_PO.properties |
+| Discussion Forums | log\_db\_DF.properties |
+| Process-Analytics | log\_db\_PA.properties |
+| Process-Execution | log\_db\_PX.properties |
+| Process-Design | log\_db\_PD.properties |
+
+### Custom log files generated
+
+| Engine Server | Server Log File Name (included ID and timestamp ) | Gateway Log File Name |
+| --- | --- | --- |
+| Channels | db\_CH1\_<date>\_<number>.log | channels.log |
+| Collaboration Statistics | db\_CS1\_<date>\_<number>.log | download-stats.log |
+| Collaboration | db\_CO1\_<date>\_<number>.log | content.log |
+| Notifications Email | db\_NE1\_<date>\_<number>.log | notifications-email.log |
+| Notifications | db\_NO1\_<date>\_<number>.log | notifications.log |
+| Personalization | db\_PE1\_<date>\_<number>.log | groups.log |
+| Portal | db\_PO1\_<date>\_<number>.log | portal.log |
+| Discussion Forums | db\_DF1\_<date>\_<number>.log | forums.log |
+| Process-Analytics | db\_PA00001\_<date>.log
+db\_PA00011\_<date>.log
+db\_PA00021\_<date>.log
+db\_PA000_n_1\_<date>.log
+ | analytics00.log
+analytics01.log
+analytics02.log
+analytics_nn_.log
+ |
+| Process-Execution | db\_PX001\_<date>\_<number>.log
+db\_PX011\_<date>\_<number>.log
+db\_PX021\_<date>\_<number>.log
+db\_PX0_n_1\_<date>\_<number>.log
+ | execution00.log
+execution01.log
+execution02.log
+execution_nn_.log
+ |
+| Process-Design | db\_PD1\_<date>\_<number>.log | process-design.log |
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...

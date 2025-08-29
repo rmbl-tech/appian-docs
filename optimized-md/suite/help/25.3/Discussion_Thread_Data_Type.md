@@ -1,0 +1,37 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/Discussion_Thread_Data_Type.html
+original_path: Discussion_Thread_Data_Type.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# Discussion Thread Data Type \[Deprecated\]
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+This data type has been [deprecated](Deprecated_Features.html) and will be removed in a future release of Appian.
+
+Designers should use [Social Smart Services](Smart_Services.html) rather than Forum Management Smart Services for all process-based collaboration. See [News](News.html) for additional information on collaboration functionality.
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...

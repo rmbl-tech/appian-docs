@@ -1,0 +1,5 @@
+{
+  "projectTitle": "Appian Docs (Optimized, Latest)",
+  "includeGlobs": ["**/*.md"],
+  "excludeGlobs": []
+}

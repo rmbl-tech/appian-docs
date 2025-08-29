@@ -1,0 +1,403 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/Checkbox_By_Index_Component.html
+original_path: Checkbox_By_Index_Component.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# Checkbox By Index Component
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+## Function
+
+**a!checkboxFieldByIndex**( _label, instructions, required, disabled, choiceLabels, value, validations, saveInto, validationGroup, requiredMessage, align, labelPosition, helpTooltip, choiceLayout, accessibilityText, showWhen, choiceStyle, choicePosition_ )
+
+Displays a limited set of choices from which the user may select none, one, or many items and saves the indices of the selected choices. To save a value instead of an index, use [checkboxes](Checkbox_Component.html). This component is not available from the interface component picker in the design view.
+
+## Parameters
+
+| Name | Keyword | Types | Description |
+| --- | --- | --- | --- |
+|
+Label
+
+ |
+
+`label`
+
+ |
+
+_Text_
+
+ |
+
+Text to display as the field label.
+
+ |
+|
+
+Instructions
+
+ |
+
+`instructions`
+
+ |
+
+_Text_
+
+ |
+
+Supplemental text about this field.
+
+ |
+|
+
+Required
+
+ |
+
+`required`
+
+ |
+
+_Boolean_
+
+ |
+
+Determines if a value is required to submit the form. Default: false.
+
+ |
+|
+
+Disabled
+
+ |
+
+`disabled`
+
+ |
+
+_Boolean_
+
+ |
+
+Determines if the field should display as potentially editable but grayed out. Default: false.
+
+ |
+|
+
+Choice Labels
+
+ |
+
+`choiceLabels`
+
+ |
+
+_List of Text String_
+
+ |
+
+Array of options for the user to select.
+
+ |
+|
+
+Display Value
+
+ |
+
+`value`
+
+ |
+
+_List of Number (Integer)_
+
+ |
+
+Indices of choices to display as selected.
+
+ |
+|
+
+Validations
+
+ |
+
+`validations`
+
+ |
+
+_List of Text String_
+
+ |
+
+Validation errors to display below the field when the value is not null.
+
+ |
+|
+
+Save Input To
+
+ |
+
+`saveInto`
+
+ |
+
+_List of Save_
+
+ |
+
+One or more variables that are updated with the choice indexes when the user changes the selections. Use a!save() to save a modified or alternative value to a variable.
+
+ |
+|
+
+Validation Group
+
+ |
+
+`validationGroup`
+
+ |
+
+_Text_
+
+ |
+
+When present, the requiredness of the field is only evaluated when a button in the same validation group is pressed. The value for this parameter cannot contain spaces. For example, `“validation group”` is not a valid value. You need to add an underscore between words: `“validation_group”`. See the following recipes for more information:
+
+-   [Configure Buttons with Conditional Requiredness](recipe-configure-buttons-with-conditional-requiredness.html)
+-   [Validation Groups for Buttons with Multiple Validation Rules](recipe-use-validation-group-for-buttons-with-multiple-validation-rules.html)'
+
+ |
+|
+
+Required Message
+
+ |
+
+`requiredMessage`
+
+ |
+
+_Text_
+
+ |
+
+Custom message to display when the field's value is required and not provided.
+
+ |
+|
+
+Alignment
+
+ |
+
+`align`
+
+ |
+
+_Text_
+
+ |
+
+Determines alignment of choice labels. Appian recommends this setting only be used inside the Grid Layout component. Valid values: `"LEFT"`, `"CENTER"`, `"RIGHT"`.
+
+ |
+|
+
+Label Position
+
+ |
+
+`labelPosition`
+
+ |
+
+_Text_
+
+ |
+
+Determines where the label appears. Valid values:
+
+-   `"ABOVE"` (default) Displays the label above the component.
+-   `"ADJACENT"` Displays the label to the left of the component.
+-   `"COLLAPSED"` Hides the label. The label will still be read by screen readers; see [accessibility considerations](building_accessible_applications.html) for more information.
+-   `"JUSTIFIED"` Aligns the label alongside the component starting at the edge of the page.
+
+ |
+|
+
+Help Tooltip
+
+ |
+
+`helpTooltip`
+
+ |
+
+_Text_
+
+ |
+
+Displays a help icon with the specified text as a tooltip. The tooltip displays a maximum of 500 characters. The help icon does not show when the label position is `"COLLAPSED"`.
+
+ |
+|
+
+Choice Layout
+
+ |
+
+`choiceLayout`
+
+ |
+
+_Text_
+
+ |
+
+Determines the layout. Valid values include `"STACKED"` (default) to display the choices one on top of another and `"COMPACT"` to display the choices side-by-side.
+
+ |
+|
+
+Accessibility Text
+
+ |
+
+`accessibilityText`
+
+ |
+
+_Text_
+
+ |
+
+Additional text to be announced by screen readers. Used only for accessibility; produces no visible change.
+
+ |
+|
+
+Show When
+
+ |
+
+`showWhen`
+
+ |
+
+_Boolean_
+
+ |
+
+Determines whether the component is displayed on the interface. When set to false, the component is hidden and is not evaluated. Default: true.
+
+ |
+|
+
+Choice Style
+
+ |
+
+`choiceStyle`
+
+ |
+
+_Text_
+
+ |
+
+Determines how the choices should be displayed on the interface. Valid values: `"STANDARD"` (default), `"CARDS"`.
+
+ |
+|
+
+Choice Position
+
+ |
+
+`choicePosition`
+
+ |
+
+_Text_
+
+ |
+
+Determines whether radio buttons appear on the left or right of the choice labels. Valid values: "START" (default for "STANDARD" choiceStyle), "END" (default for "CARDS" choiceStyle).
+
+ |
+
+## Usage Considerations
+
+### Saving values
+
+-   If a single item is selected, the system saves a single-item array.
+-   If no selection is made, the system saves a null value into the component's _saveInto_ parameter. If a single item is selected, the system saves a single-item array.
+
+### Using the choiceLayout, choiceStyle, and choicePosition parameters
+
+See the SAIL Design System for [choice best practices](sail/ux-inputs.html#choice-best-practices).
+
+### Using the choiceLabels and choiceLayout parameters
+
+-   Choices display in the same order as defined in the _choiceLabels_ parameter. The _choiceLabels_ argument cannot be null.
+-   The `"COMPACT"` option for _choiceLayout_ should only be used for checkboxes with short choice labels, such as "Yes", "No", or "Maybe". When using the `"COMPACT"` option, labels with text longer than two lines will be truncated.
+-   For long labels, use the `"STACKED"` option for _choiceLayout_.
+
+## Feature compatibility
+
+The table below lists this component's compatibility with various features in Appian.
+
+| Feature | Compatibility | Note |
+| --- | --- | --- |
+| Portals | Compatible |  |
+| Offline Mobile | Compatible |  |
+| Sync-Time Custom Record Fields | Incompatible |  |
+| Real-Time Custom Record Fields | Incompatible |
+Custom record fields that evaluate in real time must be configured using one or more Custom Field functions.
+
+ |
+| Process Reports | Incompatible |
+
+Cannot be used to configure a [process report](Process_Reports.html).
+
+ |
+| Process Events | Incompatible |
+
+Cannot be used to configure a process event node, such as a start event or timer event.
+
+ |
+| Process Autoscaling | Incompatible |
+
+Cannot be used in autoscaled processes.
+
+ |
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...
