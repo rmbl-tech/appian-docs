@@ -1,0 +1,263 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/reference-manifest.html
+original_path: reference-manifest.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# Configuration Files
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+This page contains reference information about the configuration files used to define your component plug-in.
+
+Every component plug-in requires two configuration files:
+
+-   The plug-in manifest (`appian-component-plugin.xml`)
+-   The default internationalization bundle (**\*\_en\_US.properties**)
+
+**Tip:**  This version of Appian supports component plug-ins that use [SDK version](#component) 2.0.0. Refer to the [Integration SDK compatibility table](integration-sdk-versions.html) for version details.
+
+## Plug-in manifest
+
+The component plug-in manifest file (`appian-component-plugin.xml`) specifies the individual components provided by your plug-in, including their inputs, outputs, versions, and more.
+
+**Important**: Every component plug-in must have a manifest file at the root of the [plug-in ZIP](reference-structure.html). If this file is not present, the plug-in will not be deployed.
+
+**Tip:**  When creating an interface, developers can [see information from the plug-in manifest](working_in_design_mode.html#adding-component-plug-ins) including who built a component, whether it's supported, the support contact details, and the available languages and browsers/mobile clients.
+
+### appian-component-plugin
+
+This tag is the main parent element. This element defines the plug-in properties and references.
+
+-   `name` attribute: Name of the plug-in. Used for documentation purposes only.
+-   `key` attribute: Plug-in key. Must be unique among all Appian plug-ins. Use a URN prefix based on your website domain (For example: for Appian, `com.appian.my_plugin`)
+
+### plugin-info
+
+This element contains plug-in metadata, including the following subelements:
+
+-   `description`: Description of the entire plug-in. Displayed on the [Plug-ins page](Appian_Administration_Console.html#plug-ins) in the Admin Console.
+-   `version`: Plug-in version (For example: `2.1.0`). Installing a newer version will override older versions. We recommend including the plug-in version in the package filename.
+-   `vendor`: Vendor information. See [vendor](#vendor) for details.
+-   `support`: Support information. See [support](#support) for details.
+
+### vendor
+
+This element includes information about your organization.
+
+-   `name` attribute: Name of your organization. Displayed in the component documentation to identify the plug-in creator.
+-   `url` attribute: URL of your organization's website. Must include the scheme (For example: `http://www.appian.com`).
+
+### support
+
+This element includes information that helps Appian developers get support when using your component plug-in in their applications.
+
+-   `supported` attribute: Boolean flag to indicate whether your organization provides support for this plug-in. Valid values: `true`, `false`. **Only set this value to `true` if you plan to provide official support to customers!**
+-   `phone` attribute: Phone number for requesting support
+-   `email` attribute: Email address for requesting support
+-   `url` attribute: Website for requesting support
+
+If your plug-in will be supported, at least one form of support contact (`phone`, `email`, or `url`) must be provided. If you choose not to provide official support you can still provide unofficial support contacts. Use `https://community.appian.com` if you want customers to discuss your plug-in on the Appian Community site.
+
+### component
+
+This element defines a single component version. You can specify multiple components and multiple versions of each component in a single manifest file.
+
+-   `rule-name` attribute: Rule name used to reference this component in an Appian interface. Must be unique across all component plug-ins and existing Appian functions.
+-   `version` attribute: Component version (For example: `1.2.1`). The component rule-name and major version number must be unique (For example: `1.2.1` and `2.2.1` are valid, but `1.2.1` and `1.2.2` are not). Only the latest version of this component will be displayed when building interfaces in Appian. See [versioning](component-versioning.html) for more details.
+-   `icon-name`: Name of an [existing icon](Appian_Icons.html) to display for this component in the [component palette](working_in_design_mode.html#using-the-palette).
+-   `icon-file`: Path to an SVG image to display for this component in the [component palette](working_in_design_mode.html#using-the-palette). The path should be relative from the [component version folder](reference-structure.html) (For example: `images/icon.svg`).
+-   `parameter`: One or more parameters for your component. See [parameter](#parameter) for details.
+-   **html-entry-point**: Path to the initial HTML page to load for this component. The path should be relative from the [component version folder](reference-structure.html) (For example: `index.html`).
+-   `sdk-version`: Minimum [JavaScript API](reference-js-api.html) version required by this component (For example: `2.0.0`). Refer to the [Integration SDK compatibility table](integration-sdk-versions.html) for details.
+-   `supported-user-agents`: Space-delimited list of supported browsers and mobile clients. Valid values: `chrome`, `firefox`, `edge`, `safari`, `mobile`.
+
+You must provide either `icon-name` or `icon-file`, but not both.
+
+Component rule names should match existing Appian component conventions:
+
+-   Use camelCase (For example: `textField`)
+-   Rules should end with either:
+    -   **Field**: For components that accept user input and save values to an **input-output** or **event** parameter (For example: `paragraphField`)
+    -   **DisplayField**: For components that display data, or allow user interaction but don't save values to the interface and only have **input-only** parameters (For example: `richTextDisplayField`)
+-   While many Appian components end with **Layout**, component plug-ins can't contain other components and therefore shouldn't use the **Layout** suffix
+
+### parameter
+
+This element defines a single parameter tag. A component can have multiple parameters.
+
+-   `name`: Name of this parameter
+-   `type`: Appian data type of this parameter. Valid values: `Boolean`, `ConnectedSystem`, `Decimal`, `enum` ([example1](https://github.com/appian/integration-sdk-examples/blob/master/Component%20Plug-in%20\(CP\)%20Examples/mapField/appian-component-plugin.xml), [example2](https://github.com/appian/integration-sdk-examples/blob/master/Component%20Plug-in%20\(CP\)%20Examples/backgroundColor/appian-component-plugin.xml)), `Integer`, `Text`, `Dictionary`, `Variant`, `Boolean?list`, `Decimal?list`, `Integer?list`, `Text?list`, `Dictionary?list`, `Variant?list`.
+-   `category`: Mode of this parameter. Valid values:
+    -   `input-only`: Values can be passed into the component, but are not updated by the component
+    -   `input-output`: Values can be passed into the component and can be updated by the component. Corresponding parameters for `<name>Value` (matching the defined type) and `<name>SaveInto` (`List of Save`) will be generated automatically.
+    -   `event`: Values can be updated by the component. The parameter type does not need to be provided and always will be `List of Save`.
+
+Parameter names should match existing Appian component parameter conventions:
+
+-   Use camelCase (For example: `labelPosition`)
+-   Boolean parameters should have appropriate verb prefixes: is, enable, hide, show, validate, etc.
+-   **Event** parameters should start with **on** (For example: `onLocationChange`)
+
+**Tip:**  Components automatically [inherit a set of parameters](component-design.html#common-parameters) for common attributes. Don't include these parameters in your plug-in manifest.
+
+## Internationalization bundles
+
+Internationalization bundles specify the friendly names of your components and parameters and their descriptions in each support language. These values are displayed to Appian developers in the component palette, component configuration pane, and in-line documentation. Bundles filenames must use the [component rule-name](#component) and [locale code](Appian_Administration_Console.html#locale-settings): `<rule-name>_<language_code>.properties` (filenames are case-sensitive).
+
+**Important**: Every [component version folder](reference-structure.html) must have the default `<rule-name>_en_US.properties` bundle. If this file is not present with the required property values for your components, the plug-in will not be deployed.
+
+### Components
+
+Each component must have the following properties defined:
+
+-   `name`: Friendly name of this component
+-   `description`: Description of this component. A good component description will briefly explain the features and intended use.
+
+Component friendly names should match the **rule-name** as closely as possible with the following considerations:
+
+-   Friendly names should use proper casing with spaces between words (For example: `Rich Text`)
+-   Don't include the **Field** or **DisplayField** suffix (For example: `textField` is simply `Text`)
+-   The component palette is sorted by name. Use a common prefix if you want several components in a plug-in to appear next to each other.
+-   Make sure your components can be uniquely identified by the first 20-25 characters. The component palette will truncate longer names with `...`.
+
+### Parameters
+
+Parameters with [category](#parameter) `input-only` or `event` must have the following properties:
+
+-   `parameter.< parameter name >.name`: Friendly name of this component parameter
+-   `parameter.< parameter name >.description`: Description of this component parameter
+
+Parameters with [category](#parameter) `input-output` must have the following properties:
+
+-   `parameter.< parameter name >Value.name`: Friendly name of the input for this component parameter
+-   `parameter.< parameter name >SaveInto.name`: Friendly name of the output for this component parameter
+-   `parameter.< parameter name >.description`: Description of this component parameter
+
+Parameter friendly names should match the parameter name as closely as possible with the following considerations:
+
+-   Friendly names should use proper casing with spaces between words (For example: `Label Position`, `On Location Change`).
+
+Parameter descriptions should:
+
+-   Briefly explain the purpose of the parameter.
+-   Indicate whether the parameter is optional, and what the default value is when no input is provided.
+-   Provide a list of valid values or expected input/output formats (especially for complex parameter types).
+
+### Unicode properties
+
+Property values for languages with unicode characters (For example, Arabic, Chinese, Japanese, Russian, and any characters with character accents) need to be specified using escaped unicode. If they are not, the translations do not render properly on Appian. There are a number of online converters available. [This one](https://r12a.github.io/app-conversion/) works well if you use the **JavaScript/Java/C** conversion with **C-style** output.
+
+Example: `أَهْلاً وَسَهْلاً` should be entered as `\u0623\u064E\u0647\u0652\u0644\u0627\u064B \u0648\u064E\u0633\u064E\u0647\u0652\u0644\u0627\u064B`
+
+## Examples
+
+**appian-component-plugin.xml**
+
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+<?xml version="1.0" encoding="UTF-8"?>
+<appian-component-plugin name="Map Component Plug-in" key="com.example.map">
+  <plugin-info>
+    <description>Provides a Map Component Plug-in backed by Google Maps</description>
+    <vendor name="Example" url="http://www.example.com" />
+    <support supported="true" email="support@example.com" url="https://community.example.com"/>
+    <version>1.0.0</version>
+  </plugin-info>
+  <component rule-name="mapField" version="1.0.0">
+    <sdk-version>2.0.0</sdk-version>
+    <icon-file>google-maps.svg</icon-file>
+    <parameter>
+      <name>key</name>
+      <category>input-only</category>
+      <type>Text</type>
+    </parameter>
+    <parameter>
+      <name>location</name>
+      <category>input-only</category>
+      <type>Text</type>
+    </parameter>
+    <parameter>
+      <name>pin</name>
+      <category>input-output</category>
+    </parameter>
+    <html-entry-point>index.html</html-entry-point>
+    <supported-user-agents>chrome firefox edge safari mobile</supported-user-agents>
+  </component>
+</appian-component-plugin>
+```
+
+**mapField\_en\_US.properties**
+
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+name=Map
+description=Map component which is backed by Google Maps. Allows a user to drop a pin.
+parameter.location.name=Location
+parameter.location.description=Location for which to display a map. May be a country, city, full address, or anything the Google Geocoding API supports (https://developers.google.com/maps/documentation/geocoding/intro).
+parameter.pinValue.name=Pin Value
+parameter.pinSaveInto.name=Pin Save Input To
+parameter.pin.description=A dictionary representing a pin on the map with the format {lat: 38.89, lng: -77.03}
+parameter.key.name=Google API Key
+parameter.key.description=Key used to activate the Google Maps JavaScript API
+```
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...

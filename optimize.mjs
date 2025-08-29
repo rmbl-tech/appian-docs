@@ -4,16 +4,14 @@ import { JSDOM } from 'jsdom';
 import TurndownService from 'turndown';
 import { gfm } from 'turndown-plugin-gfm';
 
-const ver = process.env.VER || (fs.existsSync(path.join(process.env.SRC_ROOT ?? '', '..', '..', '..', '..', 'CURRENT_VERSION.txt')) 
-  ? fs.readFileSync(path.join(process.env.SRC_ROOT ?? '', '..', '..', '..', '..', 'CURRENT_VERSION.txt'),'utf-8').trim()
-  : (fs.existsSync('CURRENT_VERSION.txt') ? fs.readFileSync('CURRENT_VERSION.txt','utf-8').trim() : '')
-);
-if (!ver) { console.error('No version found (set VER=NN.N or ensure CURRENT_VERSION.txt in either repo)'); process.exit(1); }
+const ver =
+  process.env.VER
+  || (process.env.SRC_ROOT && fs.existsSync(path.join(process.env.SRC_ROOT, '..', '..', '..', '..', 'CURRENT_VERSION.txt'))
+      ? fs.readFileSync(path.join(process.env.SRC_ROOT, '..', '..', '..', '..', 'CURRENT_VERSION.txt'),'utf-8').trim()
+      : (fs.existsSync('CURRENT_VERSION.txt') ? fs.readFileSync('CURRENT_VERSION.txt','utf-8').trim() : '')
+    );
+if (!ver) { console.error('No version found (set VER=NN.N or ensure CURRENT_VERSION.txt).'); process.exit(1); }
 
-// Source root rules:
-// - If SRC_ROOT is set, it should point to ".../mirror/suite/help/<ver>".
-// - Else if SRC_DIR is set (points to ".../mirror/suite/help"), we'll join the version.
-// - Else default to local mirror/suite/help/<ver> (not used in your setup).
 const SRC_ROOT = process.env.SRC_ROOT
   ? path.resolve(process.env.SRC_ROOT)
   : (process.env.SRC_DIR ? path.resolve(process.env.SRC_DIR, ver) : path.join('mirror','suite','help',ver));
@@ -45,7 +43,6 @@ function* htmlFiles(dir) {
     else if (/\.html?$/i.test(name)) yield p;
   }
 }
-
 function pickMain(doc) {
   const cands = ['main','article','[role=main]','.main','.main-content','.content','#content','.doc-content','.page-content','body'];
   let best = doc.body, bestLen = (best?.textContent||'').length;
@@ -58,36 +55,27 @@ function pickMain(doc) {
   }
   return best || doc.body;
 }
-
 function toChunks(md, targetBytes) {
   if (!targetBytes) return [md];
-  const lines = md.split('\n');
-  const chunks = [];
+  const lines = md.split('\n'); const chunks = [];
   let cur = [], size = 0;
   const flush = () => { if (cur.length) { chunks.push(cur.join('\n')); cur = []; size = 0; } };
   for (const line of lines) {
     const isBreak = line.startsWith('## ') || line.startsWith('### ');
     if (isBreak && size > targetBytes) flush();
-    cur.push(line);
-    size += Buffer.byteLength(line + '\n');
+    cur.push(line); size += Buffer.byteLength(line + '\n');
   }
   flush();
-  // secondary pass if still huge
   const out = [];
   for (const c of chunks) {
     if (Buffer.byteLength(c) <= targetBytes*1.2) { out.push(c); continue; }
-    const paras = c.split(/\n{2,}/);
-    let cur2 = [], sz2 = 0;
+    const paras = c.split(/\n{2,}/); let cur2 = [], sz2 = 0;
     const flush2 = () => { if (cur2.length) { out.push(cur2.join('\n\n')); cur2 = []; sz2 = 0; } };
-    for (const p of paras) {
-      if (sz2 && (sz2 + Buffer.byteLength(p)) > targetBytes) flush2();
-      cur2.push(p); sz2 += Buffer.byteLength(p) + 2;
-    }
+    for (const p of paras) { if (sz2 && (sz2 + Buffer.byteLength(p)) > targetBytes) flush2(); cur2.push(p); sz2 += Buffer.byteLength(p) + 2; }
     flush2();
   }
   return out;
 }
-
 function alreadyDone(outBase) {
   const dir = path.dirname(outBase);
   if (!fs.existsSync(dir)) return false;
@@ -95,7 +83,6 @@ function alreadyDone(outBase) {
   const prefix = path.basename(outBase) + '--p';
   return fs.readdirSync(dir).some(n => n.startsWith(prefix) && n.endsWith('.md'));
 }
-
 function cheapStripHTML(html) {
   return html
     .replace(/<script[\s\S]*?<\/script>/gi, '')
@@ -105,7 +92,6 @@ function cheapStripHTML(html) {
     .replace(/<footer[\s\S]*?<\/footer>/gi, '')
     .replace(/<nav[\s\S]*?<\/nav>/gi, '');
 }
-
 function convertSnippetToMD(htmlSnippet) {
   const dom = new JSDOM(`<body>${htmlSnippet}</body>`, { pretendToBeVisual: false });
   const { document, defaultView } = dom.window;
@@ -113,8 +99,7 @@ function convertSnippetToMD(htmlSnippet) {
   td.use(gfm);
   document.querySelectorAll('a').forEach(a => {
     if ((a.textContent||'').match(/View this page in the latest version/i)) {
-      const parent = a.closest('div,section,aside,header,footer') || a;
-      parent?.remove();
+      const parent = a.closest('div,section,aside,header,footer') || a; parent?.remove();
     }
   });
   let md = td.turndown(document.body.innerHTML);
@@ -122,15 +107,13 @@ function convertSnippetToMD(htmlSnippet) {
   md = md.replace(/[ \t]+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
   return md;
 }
-
 function convertFullHTMLToMD(html) {
   const dom = new JSDOM(html, { pretendToBeVisual: false });
   const { document, defaultView } = dom.window;
   for (const sel of STRIP_SELECTORS) document.querySelectorAll(sel).forEach(el => el.remove());
   document.querySelectorAll('a').forEach(a => {
     if ((a.textContent||'').match(/View this page in the latest version/i)) {
-      const parent = a.closest('div,section,aside,header,footer') || a;
-      parent?.remove();
+      const parent = a.closest('div,section,aside,header,footer') || a; parent?.remove();
     }
   });
   const main = pickMain(document);
@@ -141,19 +124,12 @@ function convertFullHTMLToMD(html) {
   md = md.replace(/[ \t]+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
   return md;
 }
-
 function convertLargeHTMLToMDChunks(html, targetBytes) {
   const stripped = cheapStripHTML(html);
   const parts = stripped.split(/(?=<h2\b[^>]*>)/gi);
-  const chunks = [];
-  let buf = '';
+  const chunks = []; let buf = '';
   const limit = targetBytes || 300*1024;
-  const pushBuf = () => {
-    if (!buf) return;
-    chunks.push(convertSnippetToMD(buf));
-    buf = '';
-    globalThis.gc?.();
-  };
+  const pushBuf = () => { if (!buf) return; chunks.push(convertSnippetToMD(buf)); buf = ''; globalThis.gc?.(); };
   for (const part of parts) {
     const newSize = Buffer.byteLength(buf) + Buffer.byteLength(part);
     if (buf && newSize > limit) pushBuf();
@@ -167,13 +143,8 @@ function convertLargeHTMLToMDChunks(html, targetBytes) {
 fs.mkdirSync(OUT, { recursive: true });
 
 let files = Array.from(htmlFiles(SRC));
-if (files.length === 0) {
-  console.error('No HTML files found at', SRC);
-  process.exit(2);
-}
+if (files.length === 0) { console.error('No HTML files found at', SRC); process.exit(2); }
 
-const SHARDS = Number(process.env.SHARDS || 1);
-const SHARD  = Number(process.env.SHARD  || 1);
 if (SHARDS > 1) {
   if (SHARD < 1 || SHARD > SHARDS) { console.error(`Invalid SHARD=${SHARD} with SHARDS=${SHARDS}`); process.exit(1); }
   files = files.filter((_, idx) => (idx % SHARDS) === (SHARD - 1));
@@ -189,7 +160,6 @@ for (let i = 0; i < files.length; i++) {
     process.stdout.write(`\rProcessed ${i+1}/${total} (${pct}%)`);
   }
   const file = files[i];
-
   try {
     const stat = fs.statSync(file);
     const rel = path.relative(SRC, file).replace(/\\/g,'/');
@@ -197,7 +167,6 @@ for (let i = 0; i < files.length; i++) {
     if (SKIP_EXISTING && alreadyDone(outBase)) continue;
 
     const html = fs.readFileSync(file, 'utf-8');
-
     let chunksMD;
     if ((stat.size/1024) >= BIG_HTML_KB) {
       chunksMD = convertLargeHTMLToMDChunks(html, (Number(process.env.SEG_TARGET_KB)||SEG_TARGET_KB)*1024);
@@ -226,8 +195,7 @@ for (let i = 0; i < files.length; i++) {
         made++; bytes += Buffer.byteLength(body);
       });
     }
-    kept++;
-    globalThis.gc?.();
+    kept++; globalThis.gc?.();
   } catch (e) {
     console.error('\nFailed optimizing:', file, e?.message || e);
   }

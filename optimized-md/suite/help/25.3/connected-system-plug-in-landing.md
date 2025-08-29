@@ -1,0 +1,61 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/connected-system-plug-in-landing.html
+original_path: connected-system-plug-in-landing.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# Connected System Plug-ins
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+## Overview
+
+This page provides an introduction of connected system plug-ins and several example use cases.
+
+Have you ever wanted to…
+
+-   Connect to **Salesforce** using a point-and-click interface?
+-   See a list of **SAP** BAPIs and their parameters when configuring an integration?
+-   Upload documents to **Google Drive** without reading mountains of API documentation?
+
+Appian provides a number of [connected systems](Connected_System_Object.html), including those for Amazon Machine Learning, Microsoft Azure LUIS, and others. Connected system plug-ins let you add additional connected systems to Appian. You can create custom connected systems and [integrations](Integration_Object.html), each with a guided experience for designers to send and receive data to other system and services. Designers don’t need to know in advance what’s required to connect, they just need to “fill in the blanks”.
+
+## Built for integration
+
+Connected system plug-ins are part of the [Integration SDK](integration-sdk-overview.html), designed for connecting with third-party systems. They provide a guided design experience based on the details of the target system. Connected system plug-ins also provide more customization. For example, you can configure custom authentication for your customer’s API. Connected system plug-ins are built to make integrations easier for both developers and designers.
+
+## Built for Java developers
+
+Connected system plug-ins are built using a Java based framework. You don't need to know Appian expressions or SAIL. You can even use existing Java libraries to speed up your implementation.
+
+## Built for sharing
+
+Connected system plug-ins can be reused across sites, use cases, and customers. They can also be listed on the Appian [AppMarket](https://community.appian.com/b/appmarket) where Appian customers can find and use them. Once installed, connected system plug-ins are available to any Appian designer when they create connected systems and integrations in their application.
+
+## Built for low-code
+
+The connected systems created from your plug-in are used just like the connected systems that ship with Appian. Designers have a custom, visual integration experience in Appian to connect to the new system, so there's no need to search REST documentation.
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...

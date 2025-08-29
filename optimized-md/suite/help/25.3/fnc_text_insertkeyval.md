@@ -1,0 +1,132 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/fnc_text_insertkeyval.html
+original_path: fnc_text_insertkeyval.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# insertkeyval() Function
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+## Function
+
+**insertkeyval**( _key, value, startDelimiter, endDelimiter_ )
+
+Returns the provided key-value pairs, wrapped with the specified delimiters.
+
+## Parameters
+
+| Keyword | Type | Description |
+| --- | --- | --- |
+|
+`key`
+
+ |
+
+_Text_
+
+ |
+
+A key or array of keys.
+
+ |
+|
+
+`value`
+
+ |
+
+_Text_
+
+ |
+
+A value or array of values.
+
+ |
+|
+
+`startDelimiter`
+
+ |
+
+_Text_
+
+ |
+
+String for the start delimiter.
+
+ |
+|
+
+`endDelimiter`
+
+ |
+
+_Text_
+
+ |
+
+String for the end delimiter.
+
+ |
+
+## Returns
+
+Text
+
+## Examples
+
+`insertkeyval({"hello","goodbye"}, {"alpha","beta"}, "[", "]")` returns `[hello=alpha][goodbye=beta]`
+
+## Feature compatibility
+
+The table below lists this function's compatibility with various features in Appian.
+
+| Feature | Compatibility | Note |
+| --- | --- | --- |
+| Portals | Compatible |  |
+| Offline Mobile | Compatible |  |
+| Sync-Time Custom Record Fields | Compatible |
+Can be used to create a custom record field that only [evaluates at sync time](custom-record-fields.html#prodlink-sync-time-evaluations).
+
+ |
+| Real-Time Custom Record Fields | Incompatible |
+
+Custom record fields that evaluate in real time must be configured using one or more Custom Field functions.
+
+ |
+| Process Reports | Compatible |  |
+| Process Events | Compatible |
+
+Can be used to configure a process event node, such as a start event or timer event.
+
+ |
+| Process Autoscaling | Compatible |
+
+Can be used in autoscaled processes.
+
+ |
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...

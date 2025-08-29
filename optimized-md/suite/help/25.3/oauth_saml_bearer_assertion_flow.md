@@ -1,0 +1,142 @@
+---
+source_url: https://docs.appian.com/suite/help/25.3/oauth_saml_bearer_assertion_flow.html
+original_path: oauth_saml_bearer_assertion_flow.html
+version: "25.3"
+---
+
+Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
+
+# OAuth 2.0: SAML Bearer Assertion Flow
+
+Share
+
+Share via
+
+LinkedIn
+
+Reddit
+
+Email
+
+Copy Link
+
+* * *
+
+Print
+
+## Overview
+
+The OAuth 2.0: SAML Bearer Assertion Flow is an authentication type that requests access to an API on behalf of a signed in user, similarly to the OAuth 2.0: Authorization Code grant. However, instead of redirecting the user to the Authorization Server for manual authorization, this authentication type automatically uses the SAML assertion returned by the Identity Provider to make a token request when the user signs into Appian via [SAML for Single Sign-On](SAML_for_Single_Sign-On.html). Designers can use this authentication type with [HTTP](http-connected-system.html) and [OpenAPI](openapi-connected-system.html) connected systems.
+
+Specifically, Appian supports the use of SAML Assertions as Authorization Grants. For this flow, the value of the **grant\_type** parameter in the token request will be set to `urn:ietf:params:oauth:grant-type:saml2-bearer`.
+
+This article provides detailed information about how Appian can connect to systems that use the SAML Bearer Assertion Flow. See also:
+
+-   To learn about connected system objects, see [Connected System Object](Connected_System_Object.html).
+-   To learn about the Authorization Code Grant, see [OAuth 2.0: Authorization Code Grant](Oauth_connected_system.html).
+-   To learn about the Client Credentials grant, see [OAuth 2.0: Client Credentials Grant](oauth_client_credentials.html).
+
+## Token Request Sequence
+
+The OAuth 2.0 framework is defined by the [IETF RFC 6749](https://www.rfc-editor.org/rfc/rfc6749.txt) standard.
+
+This standard establishes the sequence of steps involved with the SAML Bearer Assertion Flow. There are four main roles in this sequence:
+
+-   **Identity Provider (IdP)** - The provider of identity information and authentication.
+-   **Client** - The system initiating the resource request. In this case, Appian.
+-   **Authorization Server** - The server that is ensuring that the user requesting resources has the proper permissions.
+-   **Resource Server** - The server that holds the desired resources.
+
+The following sequence diagram describes the steps involved in a successful authorization, with a resource returned to the client.
+
+![images:SBAF_Sequence_Diagram.jpeg](images/SBAF_Sequence_Diagram.jpeg)
+
+The first part of the process involves a user signing in to Appian via the configured Identity Provider (IdP). Upon success, the IdP returns a SAML response that contains a SAML bearer assertion. This piece was simplified for the purposes of this flow chart, but the detailed flow can be seen on the [SAML for Single Sign-On](SAML_for_Single_Sign-On.html) page.
+
+As soon as Appian gets that SAML bearer assertion, it decrypts it if necessary and signs the user in. Then, for each Connected System that uses the OAuth 2.0: SAML Bearer Assertion Flow, Appian will immediately pass the SAML bearer assertion (along with the **Client ID**, **Client Secret**, **Scope**, and any **Additional HTTP Headers** set in the connected system) to the authorization server at the **Token Request Endpoint**. Appian will always pass the SAML assertion unencrypted. If the authorization server successfully authorizes the credentials, it will return an access token and optionally a refresh token.
+
+From there, the access token will allow the client to request whatever resources were approved by the user. When it expires, if there's a refresh token, it will try to fetch another access token. However, if there is no refresh token or the refresh token expires, the user will need to sign out and back in to fetch a new SAML bearer assertion in order to reauthorize. For this reason, you should set your refresh token to last as long as you'd expect a user to realistically stay signed in to ensure the best user experience. Refresh token duration is configured in the authorization server.
+
+**Note:**  If the token request fails on user sign in, the only way to retry is for the user to sign out of Appian and sign back in.
+
+### Access Token Expiration
+
+Once someone has an access token, future requests will be granted until (1) the server revokes permission, or (2) the access token expires.
+
+Appian considers an access token to be revoked or expired when it's used to call an integration and the integration returns a status code of `401`, `403`, or `404`. At that point, if Appian has a refresh token, it will automatically call the **Token Request Endpoint** (or [**Token Refresh Endpoint**](#parameters-set-in-the-connected-system) if that field is populated) to fetch another access token. If that call is successful, Appian will use the new access token to automatically retry the integration call. If the token refresh fails, or if no refresh token was provided, you will need to manually sign out and back into Appian in order to reauthorize the client before Appian can access the specified resource.
+
+## Important Design Considerations
+
+There are several important design considerations when using the OAuth 2.0: SAML Bearer Assertion Flow.
+
+**Note:**  It is very important to review and understand the requirements in the third-party systems for a successful OAuth connection.
+
+### Registration in the Third-Party Systems
+
+In order for Appian to successfully connect to the desired resources, you will need to:
+
+1.  Configure [SAML for Single Sign-On](SAML_for_Single_Sign-On.html).
+2.  Configure your third-party system to trust your Identity Provider.
+3.  Register the connection to Appian in the third-party system.
+    -   This is typically done under a third party system's Developer UI. The terminology varies, but registration usually requires creating an application or project in that system.
+
+When establishing trust and registering an app or project in a third-party system a few things need to be considered:
+
+-   **Access to the Identity Provider:** In order to configure SAML for Single Sign-On and establish trust between your IdP and Service Provider, you will need to select an appropriate user to sign into the IdP and set everything up.
+-   **Access to the third-party application or project:** Because the OAuth 2.0 application or project in the third-party system will contain a client secret, an appropriate user should be selected to register the application or project. They may also need to upload the public key obtained from the IdP.
+-   **Determine where scope should be defined:** A registered application's scope may need to be configured in Appian or in the registered application. Be sure to refer to the other system's documentation to know where to define scope.
+-   **Trust between the authorization server and Identity Provider:** The authorization server will need to be configured to trust your identity provider and accept the Audience URI specified in the SAML assertion. This will be configured in different ways depending on the IdP and authorization server that you use. The [Service Provider Entity ID](SAML_for_Single_Sign-On.html#service-provider-entity-id) configured in the Admin Console for a SAML Identity Provider will need to match that Audience URI.
+
+### Enabling the OAuth 2.0: SAML Bearer Assertion Flow in Appian
+
+Once you've configured [SAML for Single Sign-On](SAML_for_Single_Sign-On.html) and registered your third-party systems, there are still several important steps that need to be taken before users can integrate using the OAuth 2.0: SAML Bearer Assertion Flow.
+
+#### Configuration in the Admin Console
+
+Before any users can make token requests using the SAML Bearer Assertion Flow, a system administrator will need to go to the [SAML Authentication](Appian_Administration_Console.html#saml-authentication) page of the Admin Console and enable the checkbox labeled **OAuth 2.0: SAML Bearer Assertion Flow**. This will enable the token request on login for any user in the [OAuth 2.0 SAML Bearer Assertion Users](System_Groups.html#oauth-20-saml-bearer-assertion-users) system group that uses SAML for Single Sign-On.
+
+#### The OAuth 2.0: SAML Bearer Assertion Users system group
+
+In addition to enabling the SAML Bearer Assertion Flow in the Admin Console, a system administrator will also need to configure the [OAuth 2.0 SAML Bearer Assertion Users](System_Groups.html#oauth-20-saml-bearer-assertion-users) system group to include any Users and Groups that should use the SAML Bearer Assertion Flow. Only users in this system group will make a token request upon login.
+
+#### Creating the connected systems
+
+The SAML Bearer Assertion Flow can be used with [HTTP](http-connected-system.html) and [OpenAPI](openapi-connected-system.html) connected systems by selecting `OAuth 2.0: SAML Bearer Assertion Flow` in the **Authentication** dropdown. This authentication type can be configured regardless of whether it's enabled in the Admin Console. However, the token requests will only be made when the **OAuth 2.0: SAML Bearer Assertion Flow** checkbox is enabled in the Admin Console and there are users in the [OAuth 2.0 SAML Bearer Assertion Users](System_Groups.html#oauth-20-saml-bearer-assertion-users) system group.
+
+When a user in the system group logs into Appian using SAML for Single Sign-On, a token request will be sent for each connected system that uses the **OAuth 2.0 SAML Bearer Assertion Flow** authentication type, regardless of object security. Token requests will be made to the URL specified in the **Token Request Endpoint** field, as described in the Token Request Sequence diagram above.
+
+#### Parameters set in the connected system
+
+The following parameters from the third-party system will need to be entered into the connected system. Refer to the third-party's documentation for more information.
+
+| Field | Description |
+| --- | --- |
+| Client ID\* | **Required/Sensitive**. ID provided by the third-party system during the registration process. |
+| Client Secret\* | **Required/Sensitive**. The password provided by the third-party system during the registration process. This field is masked to prevent unauthorized users from seeing and should be treated as a password. |
+| Scope | **Optional**. Defines what resources need to be accessed from the resource server. Depending on what system Appian is connecting to, permissions may be configured in the Developer UI rather than using a scope. In these cases, a default scope value may be specified in their documentation. |
+| Token Request Endpoint\* | **Required**. The endpoint that provided the access token for the specified resources. This value can typically be found in the third-party's documentation.
+
+This authentication type only works with HTTPS endpoints that start with `https://`. |
+| Token Refresh Endpoint\* | A separate endpoint that provided the access tokens in exchange for refresh tokens. When left blank, the Token Request Endpoint will be used for token refresh instead. This value is not used by most implementations of the OAuth 2.0 SAML Bearer Assertion Flow.
+
+This authentication type only works with HTTPS endpoints that start with `https://`. |
+| Additional HTTP Headers\* | Defines additional HTTP headers that Appian will send with token requests. These will be sent to both the Token Request Endpoint and the Token Refresh Endpoint. |
+
+\* _This value is included in an import customization file so that you can specify a different value for each environment. **Sensitive** values will not be exported in the import customization file and must be added manually. **Required** fields must have a value upon import or else import will fail. For more information on import/export behavior, see the [Connected Systems Object](Connected_System_Object.html#import-customization-file) page._
+
+#### Testing the connected system
+
+Testing requires users to sign out and back in. This is the case because logging in via SAML for Single Sign-On is the only way to retrieve an updated SAML Bearer Assertion and initiate the initial token request to the Token Request Endpoint.
+
+1.  Save the new or updated configurations to the connected system
+2.  Sign out of Appian
+3.  Sign back into Appian (this step fetches a SAML bearer assertion and initiates the token request using the updated connected system configurations)
+4.  Test your connected system using the Test Refresh Token button
+
+## Feedback
+
+Was this page helpful?
+
+SHARE FEEDBACK
+
+Loading...
