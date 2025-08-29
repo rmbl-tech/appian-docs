@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cc-25.1.1.0/cc-configure-security.html
 original_path: cc-25.1.1.0/cc-configure-security.html
 version: "25.3"
+title: "Configuring Security for Connected Claims"
+page_id: "cc-25.1.1.0/cc-configure-security"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

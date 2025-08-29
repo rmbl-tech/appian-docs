@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Custom_Data_Types.html
 original_path: Custom_Data_Types.html
 version: "25.3"
+title: "Custom Data Types (CDTs)"
+page_id: "Custom_Data_Types"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

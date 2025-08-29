@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-configure-a-chart-to-grid-toggle.html
 original_path: recipe-configure-a-chart-to-grid-toggle.html
 version: "25.3"
+title: "Configure a Chart to Grid Toggle"
+page_id: "recipe-configure-a-chart-to-grid-toggle"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

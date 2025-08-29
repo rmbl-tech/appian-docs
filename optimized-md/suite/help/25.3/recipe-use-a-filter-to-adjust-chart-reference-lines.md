@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-use-a-filter-to-adjust-chart-reference-lines.html
 original_path: recipe-use-a-filter-to-adjust-chart-reference-lines.html
 version: "25.3"
+title: "Use a Filter to Adjust Chart Reference Lines"
+page_id: "recipe-use-a-filter-to-adjust-chart-reference-lines"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

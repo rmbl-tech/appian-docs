@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/analytics2/BaseFilter.html
 original_path: api/com/appiancorp/suiteapi/process/analytics2/BaseFilter.html
 version: "25.3"
+title: "Class BaseFilter"
+page_id: "api/com/appiancorp/suiteapi/process/analytics2/BaseFilter"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.analytics2](package-summary.html)
 

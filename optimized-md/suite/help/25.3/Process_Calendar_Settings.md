@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Calendar_Settings.html
 original_path: Process_Calendar_Settings.html
 version: "25.3"
+title: "Process Calendar Settings"
+page_id: "Process_Calendar_Settings"
+section: "Viewing process calendar options"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

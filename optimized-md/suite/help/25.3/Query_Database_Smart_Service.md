@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Query_Database_Smart_Service.html
 original_path: Query_Database_Smart_Service.html
 version: "25.3"
+title: "Query Database Smart Service"
+page_id: "Query_Database_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

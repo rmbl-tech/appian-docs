@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/data-catalog-page.html
 original_path: data-catalog-page.html
 version: "25.3"
+title: "Data Catalog Page"
+page_id: "data-catalog-page"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/exceptions/InvalidApprovalStateException.html
 original_path: api/com/appiancorp/suiteapi/content/exceptions/InvalidApprovalStateException.html
 version: "25.3"
+title: "Class InvalidApprovalStateException"
+page_id: "api/com/appiancorp/suiteapi/content/exceptions/InvalidApprovalStateException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content.exceptions](package-summary.html)
 

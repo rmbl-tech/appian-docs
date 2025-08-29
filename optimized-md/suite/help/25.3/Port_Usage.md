@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Port_Usage.html
 original_path: Port_Usage.html
 version: "25.3"
+title: "Port Usage"
+page_id: "Port_Usage"
+section: "Internal Ports"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

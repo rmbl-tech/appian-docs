@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Feeds.html
 original_path: Feeds.html
 version: "25.3"
+title: "Feeds"
+page_id: "Feeds"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/reference-translation-strings.html
 original_path: reference-translation-strings.html
 version: "25.3"
+title: "Reference Translation Strings in your Applications"
+page_id: "reference-translation-strings"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

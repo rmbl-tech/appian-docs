@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-javadocs/connected-systems-client/1.1.0/com/appian/connectedsystems/simplified/sdk/SimpleIntegrationTemplate.html
 original_path: integration-sdk-javadocs/connected-systems-client/1.1.0/com/appian/connectedsystems/simplified/sdk/SimpleIntegrationTemplate.html
 version: "25.3"
+page_id: "integration-sdk-javadocs/connected-systems-client/1.1.0/com/appian/connectedsystems/simplified/sdk/SimpleIntegrationTemplate"
+section: "Class SimpleIntegrationTemplate"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 [Skip navigation links](#skip.navbar.top "Skip navigation links")
 

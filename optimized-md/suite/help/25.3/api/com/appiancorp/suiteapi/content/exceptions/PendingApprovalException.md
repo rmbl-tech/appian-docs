@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/exceptions/PendingApprovalException.html
 original_path: api/com/appiancorp/suiteapi/content/exceptions/PendingApprovalException.html
 version: "25.3"
+title: "Class PendingApprovalException"
+page_id: "api/com/appiancorp/suiteapi/content/exceptions/PendingApprovalException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content.exceptions](package-summary.html)
 

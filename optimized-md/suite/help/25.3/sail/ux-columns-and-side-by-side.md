@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-columns-and-side-by-side.html
 original_path: sail/ux-columns-and-side-by-side.html
 version: "25.3"
+title: "Columns vs. Side by Side"
+page_id: "sail/ux-columns-and-side-by-side"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Columns vs. Side by Side \[SAIL Design System: Guidelines\]
 

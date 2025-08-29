@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/component-plugins.html
 original_path: component-plugins.html
 version: "25.3"
+title: "Component Plug-ins"
+page_id: "component-plugins"
+section: "Built for integration"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

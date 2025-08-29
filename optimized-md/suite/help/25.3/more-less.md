@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/more-less.html
 original_path: more-less.html
 version: "25.3"
+title: "More-Less Link"
+page_id: "more-less"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

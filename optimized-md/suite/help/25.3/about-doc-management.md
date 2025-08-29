@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/about-doc-management.html
 original_path: about-doc-management.html
 version: "25.3"
+title: "About Documents"
+page_id: "about-doc-management"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

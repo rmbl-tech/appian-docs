@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/oauth_saml_bearer_assertion_flow.html
 original_path: oauth_saml_bearer_assertion_flow.html
 version: "25.3"
+title: "OAuth 2.0: SAML Bearer Assertion Flow"
+page_id: "oauth_saml_bearer_assertion_flow"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

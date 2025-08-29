@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/HistoryRecord.ProcessModelInfo.html
 original_path: api/com/appiancorp/suiteapi/process/HistoryRecord.ProcessModelInfo.html
 version: "25.3"
+title: "Class HistoryRecord.ProcessModelInfo"
+page_id: "api/com/appiancorp/suiteapi/process/HistoryRecord.ProcessModelInfo"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

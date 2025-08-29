@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Connectors.html
 original_path: Connectors.html
 version: "25.3"
+title: "Connector Functions"
+page_id: "Connectors"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

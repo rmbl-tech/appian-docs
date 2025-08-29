@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rm-24.4.2.2/what-is-appian-rm.html
 original_path: rm-24.4.2.2/what-is-appian-rm.html
 version: "25.3"
+title: "What is Requirements Management?"
+page_id: "rm-24.4.2.2/what-is-appian-rm"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/ApplicationDataType.html
 original_path: api/com/appiancorp/suiteapi/process/ApplicationDataType.html
 version: "25.3"
+title: "Annotation Interface ApplicationDataType"
+page_id: "api/com/appiancorp/suiteapi/process/ApplicationDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

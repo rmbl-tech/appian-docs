@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/how-to-configure-control-panel-object.html
 original_path: how-to-configure-control-panel-object.html
 version: "25.3"
+title: "Configure the Control Panel Object for Case Management Studio"
+page_id: "how-to-configure-control-panel-object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

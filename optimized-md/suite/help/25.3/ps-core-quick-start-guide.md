@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/ps-core-quick-start-guide.html
 original_path: ps-core-quick-start-guide.html
 version: "25.3"
+title: "ProcureSight Core Quick Start User Guide"
+page_id: "ps-core-quick-start-guide"
+section: "Getting started"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

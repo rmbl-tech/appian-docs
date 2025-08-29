@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Display_Process_Report_as_Chart.html
 original_path: Display_Process_Report_as_Chart.html
 version: "25.3"
+title: "Display Process Report as Chart \[Deprecated\]"
+page_id: "Display_Process_Report_as_Chart"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

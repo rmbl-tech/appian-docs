@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-use-selection-for-bulk-actions-in-an-inline-editable-grid.html
 original_path: recipe-use-selection-for-bulk-actions-in-an-inline-editable-grid.html
 version: "25.3"
+title: "Use Selection For Bulk Actions in an Inline Editable Grid"
+page_id: "recipe-use-selection-for-bulk-actions-in-an-inline-editable-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

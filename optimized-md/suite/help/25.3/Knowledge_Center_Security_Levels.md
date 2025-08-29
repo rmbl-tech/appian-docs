@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Knowledge_Center_Security_Levels.html
 original_path: Knowledge_Center_Security_Levels.html
 version: "25.3"
+title: "Knowledge Center Security Levels \[Deprecated\]"
+page_id: "Knowledge_Center_Security_Levels"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

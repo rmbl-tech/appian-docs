@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/task-report-pattern.html
 original_path: task-report-pattern.html
 version: "25.3"
+title: "Task Report Pattern"
+page_id: "task-report-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

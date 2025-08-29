@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/robotic-task-variables.html
 original_path: rpa-9.17/robotic-task-variables.html
 version: "25.3"
+title: "Robotic Task Variables"
+page_id: "rpa-9.17/robotic-task-variables"
+section: "Introduction to robotic task variables"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

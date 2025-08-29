@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/k8s-0.184.0/helm-chart-values.html
 original_path: k8s-0.184.0/helm-chart-values.html
 version: "25.3"
+title: "Appian Operator Helm Chart Values"
+page_id: "k8s-0.184.0/helm-chart-values"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

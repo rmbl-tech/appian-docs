@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/responsive_design.html
 original_path: responsive_design.html
 version: "25.3"
+title: "Responsive Design"
+page_id: "responsive_design"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

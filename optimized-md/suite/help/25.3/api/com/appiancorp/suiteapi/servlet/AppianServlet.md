@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/servlet/AppianServlet.html
 original_path: api/com/appiancorp/suiteapi/servlet/AppianServlet.html
 version: "25.3"
+title: "Class AppianServlet"
+page_id: "api/com/appiancorp/suiteapi/servlet/AppianServlet"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.servlet](package-summary.html)
 

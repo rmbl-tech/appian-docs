@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Write_Records_Smart_Service_23r2.html
 original_path: Write_Records_Smart_Service_23r2.html
 version: "25.3"
+title: "Write Records Smart Service (23.2)"
+page_id: "Write_Records_Smart_Service_23r2"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

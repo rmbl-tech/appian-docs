@@ -3,7 +3,11 @@ source_url: https://docs.appian.com/suite/help/25.3/sail/forms.html
 original_path: sail/forms.html
 version: "25.3"
 part: 2/4
+page_id: "sail/forms"
+section: "Which form type is best for your use case?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 ## Which form type is best for your use case?
 

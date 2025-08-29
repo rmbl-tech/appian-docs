@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-refresh-until-asynchronous-action-completes.html
 original_path: recipe-refresh-until-asynchronous-action-completes.html
 version: "25.3"
+title: "Refresh Until a Background Action Completes"
+page_id: "recipe-refresh-until-asynchronous-action-completes"
+section: "Expression"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

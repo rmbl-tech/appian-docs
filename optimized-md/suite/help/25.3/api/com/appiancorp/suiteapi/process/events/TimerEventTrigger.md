@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/events/TimerEventTrigger.html
 original_path: api/com/appiancorp/suiteapi/process/events/TimerEventTrigger.html
 version: "25.3"
+title: "Class TimerEventTrigger"
+page_id: "api/com/appiancorp/suiteapi/process/events/TimerEventTrigger"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.events](package-summary.html)
 

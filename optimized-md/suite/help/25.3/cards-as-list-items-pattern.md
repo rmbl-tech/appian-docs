@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cards-as-list-items-pattern.html
 original_path: cards-as-list-items-pattern.html
 version: "25.3"
+title: "Cards as List Items Patterns"
+page_id: "cards-as-list-items-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

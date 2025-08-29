@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-javadocs/connected-systems-core/1.2.0/com/appian/connectedsystems/templateframework/sdk/configuration/DoublePropertyDescriptor.html
 original_path: integration-sdk-javadocs/connected-systems-core/1.2.0/com/appian/connectedsystems/templateframework/sdk/configuration/DoublePropertyDescriptor.html
 version: "25.3"
+page_id: "integration-sdk-javadocs/connected-systems-core/1.2.0/com/appian/connectedsystems/templateframework/sdk/configuration/DoublePropertyDescriptor"
+section: "Class DoublePropertyDescriptor"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 [Skip navigation links](#skip.navbar.top "Skip navigation links")
 

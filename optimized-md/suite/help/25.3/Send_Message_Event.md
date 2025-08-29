@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Send_Message_Event.html
 original_path: Send_Message_Event.html
 version: "25.3"
+title: "Send Message Event"
+page_id: "Send_Message_Event"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

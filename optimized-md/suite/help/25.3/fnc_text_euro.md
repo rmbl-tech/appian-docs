@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_text_euro.html
 original_path: fnc_text_euro.html
 version: "25.3"
+title: "euro() Function \[Deprecated\]"
+page_id: "fnc_text_euro"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

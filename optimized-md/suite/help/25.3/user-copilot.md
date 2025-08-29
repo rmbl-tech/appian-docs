@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/user-copilot.html
 original_path: user-copilot.html
 version: "25.3"
+title: "Appian AI Copilot for Business Users"
+page_id: "user-copilot"
+section: "Ask questions about your record data"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

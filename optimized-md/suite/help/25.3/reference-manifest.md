@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/reference-manifest.html
 original_path: reference-manifest.html
 version: "25.3"
+title: "Configuration Files"
+page_id: "reference-manifest"
+section: "Plug-in manifest"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

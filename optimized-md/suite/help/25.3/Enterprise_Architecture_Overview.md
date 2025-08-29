@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Enterprise_Architecture_Overview.html
 original_path: Enterprise_Architecture_Overview.html
 version: "25.3"
+title: "Enterprise Architecture Overview"
+page_id: "Enterprise_Architecture_Overview"
+section: "High level overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

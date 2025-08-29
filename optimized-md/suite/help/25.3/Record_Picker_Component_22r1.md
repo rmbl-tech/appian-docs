@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Record_Picker_Component_22r1.html
 original_path: Record_Picker_Component_22r1.html
 version: "25.3"
+title: "a!pickerFieldRecords\_22r1"
+page_id: "Record_Picker_Component_22r1"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

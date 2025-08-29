@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/k8s-0.184.0/security-context.html
 original_path: k8s-0.184.0/security-context.html
 version: "25.3"
+title: "Configure a Security Context for a Pod or Container"
+page_id: "k8s-0.184.0/security-context"
+section: "Setting runAsUser and fsGroup"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

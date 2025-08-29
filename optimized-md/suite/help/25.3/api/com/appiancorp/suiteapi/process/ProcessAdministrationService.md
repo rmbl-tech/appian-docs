@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/ProcessAdministrationService.html
 original_path: api/com/appiancorp/suiteapi/process/ProcessAdministrationService.html
 version: "25.3"
+title: "Interface ProcessAdministrationService"
+page_id: "api/com/appiancorp/suiteapi/process/ProcessAdministrationService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

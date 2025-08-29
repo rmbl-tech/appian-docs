@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/Name.html
 original_path: api/com/appiancorp/suiteapi/common/Name.html
 version: "25.3"
+title: "Annotation Interface Name"
+page_id: "api/com/appiancorp/suiteapi/common/Name"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

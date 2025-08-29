@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/ai-use-cases.html
 original_path: ai-use-cases.html
 version: "25.3"
+title: "When to Use AI and ML"
+page_id: "ai-use-cases"
+section: "Appian's AI capabilities"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

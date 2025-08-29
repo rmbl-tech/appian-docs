@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-display-a-users-tasks-in-a-grid-with-task-links.html
 original_path: recipe-display-a-users-tasks-in-a-grid-with-task-links.html
 version: "25.3"
+title: "Display a User's Tasks in a Grid With Task Links"
+page_id: "recipe-display-a-users-tasks-in-a-grid-with-task-links"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.ErrorType.html
 original_path: api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.ErrorType.html
 version: "25.3"
+title: "Enum Class UnsupportedReportSpecificationException.ErrorType"
+page_id: "api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.ErrorType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.exceptions](package-summary.html)
 

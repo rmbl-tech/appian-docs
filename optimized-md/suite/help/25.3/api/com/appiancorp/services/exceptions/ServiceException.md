@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/services/exceptions/ServiceException.html
 original_path: api/com/appiancorp/services/exceptions/ServiceException.html
 version: "25.3"
+title: "Class ServiceException"
+page_id: "api/com/appiancorp/services/exceptions/ServiceException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.services.exceptions](package-summary.html)
 

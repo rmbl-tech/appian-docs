@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Data_Server.html
 original_path: Data_Server.html
 version: "25.3"
+title: "Data Service"
+page_id: "Data_Server"
+section: "Architecture"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

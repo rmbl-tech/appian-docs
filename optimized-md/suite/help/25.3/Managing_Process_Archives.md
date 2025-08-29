@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Managing_Process_Archives.html
 original_path: Managing_Process_Archives.html
 version: "25.3"
+title: "Archive Process Script"
+page_id: "Managing_Process_Archives"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

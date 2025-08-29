@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Message_Data_Type.html
 original_path: Message_Data_Type.html
 version: "25.3"
+title: "Message Data Type \[Deprecated\]"
+page_id: "Message_Data_Type"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

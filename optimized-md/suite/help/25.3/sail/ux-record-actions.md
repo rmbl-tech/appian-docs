@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-record-actions.html
 original_path: sail/ux-record-actions.html
 version: "25.3"
+title: "Record Actions"
+page_id: "sail/ux-record-actions"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Record Actions \[SAIL Design System: Components\]
 

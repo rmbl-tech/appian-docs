@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Follow_Records_Smart_Service.html
 original_path: Follow_Records_Smart_Service.html
 version: "25.3"
+title: "Follow Records Smart Service"
+page_id: "Follow_Records_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configuring_Notifications.html
 original_path: Configuring_Notifications.html
 version: "25.3"
+title: "Configuring Notifications"
+page_id: "Configuring_Notifications"
+section: "Notification types and default values"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

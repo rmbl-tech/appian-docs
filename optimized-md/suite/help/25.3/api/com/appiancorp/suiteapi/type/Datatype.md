@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/type/Datatype.html
 original_path: api/com/appiancorp/suiteapi/type/Datatype.html
 version: "25.3"
+title: "Class Datatype"
+page_id: "api/com/appiancorp/suiteapi/type/Datatype"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.type](package-summary.html)
 

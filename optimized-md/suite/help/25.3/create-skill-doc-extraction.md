@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/create-skill-doc-extraction.html
 original_path: create-skill-doc-extraction.html
 version: "25.3"
+title: "Create a Document Extraction AI Skill"
+page_id: "create-skill-doc-extraction"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

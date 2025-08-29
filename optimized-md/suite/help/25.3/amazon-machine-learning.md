@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/amazon-machine-learning.html
 original_path: amazon-machine-learning.html
 version: "25.3"
+title: "Amazon Machine Learning"
+page_id: "amazon-machine-learning"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

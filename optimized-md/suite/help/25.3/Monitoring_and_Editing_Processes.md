@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Monitoring_and_Editing_Processes.html
 original_path: Monitoring_and_Editing_Processes.html
 version: "25.3"
+title: "Monitoring and Editing Processes"
+page_id: "Monitoring_and_Editing_Processes"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

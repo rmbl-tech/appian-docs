@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/sustainability-dashboard.html
 original_path: sail/sustainability-dashboard.html
 version: "25.3"
+title: "Sustainability Dashboard"
+page_id: "sail/sustainability-dashboard"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Sustainability Dashboard \[SAIL Design System: Inspiration\]
 

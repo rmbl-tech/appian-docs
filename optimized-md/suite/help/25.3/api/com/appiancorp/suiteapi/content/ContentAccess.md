@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/ContentAccess.html
 original_path: api/com/appiancorp/suiteapi/content/ContentAccess.html
 version: "25.3"
+title: "Class ContentAccess"
+page_id: "api/com/appiancorp/suiteapi/content/ContentAccess"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content](package-summary.html)
 

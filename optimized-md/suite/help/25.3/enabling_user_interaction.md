@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/enabling_user_interaction.html
 original_path: enabling_user_interaction.html
 version: "25.3"
+title: "Interface Variables and Inputs"
+page_id: "enabling_user_interaction"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-page-width.html
 original_path: sail/ux-page-width.html
 version: "25.3"
+title: "Page Width"
+page_id: "sail/ux-page-width"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Page Width \[SAIL Design System: Guidelines\]
 

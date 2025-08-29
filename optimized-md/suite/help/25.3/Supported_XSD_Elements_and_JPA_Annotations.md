@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Supported_XSD_Elements_and_JPA_Annotations.html
 original_path: Supported_XSD_Elements_and_JPA_Annotations.html
 version: "25.3"
+title: "Supported XSD Elements and JPA Annotations"
+page_id: "Supported_XSD_Elements_and_JPA_Annotations"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

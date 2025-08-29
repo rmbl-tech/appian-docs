@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/GlobalizationService.html
 original_path: api/com/appiancorp/suiteapi/portal/GlobalizationService.html
 version: "25.3"
+title: "Interface GlobalizationService"
+page_id: "api/com/appiancorp/suiteapi/portal/GlobalizationService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal](package-summary.html)
 

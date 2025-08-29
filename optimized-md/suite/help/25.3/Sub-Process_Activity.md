@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Sub-Process_Activity.html
 original_path: Sub-Process_Activity.html
 version: "25.3"
+title: "Subprocess"
+page_id: "Sub-Process_Activity"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

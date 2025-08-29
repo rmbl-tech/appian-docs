@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_system_a_datasubset.html
 original_path: fnc_system_a_datasubset.html
 version: "25.3"
+title: "a!dataSubset() Function"
+page_id: "fnc_system_a_datasubset"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-add-remove-move-group-members-browser.html
 original_path: recipe-add-remove-move-group-members-browser.html
 version: "25.3"
+title: "Add, Remove, and Move Group Members Browser"
+page_id: "recipe-add-remove-move-group-members-browser"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

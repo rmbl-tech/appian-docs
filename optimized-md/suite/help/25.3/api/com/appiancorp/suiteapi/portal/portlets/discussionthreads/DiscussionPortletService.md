@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/portlets/discussionthreads/DiscussionPortletService.html
 original_path: api/com/appiancorp/suiteapi/portal/portlets/discussionthreads/DiscussionPortletService.html
 version: "25.3"
+title: "Interface DiscussionPortletService"
+page_id: "api/com/appiancorp/suiteapi/portal/portlets/discussionthreads/DiscussionPortletService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal.portlets.discussionthreads](package-summary.html)
 

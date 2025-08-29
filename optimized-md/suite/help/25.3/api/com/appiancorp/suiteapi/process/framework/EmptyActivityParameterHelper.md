@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/framework/EmptyActivityParameterHelper.html
 original_path: api/com/appiancorp/suiteapi/process/framework/EmptyActivityParameterHelper.html
 version: "25.3"
+title: "Class EmptyActivityParameterHelper"
+page_id: "api/com/appiancorp/suiteapi/process/framework/EmptyActivityParameterHelper"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.framework](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/key-pi-terms.html
 original_path: key-pi-terms.html
 version: "25.3"
+title: "Key Concepts"
+page_id: "key-pi-terms"
+section: "Business process"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

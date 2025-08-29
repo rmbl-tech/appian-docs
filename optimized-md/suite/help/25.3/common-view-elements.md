@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/common-view-elements.html
 original_path: common-view-elements.html
 version: "25.3"
+title: "Common View Elements"
+page_id: "common-view-elements"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

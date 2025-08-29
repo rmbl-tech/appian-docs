@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-actions.html
 original_path: record-actions.html
 version: "25.3"
+title: "Configure Record Actions"
+page_id: "record-actions"
+section: "About record actions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

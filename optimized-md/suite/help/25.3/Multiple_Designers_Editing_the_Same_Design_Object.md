@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Multiple_Designers_Editing_the_Same_Design_Object.html
 original_path: Multiple_Designers_Editing_the_Same_Design_Object.html
 version: "25.3"
+title: "Object Overwrite Prevention"
+page_id: "Multiple_Designers_Editing_the_Same_Design_Object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

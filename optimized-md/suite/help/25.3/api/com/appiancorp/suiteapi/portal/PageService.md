@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/PageService.html
 original_path: api/com/appiancorp/suiteapi/portal/PageService.html
 version: "25.3"
+title: "Interface PageService"
+page_id: "api/com/appiancorp/suiteapi/portal/PageService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal](package-summary.html)
 

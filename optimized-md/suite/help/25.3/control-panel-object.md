@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/control-panel-object.html
 original_path: control-panel-object.html
 version: "25.3"
+title: "Control Panel Object"
+page_id: "control-panel-object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

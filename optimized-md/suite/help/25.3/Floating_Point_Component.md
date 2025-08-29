@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Floating_Point_Component.html
 original_path: Floating_Point_Component.html
 version: "25.3"
+title: "Decimal (Floating Point) Component"
+page_id: "Floating_Point_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

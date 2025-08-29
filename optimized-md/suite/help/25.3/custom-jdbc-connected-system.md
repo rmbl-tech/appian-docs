@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/custom-jdbc-connected-system.html
 original_path: custom-jdbc-connected-system.html
 version: "25.3"
+title: "Custom JDBC Connected System"
+page_id: "custom-jdbc-connected-system"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

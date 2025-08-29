@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/use-synced-record-types-in-existing-apps.html
 original_path: use-synced-record-types-in-existing-apps.html
 version: "25.3"
+title: "Use Synced Record Types in Existing Apps"
+page_id: "use-synced-record-types-in-existing-apps"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

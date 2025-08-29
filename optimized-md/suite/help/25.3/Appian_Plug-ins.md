@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Plug-ins.html
 original_path: Appian_Plug-ins.html
 version: "25.3"
+title: "Appian Suite Plug-ins"
+page_id: "Appian_Plug-ins"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

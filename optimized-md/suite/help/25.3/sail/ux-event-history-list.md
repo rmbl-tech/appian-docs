@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-event-history-list.html
 original_path: sail/ux-event-history-list.html
 version: "25.3"
+title: "Event History List"
+page_id: "sail/ux-event-history-list"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Event History List \[SAIL Design System: Components\]
 

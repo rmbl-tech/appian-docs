@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/http-connected-system.html
 original_path: http-connected-system.html
 version: "25.3"
+title: "HTTP Connected System"
+page_id: "http-connected-system"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

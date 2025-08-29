@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/inline-tags-for-side-by-side-pattern.html
 original_path: inline-tags-for-side-by-side-pattern.html
 version: "25.3"
+title: "Inline Tags for Side-by-Side Layout Pattern"
+page_id: "inline-tags-for-side-by-side-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

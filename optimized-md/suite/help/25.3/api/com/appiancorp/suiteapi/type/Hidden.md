@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/type/Hidden.html
 original_path: api/com/appiancorp/suiteapi/type/Hidden.html
 version: "25.3"
+title: "Annotation Interface Hidden"
+page_id: "api/com/appiancorp/suiteapi/type/Hidden"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.type](package-summary.html)
 

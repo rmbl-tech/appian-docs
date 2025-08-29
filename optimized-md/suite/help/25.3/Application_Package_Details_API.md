@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Application_Package_Details_API.html
 original_path: Application_Package_Details_API.html
 version: "25.3"
+title: "Application Package Details REST API"
+page_id: "Application_Package_Details_API"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

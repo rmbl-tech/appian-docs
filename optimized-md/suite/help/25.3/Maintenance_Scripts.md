@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Maintenance_Scripts.html
 original_path: Maintenance_Scripts.html
 version: "25.3"
+title: "Maintenance Scripts"
+page_id: "Maintenance_Scripts"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/InvalidStatusException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/InvalidStatusException.html
 version: "25.3"
+title: "Class InvalidStatusException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/InvalidStatusException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

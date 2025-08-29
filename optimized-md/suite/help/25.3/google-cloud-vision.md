@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/google-cloud-vision.html
 original_path: google-cloud-vision.html
 version: "25.3"
+title: "Google Cloud Vision"
+page_id: "google-cloud-vision"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

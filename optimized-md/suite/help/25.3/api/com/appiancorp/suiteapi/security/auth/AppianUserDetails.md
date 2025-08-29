@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/security/auth/AppianUserDetails.html
 original_path: api/com/appiancorp/suiteapi/security/auth/AppianUserDetails.html
 version: "25.3"
+title: "Class AppianUserDetails"
+page_id: "api/com/appiancorp/suiteapi/security/auth/AppianUserDetails"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.security.auth](package-summary.html)
 

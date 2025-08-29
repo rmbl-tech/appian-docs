@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Generating_Database_Tables_from_CDTs.html
 original_path: Generating_Database_Tables_from_CDTs.html
 version: "25.3"
+title: "Generating Database Tables from Custom Data Types (CDTs)"
+page_id: "Generating_Database_Tables_from_CDTs"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

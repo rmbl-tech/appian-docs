@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/backward-compatibility.html
 original_path: backward-compatibility.html
 version: "25.3"
+title: "Backward Compatibility in Appian"
+page_id: "backward-compatibility"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

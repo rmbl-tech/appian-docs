@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/GenericQuery.GenericBuilder.Order.html
 original_path: api/com/appiancorp/common/query/GenericQuery.GenericBuilder.Order.html
 version: "25.3"
+title: "Class GenericQuery.GenericBuilder.Order"
+page_id: "api/com/appiancorp/common/query/GenericQuery.GenericBuilder.Order"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

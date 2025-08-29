@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Modeling_Tutorial.html
 original_path: Process_Modeling_Tutorial.html
 version: "25.3"
+title: "Process Modeling Tutorial"
+page_id: "Process_Modeling_Tutorial"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

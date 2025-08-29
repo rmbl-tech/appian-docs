@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portal-object.html
 original_path: portal-object.html
 version: "25.3"
+title: "Portal Object"
+page_id: "portal-object"
+section: "What is a portal object?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/AbstractFilterCategoryValidator.html
 original_path: api/com/appiancorp/common/query/AbstractFilterCategoryValidator.html
 version: "25.3"
+title: "Class AbstractFilterCategoryValidator"
+page_id: "api/com/appiancorp/common/query/AbstractFilterCategoryValidator"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-configure-a-boolean-checkbox.html
 original_path: recipe-configure-a-boolean-checkbox.html
 version: "25.3"
+title: "Configure a Boolean Checkbox"
+page_id: "recipe-configure-a-boolean-checkbox"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

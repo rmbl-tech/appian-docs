@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Discussion_Forums.html
 original_path: Discussion_Forums.html
 version: "25.3"
+title: "Discussion Forums \[Deprecated\]"
+page_id: "Discussion_Forums"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

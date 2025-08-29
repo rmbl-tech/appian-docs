@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Working_with_the_Java_Messaging_Service.html
 original_path: Working_with_the_Java_Messaging_Service.html
 version: "25.3"
+title: "Working with the Java Messaging Service"
+page_id: "Working_with_the_Java_Messaging_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

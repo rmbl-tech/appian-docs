@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Create_Case_Management_Page_Smart_Service.html
 original_path: Create_Case_Management_Page_Smart_Service.html
 version: "25.3"
+title: "Create Case Management Page Smart Service \[Deprecated\]"
+page_id: "Create_Case_Management_Page_Smart_Service"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

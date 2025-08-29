@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Query_Recipes_entity.html
 original_path: Query_Recipes_entity.html
 version: "25.3"
+title: "Recipes for Querying Entities"
+page_id: "Query_Recipes_entity"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

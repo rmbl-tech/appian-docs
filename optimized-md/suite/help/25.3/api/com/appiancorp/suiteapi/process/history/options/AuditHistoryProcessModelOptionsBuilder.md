@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/history/options/AuditHistoryProcessModelOptionsBuilder.html
 original_path: api/com/appiancorp/suiteapi/process/history/options/AuditHistoryProcessModelOptionsBuilder.html
 version: "25.3"
+title: "Class AuditHistoryProcessModelOptionsBuilder"
+page_id: "api/com/appiancorp/suiteapi/process/history/options/AuditHistoryProcessModelOptionsBuilder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.history.options](package-summary.html)
 

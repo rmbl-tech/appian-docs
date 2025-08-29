@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/security/ProcessApplicationPermissions.html
 original_path: api/com/appiancorp/suiteapi/process/security/ProcessApplicationPermissions.html
 version: "25.3"
+title: "Class ProcessApplicationPermissions"
+page_id: "api/com/appiancorp/suiteapi/process/security/ProcessApplicationPermissions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.security](package-summary.html)
 

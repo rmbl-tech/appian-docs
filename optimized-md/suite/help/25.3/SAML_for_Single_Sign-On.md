@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/SAML_for_Single_Sign-On.html
 original_path: SAML_for_Single_Sign-On.html
 version: "25.3"
+title: "SAML for Single Sign-On"
+page_id: "SAML_for_Single_Sign-On"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

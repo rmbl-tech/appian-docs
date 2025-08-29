@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/conference-home-page.html
 original_path: sail/conference-home-page.html
 version: "25.3"
+title: "Conference Home Page"
+page_id: "sail/conference-home-page"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Conference Home Page \[SAIL Design System: Inspiration\]
 

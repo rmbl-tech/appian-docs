@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/drilldown-pattern.html
 original_path: drilldown-pattern.html
 version: "25.3"
+title: "Drilldown Pattern"
+page_id: "drilldown-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

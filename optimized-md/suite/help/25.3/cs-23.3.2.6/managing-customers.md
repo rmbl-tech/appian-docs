@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cs-23.3.2.6/managing-customers.html
 original_path: cs-23.3.2.6/managing-customers.html
 version: "25.3"
+title: "Managing Customers"
+page_id: "cs-23.3.2.6/managing-customers"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

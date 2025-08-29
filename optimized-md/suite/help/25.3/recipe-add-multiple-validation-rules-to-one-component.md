@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-add-multiple-validation-rules-to-one-component.html
 original_path: recipe-add-multiple-validation-rules-to-one-component.html
 version: "25.3"
+title: "Add Multiple Validation Rules to One Component"
+page_id: "recipe-add-multiple-validation-rules-to-one-component"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

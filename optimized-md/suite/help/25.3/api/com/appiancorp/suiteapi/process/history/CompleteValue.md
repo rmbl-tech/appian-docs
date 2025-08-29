@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/history/CompleteValue.html
 original_path: api/com/appiancorp/suiteapi/process/history/CompleteValue.html
 version: "25.3"
+title: "Class CompleteValue"
+page_id: "api/com/appiancorp/suiteapi/process/history/CompleteValue"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.history](package-summary.html)
 

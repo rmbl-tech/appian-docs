@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/kyc-23.3.1.6/managing-documents.html
 original_path: kyc-23.3.1.6/managing-documents.html
 version: "25.3"
+title: "Managing Documents"
+page_id: "kyc-23.3.1.6/managing-documents"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

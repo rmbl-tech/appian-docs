@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/ai-skills-intro.html
 original_path: ai-skills-intro.html
 version: "25.3"
+title: "AI Skills"
+page_id: "ai-skills-intro"
+section: "What AI skills are available?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

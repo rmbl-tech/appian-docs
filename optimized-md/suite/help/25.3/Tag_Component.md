@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Tag_Component.html
 original_path: Tag_Component.html
 version: "25.3"
+title: "Tag Component"
+page_id: "Tag_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

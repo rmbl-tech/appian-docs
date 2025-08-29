@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/PublicRoleMap.html
 original_path: api/com/appiancorp/suiteapi/common/PublicRoleMap.html
 version: "25.3"
+title: "Class PublicRoleMap"
+page_id: "api/com/appiancorp/suiteapi/common/PublicRoleMap"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

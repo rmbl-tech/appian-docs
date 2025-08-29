@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/LogicalExpressionValidator.html
 original_path: api/com/appiancorp/common/query/LogicalExpressionValidator.html
 version: "25.3"
+title: "Interface LogicalExpressionValidator"
+page_id: "api/com/appiancorp/common/query/LogicalExpressionValidator"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

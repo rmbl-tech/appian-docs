@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/records-filter-source-data.html
 original_path: records-filter-source-data.html
 version: "25.3"
+title: "Configure Sync Filters"
+page_id: "records-filter-source-data"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

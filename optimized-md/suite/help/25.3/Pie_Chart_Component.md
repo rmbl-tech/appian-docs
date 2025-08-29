@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Pie_Chart_Component.html
 original_path: Pie_Chart_Component.html
 version: "25.3"
+title: "Pie Chart Component"
+page_id: "Pie_Chart_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

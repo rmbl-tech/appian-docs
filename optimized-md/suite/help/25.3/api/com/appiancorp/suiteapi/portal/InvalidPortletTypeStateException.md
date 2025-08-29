@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/InvalidPortletTypeStateException.html
 original_path: api/com/appiancorp/suiteapi/portal/InvalidPortletTypeStateException.html
 version: "25.3"
+title: "Class InvalidPortletTypeStateException"
+page_id: "api/com/appiancorp/suiteapi/portal/InvalidPortletTypeStateException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal](package-summary.html)
 

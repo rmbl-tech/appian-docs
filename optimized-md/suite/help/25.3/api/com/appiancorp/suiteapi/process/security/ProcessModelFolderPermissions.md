@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/security/ProcessModelFolderPermissions.html
 original_path: api/com/appiancorp/suiteapi/process/security/ProcessModelFolderPermissions.html
 version: "25.3"
+title: "Class ProcessModelFolderPermissions"
+page_id: "api/com/appiancorp/suiteapi/process/security/ProcessModelFolderPermissions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.security](package-summary.html)
 

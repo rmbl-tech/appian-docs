@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-section-layout.html
 original_path: sail/ux-section-layout.html
 version: "25.3"
+title: "Section Layout"
+page_id: "sail/ux-section-layout"
+section: "When to use a section layout"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Section Layout \[SAIL Design System: Components\]
 

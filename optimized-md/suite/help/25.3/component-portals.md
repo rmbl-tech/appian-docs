@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/component-portals.html
 original_path: component-portals.html
 version: "25.3"
+title: "Develop Component Plug-ins for Portals"
+page_id: "component-portals"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

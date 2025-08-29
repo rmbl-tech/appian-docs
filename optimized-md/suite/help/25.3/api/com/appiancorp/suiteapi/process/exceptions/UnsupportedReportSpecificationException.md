@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.html
 original_path: api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.html
 version: "25.3"
+title: "Class UnsupportedReportSpecificationException"
+page_id: "api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.exceptions](package-summary.html)
 

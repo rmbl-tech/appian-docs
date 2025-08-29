@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/functions-side-effects.html
 original_path: functions-side-effects.html
 version: "25.3"
+title: "Functions and Side Effects"
+page_id: "functions-side-effects"
+section: "Evaluation considerations"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/How_to_Think_About_Integrations.html
 original_path: How_to_Think_About_Integrations.html
 version: "25.3"
+title: "Why Integrate"
+page_id: "How_to_Think_About_Integrations"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

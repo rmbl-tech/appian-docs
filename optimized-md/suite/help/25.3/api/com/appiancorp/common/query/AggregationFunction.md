@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/AggregationFunction.html
 original_path: api/com/appiancorp/common/query/AggregationFunction.html
 version: "25.3"
+title: "Enum Class AggregationFunction"
+page_id: "api/com/appiancorp/common/query/AggregationFunction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

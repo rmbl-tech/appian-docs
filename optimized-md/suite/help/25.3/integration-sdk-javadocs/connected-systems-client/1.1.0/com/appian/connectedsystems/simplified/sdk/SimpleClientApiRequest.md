@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-javadocs/connected-systems-client/1.1.0/com/appian/connectedsystems/simplified/sdk/SimpleClientApiRequest.html
 original_path: integration-sdk-javadocs/connected-systems-client/1.1.0/com/appian/connectedsystems/simplified/sdk/SimpleClientApiRequest.html
 version: "25.3"
+page_id: "integration-sdk-javadocs/connected-systems-client/1.1.0/com/appian/connectedsystems/simplified/sdk/SimpleClientApiRequest"
+section: "Class SimpleClientApiRequest"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 [Skip navigation links](#skip.navbar.top "Skip navigation links")
 

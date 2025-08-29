@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/expression/annotations/AppianScriptingFunctionsCategory.html
 original_path: api/com/appiancorp/suiteapi/expression/annotations/AppianScriptingFunctionsCategory.html
 version: "25.3"
+title: "Annotation Interface AppianScriptingFunctionsCategory"
+page_id: "api/com/appiancorp/suiteapi/expression/annotations/AppianScriptingFunctionsCategory"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.expression.annotations](package-summary.html)
 

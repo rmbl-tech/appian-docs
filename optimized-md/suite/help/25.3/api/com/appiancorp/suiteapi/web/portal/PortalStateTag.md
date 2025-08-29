@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/web/portal/PortalStateTag.html
 original_path: api/com/appiancorp/suiteapi/web/portal/PortalStateTag.html
 version: "25.3"
+title: "Class PortalStateTag"
+page_id: "api/com/appiancorp/suiteapi/web/portal/PortalStateTag"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.web.portal](package-summary.html)
 

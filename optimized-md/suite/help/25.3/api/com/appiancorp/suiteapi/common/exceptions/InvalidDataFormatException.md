@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/InvalidDataFormatException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/InvalidDataFormatException.html
 version: "25.3"
+title: "Class InvalidDataFormatException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/InvalidDataFormatException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

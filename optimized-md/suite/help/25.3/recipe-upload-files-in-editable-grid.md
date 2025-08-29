@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-upload-files-in-editable-grid.html
 original_path: recipe-upload-files-in-editable-grid.html
 version: "25.3"
+title: "Upload Multiple Documents in an Editable Grid"
+page_id: "recipe-upload-files-in-editable-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

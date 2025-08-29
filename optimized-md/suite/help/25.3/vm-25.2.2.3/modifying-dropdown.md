@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/vm-25.2.2.3/modifying-dropdown.html
 original_path: vm-25.2.2.3/modifying-dropdown.html
 version: "25.3"
+title: "Modifying Dropdown Lists in VM"
+page_id: "vm-25.2.2.3/modifying-dropdown"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

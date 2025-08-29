@@ -3,7 +3,11 @@ source_url: https://docs.appian.com/suite/help/25.3/sail/forms.html
 original_path: sail/forms.html
 version: "25.3"
 part: 1/4
+title: "Forms"
+page_id: "sail/forms"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

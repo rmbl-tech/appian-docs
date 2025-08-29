@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/testing-offline-actions-and-tasks.html
 original_path: testing-offline-actions-and-tasks.html
 version: "25.3"
+title: "Testing Offline Forms"
+page_id: "testing-offline-actions-and-tasks"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

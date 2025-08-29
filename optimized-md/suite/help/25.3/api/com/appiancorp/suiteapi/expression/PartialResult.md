@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/expression/PartialResult.html
 original_path: api/com/appiancorp/suiteapi/expression/PartialResult.html
 version: "25.3"
+title: "Class PartialResult"
+page_id: "api/com/appiancorp/suiteapi/expression/PartialResult"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.expression](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_array_index.html
 original_path: fnc_array_index.html
 version: "25.3"
+title: "index() Function"
+page_id: "fnc_array_index"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

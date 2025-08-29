@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Managing_Object_Versions.html
 original_path: Managing_Object_Versions.html
 version: "25.3"
+title: "Managing Object Versions"
+page_id: "Managing_Object_Versions"
+section: "View versions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

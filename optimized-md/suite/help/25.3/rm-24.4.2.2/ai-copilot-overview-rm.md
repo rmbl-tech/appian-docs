@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rm-24.4.2.2/ai-copilot-overview-rm.html
 original_path: rm-24.4.2.2/ai-copilot-overview-rm.html
 version: "25.3"
+title: "RM Procurement AI Copilot Module Overview"
+page_id: "rm-24.4.2.2/ai-copilot-overview-rm"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

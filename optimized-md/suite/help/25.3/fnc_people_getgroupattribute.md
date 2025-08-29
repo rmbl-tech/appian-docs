@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_people_getgroupattribute.html
 original_path: fnc_people_getgroupattribute.html
 version: "25.3"
+title: "getgroupattribute() Function"
+page_id: "fnc_people_getgroupattribute"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

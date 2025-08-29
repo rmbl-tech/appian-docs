@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Wizard_Layout.html
 original_path: Wizard_Layout.html
 version: "25.3"
+title: "Wizard Layout"
+page_id: "Wizard_Layout"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

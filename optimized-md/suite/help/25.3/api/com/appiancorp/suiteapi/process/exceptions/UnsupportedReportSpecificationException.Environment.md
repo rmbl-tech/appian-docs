@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.Environment.html
 original_path: api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.Environment.html
 version: "25.3"
+title: "Enum Class UnsupportedReportSpecificationException.Environment"
+page_id: "api/com/appiancorp/suiteapi/process/exceptions/UnsupportedReportSpecificationException.Environment"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.exceptions](package-summary.html)
 

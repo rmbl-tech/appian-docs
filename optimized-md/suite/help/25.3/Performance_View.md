@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Performance_View.html
 original_path: Performance_View.html
 version: "25.3"
+title: "Performance Details"
+page_id: "Performance_View"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

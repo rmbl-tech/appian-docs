@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Grid_Header_Component.html
 original_path: Grid_Header_Component.html
 version: "25.3"
+title: "Editable Grid Header Component"
+page_id: "Grid_Header_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

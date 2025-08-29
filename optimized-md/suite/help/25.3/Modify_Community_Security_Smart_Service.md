@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Modify_Community_Security_Smart_Service.html
 original_path: Modify_Community_Security_Smart_Service.html
 version: "25.3"
+title: "Modify Community Security Smart Service \[Deprecated\]"
+page_id: "Modify_Community_Security_Smart_Service"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/webservices/ProcessStartingInfo.html
 original_path: api/com/appiancorp/suiteapi/process/webservices/ProcessStartingInfo.html
 version: "25.3"
+title: "Class ProcessStartingInfo"
+page_id: "api/com/appiancorp/suiteapi/process/webservices/ProcessStartingInfo"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.webservices](package-summary.html)
 

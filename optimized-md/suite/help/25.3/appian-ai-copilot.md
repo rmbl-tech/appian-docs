@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/appian-ai-copilot.html
 original_path: appian-ai-copilot.html
 version: "25.3"
+title: "What is Appian AI Copilot?"
+page_id: "appian-ai-copilot"
+section: "Introducing Appian AI Copilot"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

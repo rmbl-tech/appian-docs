@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Integration_Tutorial.html
 original_path: Integration_Tutorial.html
 version: "25.3"
+title: "Integration Tutorial"
+page_id: "Integration_Tutorial"
+section: "Tutorial scenario"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

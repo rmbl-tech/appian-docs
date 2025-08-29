@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/spring/security/CompositeSessionAuthenticationStrategy.html
 original_path: api/com/appiancorp/suiteapi/common/spring/security/CompositeSessionAuthenticationStrategy.html
 version: "25.3"
+title: "Class CompositeSessionAuthenticationStrategy"
+page_id: "api/com/appiancorp/suiteapi/common/spring/security/CompositeSessionAuthenticationStrategy"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.spring.security](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/card-choices-bars.html
 original_path: card-choices-bars.html
 version: "25.3"
+title: "Bars (Justified Text) Card Choices Template"
+page_id: "card-choices-bars"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

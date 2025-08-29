@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/health-check-data-faq.html
 original_path: health-check-data-faq.html
 version: "25.3"
+title: "Health Check Data FAQ"
+page_id: "health-check-data-faq"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

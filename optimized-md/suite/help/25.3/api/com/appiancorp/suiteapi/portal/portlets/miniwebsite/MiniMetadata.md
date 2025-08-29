@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/portlets/miniwebsite/MiniMetadata.html
 original_path: api/com/appiancorp/suiteapi/portal/portlets/miniwebsite/MiniMetadata.html
 version: "25.3"
+title: "Class MiniMetadata"
+page_id: "api/com/appiancorp/suiteapi/portal/portlets/miniwebsite/MiniMetadata"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal.portlets.miniwebsite](package-summary.html)
 

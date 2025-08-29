@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_trigonometry_cosh.html
 original_path: fnc_trigonometry_cosh.html
 version: "25.3"
+title: "cosh() Function"
+page_id: "fnc_trigonometry_cosh"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

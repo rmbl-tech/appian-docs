@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Prerequisites.html
 original_path: Prerequisites.html
 version: "25.3"
+title: "Installation Prerequisites"
+page_id: "Prerequisites"
+section: "Install third-party software"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

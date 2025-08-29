@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Horizontal_Line_Component.html
 original_path: Horizontal_Line_Component.html
 version: "25.3"
+title: "Horizontal Line Component"
+page_id: "Horizontal_Line_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

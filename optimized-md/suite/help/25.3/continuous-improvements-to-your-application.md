@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/continuous-improvements-to-your-application.html
 original_path: continuous-improvements-to-your-application.html
 version: "25.3"
+title: "Continuous Integration in Appian"
+page_id: "continuous-improvements-to-your-application"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

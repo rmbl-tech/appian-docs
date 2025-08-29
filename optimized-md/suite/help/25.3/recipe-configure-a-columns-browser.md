@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-configure-a-columns-browser.html
 original_path: recipe-configure-a-columns-browser.html
 version: "25.3"
+title: "Browse Hierarchical Data"
+page_id: "recipe-configure-a-columns-browser"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

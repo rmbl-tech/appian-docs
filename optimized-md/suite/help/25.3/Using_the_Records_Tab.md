@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Using_the_Records_Tab.html
 original_path: Using_the_Records_Tab.html
 version: "25.3"
+title: "Where to Use Records"
+page_id: "Using_the_Records_Tab"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

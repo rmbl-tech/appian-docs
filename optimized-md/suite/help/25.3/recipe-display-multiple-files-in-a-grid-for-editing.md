@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-display-multiple-files-in-a-grid-for-editing.html
 original_path: recipe-display-multiple-files-in-a-grid-for-editing.html
 version: "25.3"
+title: "Display Multiple Files in a Grid"
+page_id: "recipe-display-multiple-files-in-a-grid-for-editing"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

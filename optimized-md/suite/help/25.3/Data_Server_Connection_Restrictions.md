@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Data_Server_Connection_Restrictions.html
 original_path: Data_Server_Connection_Restrictions.html
 version: "25.3"
+title: "Data Service Connection Restrictions"
+page_id: "Data_Server_Connection_Restrictions"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

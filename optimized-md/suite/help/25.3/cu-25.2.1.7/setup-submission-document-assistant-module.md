@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cu-25.2.1.7/setup-submission-document-assistant-module.html
 original_path: cu-25.2.1.7/setup-submission-document-assistant-module.html
 version: "25.3"
+title: "Setting Up the AI Submission Document Assistant Module"
+page_id: "cu-25.2.1.7/setup-submission-document-assistant-module"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

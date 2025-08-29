@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Importing_Rules_and_Constants.html
 original_path: Importing_Rules_and_Constants.html
 version: "25.3"
+title: "Importing Rules and Constants \[Deprecated\]"
+page_id: "Importing_Rules_and_Constants"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

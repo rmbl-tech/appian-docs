@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_conversion_toknowledgecenter.html
 original_path: fnc_conversion_toknowledgecenter.html
 version: "25.3"
+title: "toknowledgecenter() Function"
+page_id: "fnc_conversion_toknowledgecenter"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

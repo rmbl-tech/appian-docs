@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/analytics2/Column.html
 original_path: api/com/appiancorp/suiteapi/process/analytics2/Column.html
 version: "25.3"
+title: "Class Column"
+page_id: "api/com/appiancorp/suiteapi/process/analytics2/Column"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.analytics2](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/card_layout.html
 original_path: card_layout.html
 version: "25.3"
+title: "Card Layout"
+page_id: "card_layout"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Barcode_Component.html
 original_path: Barcode_Component.html
 version: "25.3"
+title: "Barcode Component"
+page_id: "Barcode_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

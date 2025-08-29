@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/translation-set-object.html
 original_path: translation-set-object.html
 version: "25.3"
+title: "Translation Set Object"
+page_id: "translation-set-object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

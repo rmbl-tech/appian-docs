@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-form-layout.html
 original_path: sail/ux-form-layout.html
 version: "25.3"
+title: "Form Layout"
+page_id: "sail/ux-form-layout"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Form Layout \[SAIL Design System: Components\]
 

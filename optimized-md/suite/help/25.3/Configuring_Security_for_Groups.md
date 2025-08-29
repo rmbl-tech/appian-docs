@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configuring_Security_for_Groups.html
 original_path: Configuring_Security_for_Groups.html
 version: "25.3"
+title: "Configuring Security for Groups"
+page_id: "Configuring_Security_for_Groups"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

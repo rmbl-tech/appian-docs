@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/expression-editor.html
 original_path: expression-editor.html
 version: "25.3"
+title: "Expression Editor"
+page_id: "expression-editor"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

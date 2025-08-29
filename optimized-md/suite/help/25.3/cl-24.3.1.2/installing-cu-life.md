@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cl-24.3.1.2/installing-cu-life.html
 original_path: cl-24.3.1.2/installing-cu-life.html
 version: "25.3"
+title: "Installing Connected Underwriting Life Workbench"
+page_id: "cl-24.3.1.2/installing-cu-life"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/messaging/InvalidJMSDestinationException.html
 original_path: api/com/appiancorp/suiteapi/messaging/InvalidJMSDestinationException.html
 version: "25.3"
+title: "Class InvalidJMSDestinationException"
+page_id: "api/com/appiancorp/suiteapi/messaging/InvalidJMSDestinationException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.messaging](package-summary.html)
 

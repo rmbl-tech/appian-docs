@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/reference-js-api.html
 original_path: reference-js-api.html
 version: "25.3"
+title: "JavaScript API"
+page_id: "reference-js-api"
+section: "Loading the Component Plug-in JavaScript API"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

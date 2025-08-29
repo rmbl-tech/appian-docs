@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Set_User_Home_Page_Smart_Service.html
 original_path: Set_User_Home_Page_Smart_Service.html
 version: "25.3"
+title: "Set User Home Page Smart Service \[Deprecated\]"
+page_id: "Set_User_Home_Page_Smart_Service"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

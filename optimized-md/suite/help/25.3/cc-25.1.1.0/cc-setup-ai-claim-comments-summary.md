@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cc-25.1.1.0/cc-setup-ai-claim-comments-summary.html
 original_path: cc-25.1.1.0/cc-setup-ai-claim-comments-summary.html
 version: "25.3"
+title: "Setting Up AI Claim Comment Summary Module"
+page_id: "cc-25.1.1.0/cc-setup-ai-claim-comments-summary"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-javadocs/connected-systems-client/1.1.0/overview-summary.html
 original_path: integration-sdk-javadocs/connected-systems-client/1.1.0/overview-summary.html
 version: "25.3"
+title: "Appian Connected Systems Client"
+page_id: "integration-sdk-javadocs/connected-systems-client/1.1.0/overview-summary"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 [Skip navigation links](#skip.navbar.top "Skip navigation links")
 

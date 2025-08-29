@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/JSONCacheable.html
 original_path: api/com/appiancorp/suiteapi/common/JSONCacheable.html
 version: "25.3"
+title: "Interface JSONCacheable"
+page_id: "api/com/appiancorp/suiteapi/common/JSONCacheable"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

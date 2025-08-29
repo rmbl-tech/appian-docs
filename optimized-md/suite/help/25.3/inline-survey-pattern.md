@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/inline-survey-pattern.html
 original_path: inline-survey-pattern.html
 version: "25.3"
+title: "Inline Survey"
+page_id: "inline-survey-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/k8s-0.184.0/unsupported-custom-properties.html
 original_path: k8s-0.184.0/unsupported-custom-properties.html
 version: "25.3"
+title: "Unsupported Custom Properties"
+page_id: "k8s-0.184.0/unsupported-custom-properties"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

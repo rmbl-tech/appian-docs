@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Sidebar_Template.html
 original_path: Sidebar_Template.html
 version: "25.3"
+title: "Sidebar Template"
+page_id: "Sidebar_Template"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

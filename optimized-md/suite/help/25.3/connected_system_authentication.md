@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/connected_system_authentication.html
 original_path: connected_system_authentication.html
 version: "25.3"
+title: "Authentication Types"
+page_id: "connected_system_authentication"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

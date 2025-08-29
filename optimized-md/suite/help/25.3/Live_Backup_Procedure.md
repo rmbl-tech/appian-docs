@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Live_Backup_Procedure.html
 original_path: Live_Backup_Procedure.html
 version: "25.3"
+title: "Live Backup Procedure"
+page_id: "Live_Backup_Procedure"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

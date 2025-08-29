@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-add-custom-smart-search-box-in-read-only-grid.html
 original_path: recipe-add-custom-smart-search-box-in-read-only-grid.html
 version: "25.3"
+title: "Create a Custom Smart Search Box in a Read-only Grid"
+page_id: "recipe-add-custom-smart-search-box-in-read-only-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

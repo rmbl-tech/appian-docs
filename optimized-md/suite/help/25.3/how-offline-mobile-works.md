@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/how-offline-mobile-works.html
 original_path: how-offline-mobile-works.html
 version: "25.3"
+title: "How Offline Mobile Works"
+page_id: "how-offline-mobile-works"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

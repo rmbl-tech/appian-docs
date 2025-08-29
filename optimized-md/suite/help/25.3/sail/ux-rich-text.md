@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-rich-text.html
 original_path: sail/ux-rich-text.html
 version: "25.3"
+title: "Rich Text"
+page_id: "sail/ux-rich-text"
+section: "Accessibility considerations"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Rich Text \[SAIL Design System: Components\]
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Web_Image_Component.html
 original_path: Web_Image_Component.html
 version: "25.3"
+title: "Web Image"
+page_id: "Web_Image_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

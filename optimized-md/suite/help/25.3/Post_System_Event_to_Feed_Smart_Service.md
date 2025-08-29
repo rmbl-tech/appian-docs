@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Post_System_Event_to_Feed_Smart_Service.html
 original_path: Post_System_Event_to_Feed_Smart_Service.html
 version: "25.3"
+title: "Post System Event to Feed Smart Service"
+page_id: "Post_System_Event_to_Feed_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

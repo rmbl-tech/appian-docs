@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/procuresight-core-landing-page.html
 original_path: procuresight-core-landing-page.html
 version: "25.3"
+title: "What is ProcureSight Core?"
+page_id: "procuresight-core-landing-page"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/process-custom-kpis.html
 original_path: process-custom-kpis.html
 version: "25.3"
+title: "Manage KPIs"
+page_id: "process-custom-kpis"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

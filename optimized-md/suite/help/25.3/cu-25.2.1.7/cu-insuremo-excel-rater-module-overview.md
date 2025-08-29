@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cu-25.2.1.7/cu-insuremo-excel-rater-module-overview.html
 original_path: cu-25.2.1.7/cu-insuremo-excel-rater-module-overview.html
 version: "25.3"
+title: "InsureMO Excel Rater Module Overview"
+page_id: "cu-25.2.1.7/cu-insuremo-excel-rater-module-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

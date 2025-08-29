@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-aggregate-data-on-a-date-or-date-time-field.html
 original_path: recipe-aggregate-data-on-a-date-or-date-time-field.html
 version: "25.3"
+title: "Aggregate Data on a Date or Date and Time Field"
+page_id: "recipe-aggregate-data-on-a-date-or-date-time-field"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

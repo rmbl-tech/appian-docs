@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/prepare-data-for-reports.html
 original_path: prepare-data-for-reports.html
 version: "25.3"
+title: "Prepare Data for Data Fabric Insights"
+page_id: "prepare-data-for-reports"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

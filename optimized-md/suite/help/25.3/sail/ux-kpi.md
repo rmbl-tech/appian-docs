@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-kpi.html
 original_path: sail/ux-kpi.html
 version: "25.3"
+title: "KPIs"
+page_id: "sail/ux-kpi"
+section: "When to use a KPI"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) KPIs \[SAIL Design System: Components\]
 

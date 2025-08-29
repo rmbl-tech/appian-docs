@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Report_Performance_Details.html
 original_path: Report_Performance_Details.html
 version: "25.3"
+title: "Report Performance Details"
+page_id: "Report_Performance_Details"
+section: "Report generation"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

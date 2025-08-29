@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Deprecated_Features.html
 original_path: Deprecated_Features.html
 version: "25.3"
+title: "Deprecated Features"
+page_id: "Deprecated_Features"
+section: "Definition"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

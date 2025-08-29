@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Reconcile_Doc_Extraction_Smart_Service.html
 original_path: Reconcile_Doc_Extraction_Smart_Service.html
 version: "25.3"
+title: "Reconcile Doc Extraction Smart Service"
+page_id: "Reconcile_Doc_Extraction_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-gauge.html
 original_path: sail/ux-gauge.html
 version: "25.3"
+title: "Gauges"
+page_id: "sail/ux-gauge"
+section: "When to use a gauge"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Gauges \[SAIL Design System: Components\]
 

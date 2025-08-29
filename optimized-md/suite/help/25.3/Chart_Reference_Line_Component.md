@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Chart_Reference_Line_Component.html
 original_path: Chart_Reference_Line_Component.html
 version: "25.3"
+title: "Chart Reference Line Component"
+page_id: "Chart_Reference_Line_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

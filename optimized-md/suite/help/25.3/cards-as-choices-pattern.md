@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cards-as-choices-pattern.html
 original_path: cards-as-choices-pattern.html
 version: "25.3"
+title: "Cards as Choices Pattern"
+page_id: "cards-as-choices-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

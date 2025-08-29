@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configure_Script.html
 original_path: Configure_Script.html
 version: "25.3"
+title: "Configure Script"
+page_id: "Configure_Script"
+section: "Installation"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/installing-citizen-portal.html
 original_path: installing-citizen-portal.html
 version: "25.3"
+title: "Installing the Public Portal Module"
+page_id: "installing-citizen-portal"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

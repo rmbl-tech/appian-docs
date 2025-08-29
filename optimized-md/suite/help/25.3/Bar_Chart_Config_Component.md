@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Bar_Chart_Config_Component.html
 original_path: Bar_Chart_Config_Component.html
 version: "25.3"
+title: "Bar Chart Configuration"
+page_id: "Bar_Chart_Config_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

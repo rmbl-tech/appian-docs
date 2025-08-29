@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Custom_Smart_Service_Plug-ins.html
 original_path: Custom_Smart_Service_Plug-ins.html
 version: "25.3"
+title: "Smart Service Plug-ins"
+page_id: "Custom_Smart_Service_Plug-ins"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

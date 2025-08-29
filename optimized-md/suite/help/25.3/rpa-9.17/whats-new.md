@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/whats-new.html
 original_path: rpa-9.17/whats-new.html
 version: "25.3"
+title: "What's New in Appian RPA"
+page_id: "rpa-9.17/whats-new"
+section: "Version 9.17 (Release date: 3 July 2025 )"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/csp-configuration-files.html
 original_path: csp-configuration-files.html
 version: "25.3"
+title: "Configuration Files"
+page_id: "csp-configuration-files"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/type/system/ListView.html
 original_path: api/com/appiancorp/type/system/ListView.html
 version: "25.3"
+title: "Class ListView<I,T>"
+page_id: "api/com/appiancorp/type/system/ListView"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.type.system](package-summary.html)
 

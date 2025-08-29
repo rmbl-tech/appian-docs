@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/records-data-sync.html
 original_path: records-data-sync.html
 version: "25.3"
+title: "Configure Data Sync Options"
+page_id: "records-data-sync"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

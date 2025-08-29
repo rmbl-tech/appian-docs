@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/building_accessible_applications.html
 original_path: building_accessible_applications.html
 version: "25.3"
+title: "Building Accessible Applications"
+page_id: "building_accessible_applications"
+section: "Accessible user interfaces with SAIL"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

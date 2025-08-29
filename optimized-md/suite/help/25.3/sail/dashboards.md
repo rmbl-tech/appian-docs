@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/dashboards.html
 original_path: sail/dashboards.html
 version: "25.3"
+title: "Dashboards"
+page_id: "sail/dashboards"
+section: "What is a dashboard?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Dashboards \[SAIL Design System: Patterns\]
 

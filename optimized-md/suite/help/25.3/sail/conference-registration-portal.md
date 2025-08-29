@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/conference-registration-portal.html
 original_path: sail/conference-registration-portal.html
 version: "25.3"
+title: "Conference Registration Portal"
+page_id: "sail/conference-registration-portal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Conference Registration Portal \[SAIL Design System: Inspiration\]
 

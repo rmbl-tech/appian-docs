@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/CustomContent.html
 original_path: api/com/appiancorp/suiteapi/content/CustomContent.html
 version: "25.3"
+title: "Class CustomContent"
+page_id: "api/com/appiancorp/suiteapi/content/CustomContent"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content](package-summary.html)
 

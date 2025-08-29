@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/aok-faq.html
 original_path: aok-faq.html
 version: "25.3"
+title: "FAQ: Preparing for Containerized Self-managed Appian in 2025"
+page_id: "aok-faq"
+section: "Upcoming changes"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

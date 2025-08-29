@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/sail-benefits.html
 original_path: sail/sail-benefits.html
 version: "25.3"
+title: "Benefits of SAIL"
+page_id: "sail/sail-benefits"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Benefits of SAIL \[SAIL Design System: Getting Started\]
 

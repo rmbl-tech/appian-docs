@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/ux_messages_comments.html
 original_path: ux_messages_comments.html
 version: "25.3"
+title: "Comments Patterns"
+page_id: "ux_messages_comments"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

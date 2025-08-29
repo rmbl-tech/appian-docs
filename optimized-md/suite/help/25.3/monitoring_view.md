@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/monitoring_view.html
 original_path: monitoring_view.html
 version: "25.3"
+title: "Monitor View"
+page_id: "monitoring_view"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

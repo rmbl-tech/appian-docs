@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/find_and_search_in_appian.html
 original_path: find_and_search_in_appian.html
 version: "25.3"
+title: "Search in Designer"
+page_id: "find_and_search_in_appian"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

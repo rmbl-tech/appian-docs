@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-configure-a-dropdown-with-an-extra-option-for-other.html
 original_path: recipe-configure-a-dropdown-with-an-extra-option-for-other.html
 version: "25.3"
+title: "Configure a Dropdown with an Extra Option for Other"
+page_id: "recipe-configure-a-dropdown-with-an-extra-option-for-other"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

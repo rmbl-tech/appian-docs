@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Post_Hazard_to_Feed_Entry_Smart_Service.html
 original_path: Post_Hazard_to_Feed_Entry_Smart_Service.html
 version: "25.3"
+title: "Post Hazard to Feed Entry Smart Service"
+page_id: "Post_Hazard_to_Feed_Entry_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

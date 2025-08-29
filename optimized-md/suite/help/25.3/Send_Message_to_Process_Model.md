@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Send_Message_to_Process_Model.html
 original_path: Send_Message_to_Process_Model.html
 version: "25.3"
+title: "Send Message to Process Model \[Deprecated\]"
+page_id: "Send_Message_to_Process_Model"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

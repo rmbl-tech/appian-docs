@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/browser_examples.html
 original_path: browser_examples.html
 version: "25.3"
+title: "Understanding User and Group Browser Components"
+page_id: "browser_examples"
+section: "Example interfaces"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

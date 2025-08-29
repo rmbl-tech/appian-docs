@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/advanced-plug-ins.html
 original_path: advanced-plug-ins.html
 version: "25.3"
+title: "Advanced Plug-ins"
+page_id: "advanced-plug-ins"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

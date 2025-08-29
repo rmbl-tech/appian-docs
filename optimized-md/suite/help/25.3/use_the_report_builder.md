@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/use_the_report_builder.html
 original_path: use_the_report_builder.html
 version: "25.3"
+title: "Use the Report Builder \[Deprecated\]"
+page_id: "use_the_report_builder"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

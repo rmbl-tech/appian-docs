@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/HTTP_File_Upload_Smart_Service.html
 original_path: HTTP_File_Upload_Smart_Service.html
 version: "25.3"
+title: "HTTP File Upload Smart Service \[Deprecated\]"
+page_id: "HTTP_File_Upload_Smart_Service"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

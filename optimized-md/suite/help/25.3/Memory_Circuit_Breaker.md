@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Memory_Circuit_Breaker.html
 original_path: Memory_Circuit_Breaker.html
 version: "25.3"
+title: "Memory Circuit Breaker"
+page_id: "Memory_Circuit_Breaker"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

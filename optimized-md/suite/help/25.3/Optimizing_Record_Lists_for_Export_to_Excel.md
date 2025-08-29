@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Optimizing_Record_Lists_for_Export_to_Excel.html
 original_path: Optimizing_Record_Lists_for_Export_to_Excel.html
 version: "25.3"
+title: "Export Records to Excel"
+page_id: "Optimizing_Record_Lists_for_Export_to_Excel"
+section: "How can I export data to Excel?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

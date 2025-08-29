@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/OpenID_Connect.html
 original_path: OpenID_Connect.html
 version: "25.3"
+title: "OpenID Connect Authentication"
+page_id: "OpenID_Connect"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

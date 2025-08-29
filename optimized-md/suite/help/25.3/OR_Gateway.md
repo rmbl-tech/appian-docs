@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/OR_Gateway.html
 original_path: OR_Gateway.html
 version: "25.3"
+title: "OR Gateway"
+page_id: "OR_Gateway"
+section: "Path options"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

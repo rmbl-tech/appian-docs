@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-events-automation.html
 original_path: record-events-automation.html
 version: "25.3"
+title: "Track Automated Events with Record Events"
+page_id: "record-events-automation"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

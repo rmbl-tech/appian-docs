@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Automation_Landing.html
 original_path: Automation_Landing.html
 version: "25.3"
+title: "Automation"
+page_id: "Automation_Landing"
+section: "What is automation?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

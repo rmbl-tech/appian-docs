@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/Attribute.html
 original_path: api/com/appiancorp/suiteapi/portal/Attribute.html
 version: "25.3"
+title: "Class Attribute"
+page_id: "api/com/appiancorp/suiteapi/portal/Attribute"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal](package-summary.html)
 

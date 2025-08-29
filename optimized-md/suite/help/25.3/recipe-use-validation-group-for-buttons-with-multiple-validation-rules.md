@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-use-validation-group-for-buttons-with-multiple-validation-rules.html
 original_path: recipe-use-validation-group-for-buttons-with-multiple-validation-rules.html
 version: "25.3"
+title: "Use Validation Groups for Buttons with Multiple Validation Rules"
+page_id: "recipe-use-validation-group-for-buttons-with-multiple-validation-rules"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

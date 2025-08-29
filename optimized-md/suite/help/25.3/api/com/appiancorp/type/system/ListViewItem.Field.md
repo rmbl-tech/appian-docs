@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/type/system/ListViewItem.Field.html
 original_path: api/com/appiancorp/type/system/ListViewItem.Field.html
 version: "25.3"
+title: "Enum Class ListViewItem.Field"
+page_id: "api/com/appiancorp/type/system/ListViewItem.Field"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.type.system](package-summary.html)
 

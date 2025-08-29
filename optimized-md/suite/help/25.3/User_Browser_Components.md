@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/User_Browser_Components.html
 original_path: User_Browser_Components.html
 version: "25.3"
+title: "User Browser Component"
+page_id: "User_Browser_Components"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

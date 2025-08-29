@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/bar-overlay.html
 original_path: bar-overlay.html
 version: "25.3"
+title: "Bar Overlay"
+page_id: "bar-overlay"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-display-last-refresh-time.html
 original_path: recipe-display-last-refresh-time.html
 version: "25.3"
+title: "Display Last Refresh Time"
+page_id: "recipe-display-last-refresh-time"
+section: "Expression"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

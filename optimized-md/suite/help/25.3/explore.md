@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/explore.html
 original_path: explore.html
 version: "25.3"
+title: "Explore a Process"
+page_id: "explore"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

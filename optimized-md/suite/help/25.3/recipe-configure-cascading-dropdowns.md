@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-configure-cascading-dropdowns.html
 original_path: recipe-configure-cascading-dropdowns.html
 version: "25.3"
+title: "Configure Cascading Dropdowns"
+page_id: "recipe-configure-cascading-dropdowns"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

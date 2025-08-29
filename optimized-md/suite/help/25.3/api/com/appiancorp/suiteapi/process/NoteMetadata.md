@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/NoteMetadata.html
 original_path: api/com/appiancorp/suiteapi/process/NoteMetadata.html
 version: "25.3"
+title: "Class NoteMetadata"
+page_id: "api/com/appiancorp/suiteapi/process/NoteMetadata"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

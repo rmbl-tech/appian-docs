@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_array_wherecontains.html
 original_path: fnc_array_wherecontains.html
 version: "25.3"
+title: "wherecontains() Function"
+page_id: "fnc_array_wherecontains"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

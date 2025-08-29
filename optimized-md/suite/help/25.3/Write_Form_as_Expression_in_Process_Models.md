@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Write_Form_as_Expression_in_Process_Models.html
 original_path: Write_Form_as_Expression_in_Process_Models.html
 version: "25.3"
+title: "Write a Form as Expression in Process Models \[Deprecated\]"
+page_id: "Write_Form_as_Expression_in_Process_Models"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

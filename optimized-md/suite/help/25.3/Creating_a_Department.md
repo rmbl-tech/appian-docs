@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Creating_a_Department.html
 original_path: Creating_a_Department.html
 version: "25.3"
+title: "Creating a Department \[Deprecated\]"
+page_id: "Creating_a_Department"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

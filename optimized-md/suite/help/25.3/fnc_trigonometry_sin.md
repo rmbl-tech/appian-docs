@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_trigonometry_sin.html
 original_path: fnc_trigonometry_sin.html
 version: "25.3"
+title: "sin() Function"
+page_id: "fnc_trigonometry_sin"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

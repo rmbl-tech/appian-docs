@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/appianwebmvc/BaseAction.html
 original_path: api/com/appiancorp/common/appianwebmvc/BaseAction.html
 version: "25.3"
+title: "Class BaseAction"
+page_id: "api/com/appiancorp/common/appianwebmvc/BaseAction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.appianwebmvc](package-summary.html)
 

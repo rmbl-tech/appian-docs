@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_conversion_todecimal.html
 original_path: fnc_conversion_todecimal.html
 version: "25.3"
+title: "todecimal() Function"
+page_id: "fnc_conversion_todecimal"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

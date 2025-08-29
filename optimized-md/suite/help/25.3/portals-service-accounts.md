@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portals-service-accounts.html
 original_path: portals-service-accounts.html
 version: "25.3"
+title: "Service Accounts in Portals"
+page_id: "portals-service-accounts"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-javadocs/connected-systems-client/1.1.0/deprecated-list.html
 original_path: integration-sdk-javadocs/connected-systems-client/1.1.0/deprecated-list.html
 version: "25.3"
+title: "Deprecated API"
+page_id: "integration-sdk-javadocs/connected-systems-client/1.1.0/deprecated-list"
+section: "Contents"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 [Skip navigation links](#skip.navbar.top "Skip navigation links")
 

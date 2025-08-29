@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cms-case-creation-via-email-overview.html
 original_path: cms-case-creation-via-email-overview.html
 version: "25.3"
+title: "Case Creation via Email Module Overview"
+page_id: "cms-case-creation-via-email-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Service_Manager_Scripts.html
 original_path: Service_Manager_Scripts.html
 version: "25.3"
+title: "Service Manager Scripts"
+page_id: "Service_Manager_Scripts"
+section: "Purpose"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

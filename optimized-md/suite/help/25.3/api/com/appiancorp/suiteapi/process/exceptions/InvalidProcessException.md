@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/exceptions/InvalidProcessException.html
 original_path: api/com/appiancorp/suiteapi/process/exceptions/InvalidProcessException.html
 version: "25.3"
+title: "Class InvalidProcessException"
+page_id: "api/com/appiancorp/suiteapi/process/exceptions/InvalidProcessException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.exceptions](package-summary.html)
 

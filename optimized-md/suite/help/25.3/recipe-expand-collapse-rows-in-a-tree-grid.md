@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-expand-collapse-rows-in-a-tree-grid.html
 original_path: recipe-expand-collapse-rows-in-a-tree-grid.html
 version: "25.3"
+title: "Expand/Collapse Rows in a Tree Grid"
+page_id: "recipe-expand-collapse-rows-in-a-tree-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

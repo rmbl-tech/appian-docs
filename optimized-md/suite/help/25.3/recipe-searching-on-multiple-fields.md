@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-searching-on-multiple-fields.html
 original_path: recipe-searching-on-multiple-fields.html
 version: "25.3"
+title: "Searching on Multiple Columns"
+page_id: "recipe-searching-on-multiple-fields"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

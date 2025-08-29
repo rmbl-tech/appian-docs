@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Cloud_Insights.html
 original_path: Cloud_Insights.html
 version: "25.3"
+title: "Cloud Resources in MyAppian"
+page_id: "Cloud_Insights"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

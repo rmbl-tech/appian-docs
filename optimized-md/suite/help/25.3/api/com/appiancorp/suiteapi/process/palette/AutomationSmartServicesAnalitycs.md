@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/palette/AutomationSmartServicesAnalitycs.html
 original_path: api/com/appiancorp/suiteapi/process/palette/AutomationSmartServicesAnalitycs.html
 version: "25.3"
+title: "Annotation Interface AutomationSmartServicesAnalitycs"
+page_id: "api/com/appiancorp/suiteapi/process/palette/AutomationSmartServicesAnalitycs"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.palette](package-summary.html)
 

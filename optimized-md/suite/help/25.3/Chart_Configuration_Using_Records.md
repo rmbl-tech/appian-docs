@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Chart_Configuration_Using_Records.html
 original_path: Chart_Configuration_Using_Records.html
 version: "25.3"
+title: "Configure Charts Using Records"
+page_id: "Chart_Configuration_Using_Records"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

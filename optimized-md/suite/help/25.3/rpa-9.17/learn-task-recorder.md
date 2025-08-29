@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/learn-task-recorder.html
 original_path: rpa-9.17/learn-task-recorder.html
 version: "25.3"
+title: "Task Recorder"
+page_id: "rpa-9.17/learn-task-recorder"
+section: "Introduction to the Task Recorder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

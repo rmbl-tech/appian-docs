@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Time_Component.html
 original_path: Time_Component.html
 version: "25.3"
+title: "Time Display Component"
+page_id: "Time_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

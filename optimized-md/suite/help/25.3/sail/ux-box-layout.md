@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-box-layout.html
 original_path: sail/ux-box-layout.html
 version: "25.3"
+title: "Box Layout"
+page_id: "sail/ux-box-layout"
+section: "When to use a box layout"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Box Layout \[SAIL Design System: Components\]
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_informational_isnegativeinfinity.html
 original_path: fnc_informational_isnegativeinfinity.html
 version: "25.3"
+title: "isnegativeinfinity() Function"
+page_id: "fnc_informational_isnegativeinfinity"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

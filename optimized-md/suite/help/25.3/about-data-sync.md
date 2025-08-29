@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/about-data-sync.html
 original_path: about-data-sync.html
 version: "25.3"
+title: "About Data Sync"
+page_id: "about-data-sync"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

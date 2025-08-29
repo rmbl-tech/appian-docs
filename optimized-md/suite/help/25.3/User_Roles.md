@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/User_Roles.html
 original_path: User_Roles.html
 version: "25.3"
+title: "User Roles"
+page_id: "User_Roles"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

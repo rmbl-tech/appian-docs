@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/breadcrumbs-pattern.html
 original_path: breadcrumbs-pattern.html
 version: "25.3"
+title: "Breadcrumbs Pattern"
+page_id: "breadcrumbs-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

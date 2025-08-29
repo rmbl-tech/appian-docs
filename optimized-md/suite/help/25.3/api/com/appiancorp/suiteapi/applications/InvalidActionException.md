@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/applications/InvalidActionException.html
 original_path: api/com/appiancorp/suiteapi/applications/InvalidActionException.html
 version: "25.3"
+title: "Class InvalidActionException"
+page_id: "api/com/appiancorp/suiteapi/applications/InvalidActionException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.applications](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Task_Link_Component.html
 original_path: Process_Task_Link_Component.html
 version: "25.3"
+title: "Process Task Link"
+page_id: "Process_Task_Link_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

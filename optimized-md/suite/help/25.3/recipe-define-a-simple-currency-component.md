@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-define-a-simple-currency-component.html
 original_path: recipe-define-a-simple-currency-component.html
 version: "25.3"
+title: "Define a Simple Currency Component"
+page_id: "recipe-define-a-simple-currency-component"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

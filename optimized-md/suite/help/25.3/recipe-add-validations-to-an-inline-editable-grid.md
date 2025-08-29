@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-add-validations-to-an-inline-editable-grid.html
 original_path: recipe-add-validations-to-an-inline-editable-grid.html
 version: "25.3"
+title: "Add Validations to an Inline Editable Grid"
+page_id: "recipe-add-validations-to-an-inline-editable-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

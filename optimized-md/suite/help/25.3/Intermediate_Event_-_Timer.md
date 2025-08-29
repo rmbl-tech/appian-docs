@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Intermediate_Event_-_Timer.html
 original_path: Intermediate_Event_-_Timer.html
 version: "25.3"
+title: "Timer Event"
+page_id: "Intermediate_Event_-_Timer"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

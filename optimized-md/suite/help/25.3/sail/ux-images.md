@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-images.html
 original_path: sail/ux-images.html
 version: "25.3"
+title: "Images"
+page_id: "sail/ux-images"
+section: "Styles"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Images \[SAIL Design System: Components\]
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Local_Variables.html
 original_path: Local_Variables.html
 version: "25.3"
+title: "Local Variables"
+page_id: "Local_Variables"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

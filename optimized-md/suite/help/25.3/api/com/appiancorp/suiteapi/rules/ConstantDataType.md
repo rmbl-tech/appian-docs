@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/rules/ConstantDataType.html
 original_path: api/com/appiancorp/suiteapi/rules/ConstantDataType.html
 version: "25.3"
+title: "Annotation Interface ConstantDataType"
+page_id: "api/com/appiancorp/suiteapi/rules/ConstantDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.rules](package-summary.html)
 

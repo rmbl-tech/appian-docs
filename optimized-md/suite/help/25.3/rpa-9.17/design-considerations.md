@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/design-considerations.html
 original_path: rpa-9.17/design-considerations.html
 version: "25.3"
+title: "Design Considerations"
+page_id: "rpa-9.17/design-considerations"
+section: "Consider and plan for humans to participate in your robotic task"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

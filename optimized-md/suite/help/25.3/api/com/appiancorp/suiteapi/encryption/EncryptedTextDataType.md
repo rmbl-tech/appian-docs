@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/encryption/EncryptedTextDataType.html
 original_path: api/com/appiancorp/suiteapi/encryption/EncryptedTextDataType.html
 version: "25.3"
+title: "Annotation Interface EncryptedTextDataType"
+page_id: "api/com/appiancorp/suiteapi/encryption/EncryptedTextDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.encryption](package-summary.html)
 

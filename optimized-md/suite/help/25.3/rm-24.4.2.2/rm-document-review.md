@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rm-24.4.2.2/rm-document-review.html
 original_path: rm-24.4.2.2/rm-document-review.html
 version: "25.3"
+title: "Configuring Document Review"
+page_id: "rm-24.4.2.2/rm-document-review"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

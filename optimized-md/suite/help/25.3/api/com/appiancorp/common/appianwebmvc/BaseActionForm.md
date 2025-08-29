@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/appianwebmvc/BaseActionForm.html
 original_path: api/com/appiancorp/common/appianwebmvc/BaseActionForm.html
 version: "25.3"
+title: "Class BaseActionForm"
+page_id: "api/com/appiancorp/common/appianwebmvc/BaseActionForm"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.appianwebmvc](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Sending_an_Email_Message_to_a_Process.html
 original_path: Sending_an_Email_Message_to_a_Process.html
 version: "25.3"
+title: "Sending an Email Message to a Process"
+page_id: "Sending_an_Email_Message_to_a_Process"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

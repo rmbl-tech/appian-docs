@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/analytics2/RunningFilter.html
 original_path: api/com/appiancorp/suiteapi/process/analytics2/RunningFilter.html
 version: "25.3"
+title: "Class RunningFilter"
+page_id: "api/com/appiancorp/suiteapi/process/analytics2/RunningFilter"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.analytics2](package-summary.html)
 

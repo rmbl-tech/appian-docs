@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/LocalizedIdentity.html
 original_path: api/com/appiancorp/suiteapi/common/LocalizedIdentity.html
 version: "25.3"
+title: "Class LocalizedIdentity"
+page_id: "api/com/appiancorp/suiteapi/common/LocalizedIdentity"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

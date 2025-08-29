@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/expressions-parallel-evaluation.html
 original_path: expressions-parallel-evaluation.html
 version: "25.3"
+title: "Parallel Evaluation of Expressions"
+page_id: "expressions-parallel-evaluation"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/allow-users-to-build-reports.html
 original_path: allow-users-to-build-reports.html
 version: "25.3"
+title: "Data Fabric Insights"
+page_id: "allow-users-to-build-reports"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/trend-over-time-report-pattern.html
 original_path: trend-over-time-report-pattern.html
 version: "25.3"
+title: "Trend-Over-Time Report"
+page_id: "trend-over-time-report-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

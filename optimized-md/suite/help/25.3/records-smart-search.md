@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/records-smart-search.html
 original_path: records-smart-search.html
 version: "25.3"
+title: "Configure Smart Search"
+page_id: "records-smart-search"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

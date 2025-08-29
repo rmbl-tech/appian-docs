@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/history/AuditHistoryRow.html
 original_path: api/com/appiancorp/suiteapi/process/history/AuditHistoryRow.html
 version: "25.3"
+title: "Class AuditHistoryRow"
+page_id: "api/com/appiancorp/suiteapi/process/history/AuditHistoryRow"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.history](package-summary.html)
 

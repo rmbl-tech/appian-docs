@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Updating_Expressions_to_Use_a_localVariables.html
 original_path: Updating_Expressions_to_Use_a_localVariables.html
 version: "25.3"
+title: "Updating Expressions to Use a!localVariables"
+page_id: "Updating_Expressions_to_Use_a_localVariables"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

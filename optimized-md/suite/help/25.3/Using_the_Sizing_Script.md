@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Using_the_Sizing_Script.html
 original_path: Using_the_Sizing_Script.html
 version: "25.3"
+title: "Using the Sizing Script"
+page_id: "Using_the_Sizing_Script"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

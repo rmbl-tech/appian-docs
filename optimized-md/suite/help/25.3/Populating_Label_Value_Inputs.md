@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Populating_Label_Value_Inputs.html
 original_path: Populating_Label_Value_Inputs.html
 version: "25.3"
+title: "Populating Label Value Inputs"
+page_id: "Populating_Label_Value_Inputs"
+section: "Creating a table of event data"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

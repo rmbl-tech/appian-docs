@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Bar_Chart_Component_21r4.html
 original_path: Bar_Chart_Component_21r4.html
 version: "25.3"
+title: "a!barChartField\_21r4 Component"
+page_id: "Bar_Chart_Component_21r4"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

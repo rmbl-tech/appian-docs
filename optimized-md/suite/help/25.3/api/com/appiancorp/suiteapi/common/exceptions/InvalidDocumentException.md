@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/InvalidDocumentException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/InvalidDocumentException.html
 version: "25.3"
+title: "Class InvalidDocumentException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/InvalidDocumentException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

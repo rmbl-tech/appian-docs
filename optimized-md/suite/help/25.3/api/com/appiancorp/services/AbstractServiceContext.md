@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/services/AbstractServiceContext.html
 original_path: api/com/appiancorp/services/AbstractServiceContext.html
 version: "25.3"
+title: "Class AbstractServiceContext"
+page_id: "api/com/appiancorp/services/AbstractServiceContext"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.services](package-summary.html)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ins-claim-case-study.html
 original_path: sail/ins-claim-case-study.html
 version: "25.3"
+title: "Insurance Claim Case Summary"
+page_id: "sail/ins-claim-case-study"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Insurance Claim Case Summary \[SAIL Design System: Inspiration\]
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/popular-patterns.html
 original_path: sail/popular-patterns.html
 version: "25.3"
+title: "Popular Patterns"
+page_id: "sail/popular-patterns"
+section: "Vertical timeline"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Popular Patterns \[SAIL Design System: Patterns\]
 

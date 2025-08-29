@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/ProcessRoleMap.html
 original_path: api/com/appiancorp/suiteapi/process/ProcessRoleMap.html
 version: "25.3"
+title: "Class ProcessRoleMap"
+page_id: "api/com/appiancorp/suiteapi/process/ProcessRoleMap"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

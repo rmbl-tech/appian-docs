@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Sites_Color_Schemes.html
 original_path: Sites_Color_Schemes.html
 version: "25.3"
+title: "Site Color Schemes"
+page_id: "Sites_Color_Schemes"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

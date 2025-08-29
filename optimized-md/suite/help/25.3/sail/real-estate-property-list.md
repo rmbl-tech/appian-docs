@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/real-estate-property-list.html
 original_path: sail/real-estate-property-list.html
 version: "25.3"
+title: "Real Estate Property List"
+page_id: "sail/real-estate-property-list"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Real Estate Property List \[SAIL Design System: Inspiration\]
 

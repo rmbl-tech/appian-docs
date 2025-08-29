@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/generate-web-api.html
 original_path: generate-web-api.html
 version: "25.3"
+title: "Generate Web APIs to Sync Records"
+page_id: "generate-web-api"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

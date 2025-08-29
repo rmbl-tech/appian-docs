@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Quick_App_Creators.html
 original_path: Quick_App_Creators.html
 version: "25.3"
+title: "Quick App Creators \[Deprecated\]"
+page_id: "Quick_App_Creators"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

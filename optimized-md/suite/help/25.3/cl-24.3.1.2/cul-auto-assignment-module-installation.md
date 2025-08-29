@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cl-24.3.1.2/cul-auto-assignment-module-installation.html
 original_path: cl-24.3.1.2/cul-auto-assignment-module-installation.html
 version: "25.3"
+title: "Installing Auto-Assignment with CU Life"
+page_id: "cl-24.3.1.2/cul-auto-assignment-module-installation"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

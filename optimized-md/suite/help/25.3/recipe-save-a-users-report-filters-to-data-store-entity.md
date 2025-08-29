@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-save-a-users-report-filters-to-data-store-entity.html
 original_path: recipe-save-a-users-report-filters-to-data-store-entity.html
 version: "25.3"
+title: "Save a User's Report Filters to a Data Store Entity"
+page_id: "recipe-save-a-users-report-filters-to-data-store-entity"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

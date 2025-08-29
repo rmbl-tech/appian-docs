@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/process-views.html
 original_path: process-views.html
 version: "25.3"
+title: "Manage Process Views"
+page_id: "process-views"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cc-25.1.1.0/cc-lob-home-owners-module-overview.html
 original_path: cc-25.1.1.0/cc-lob-home-owners-module-overview.html
 version: "25.3"
+title: "Home Owners LOB Module Add-On Overview"
+page_id: "cc-25.1.1.0/cc-lob-home-owners-module-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

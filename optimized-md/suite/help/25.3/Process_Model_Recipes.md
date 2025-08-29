@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Model_Recipes.html
 original_path: Process_Model_Recipes.html
 version: "25.3"
+title: "Common Process Model Workflows and Recipes"
+page_id: "Process_Model_Recipes"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

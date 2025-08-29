@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/creating-tasks-and-task-blocks.html
 original_path: creating-tasks-and-task-blocks.html
 version: "25.3"
+title: "How to Create Tasks and Task Blocks"
+page_id: "creating-tasks-and-task-blocks"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

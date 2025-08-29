@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Icons.html
 original_path: Appian_Icons.html
 version: "25.3"
+title: "Appian Icons"
+page_id: "Appian_Icons"
+section: "Standard icons"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

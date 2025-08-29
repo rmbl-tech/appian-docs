@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Custom_Plug-in_Packages.html
 original_path: Custom_Plug-in_Packages.html
 version: "25.3"
+title: "Plug-in Packages"
+page_id: "Custom_Plug-in_Packages"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

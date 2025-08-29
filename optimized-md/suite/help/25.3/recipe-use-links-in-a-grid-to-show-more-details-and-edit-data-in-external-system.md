@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-use-links-in-a-grid-to-show-more-details-and-edit-data-in-external-system.html
 original_path: recipe-use-links-in-a-grid-to-show-more-details-and-edit-data-in-external-system.html
 version: "25.3"
+title: "Use Links in a Grid to Show More Details and Edit Data in External System"
+page_id: "recipe-use-links-in-a-grid-to-show-more-details-and-edit-data-in-external-system"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

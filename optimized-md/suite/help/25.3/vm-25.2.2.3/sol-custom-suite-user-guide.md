@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/vm-25.2.2.3/sol-custom-suite-user-guide.html
 original_path: vm-25.2.2.3/sol-custom-suite-user-guide.html
 version: "25.3"
+title: "Solutions Hub User Guide"
+page_id: "vm-25.2.2.3/sol-custom-suite-user-guide"
+section: "Landing page"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

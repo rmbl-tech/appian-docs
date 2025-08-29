@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/microsoft-dynamics-365-crm-connected-system.html
 original_path: microsoft-dynamics-365-crm-connected-system.html
 version: "25.3"
+title: "Microsoft Dynamics 365"
+page_id: "microsoft-dynamics-365-crm-connected-system"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

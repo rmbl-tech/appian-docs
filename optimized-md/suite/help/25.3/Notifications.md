@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Notifications.html
 original_path: Notifications.html
 version: "25.3"
+title: "User Notifications Settings"
+page_id: "Notifications"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

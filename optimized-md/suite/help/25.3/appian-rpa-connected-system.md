@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/appian-rpa-connected-system.html
 original_path: appian-rpa-connected-system.html
 version: "25.3"
+title: "Appian RPA Connected System \[Deprecated\]"
+page_id: "appian-rpa-connected-system"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

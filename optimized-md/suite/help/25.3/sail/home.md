@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/home.html
 original_path: sail/home.html
 version: "25.3"
+title: "SAIL is Appian's Low-Code Design System"
+page_id: "sail/home"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) SAIL Design System
 

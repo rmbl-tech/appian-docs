@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/GenericFacetOption.html
 original_path: api/com/appiancorp/common/query/GenericFacetOption.html
 version: "25.3"
+title: "Class GenericFacetOption"
+page_id: "api/com/appiancorp/common/query/GenericFacetOption"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Header_Template_Image.html
 original_path: Header_Template_Image.html
 version: "25.3"
+title: "Image Header Template"
+page_id: "Header_Template_Image"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

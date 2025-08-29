@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/File_Upload_Component.html
 original_path: File_Upload_Component.html
 version: "25.3"
+title: "File Upload Component"
+page_id: "File_Upload_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

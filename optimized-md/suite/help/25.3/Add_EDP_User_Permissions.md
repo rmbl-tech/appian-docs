@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Add_EDP_User_Permissions.html
 original_path: Add_EDP_User_Permissions.html
 version: "25.3"
+title: "Add EDP User Permissions Endpoint"
+page_id: "Add_EDP_User_Permissions"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

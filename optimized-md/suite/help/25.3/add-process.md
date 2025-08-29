@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/add-process.html
 original_path: add-process.html
 version: "25.3"
+title: "Add a Process"
+page_id: "add-process"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

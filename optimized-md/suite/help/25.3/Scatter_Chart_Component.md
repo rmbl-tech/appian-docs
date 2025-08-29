@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Scatter_Chart_Component.html
 original_path: Scatter_Chart_Component.html
 version: "25.3"
+title: "Scatter Chart Component"
+page_id: "Scatter_Chart_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

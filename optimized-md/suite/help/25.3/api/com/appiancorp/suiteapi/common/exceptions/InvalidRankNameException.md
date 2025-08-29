@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/InvalidRankNameException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/InvalidRankNameException.html
 version: "25.3"
+title: "Class InvalidRankNameException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/InvalidRankNameException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

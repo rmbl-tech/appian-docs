@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Node_and_Smart_Service_Properties.html
 original_path: Process_Node_and_Smart_Service_Properties.html
 version: "25.3"
+title: "Process Node Properties"
+page_id: "Process_Node_and_Smart_Service_Properties"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

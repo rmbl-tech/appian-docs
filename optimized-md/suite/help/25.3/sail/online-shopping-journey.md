@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/online-shopping-journey.html
 original_path: sail/online-shopping-journey.html
 version: "25.3"
+title: "Online Shopping Journey"
+page_id: "sail/online-shopping-journey"
+section: "Item category listing"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Online Shopping Journey \[SAIL Design System: Patterns\]
 

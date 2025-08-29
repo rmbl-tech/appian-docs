@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/knowledge/KnowledgeFolder.html
 original_path: api/com/appiancorp/suiteapi/knowledge/KnowledgeFolder.html
 version: "25.3"
+title: "Class KnowledgeFolder"
+page_id: "api/com/appiancorp/suiteapi/knowledge/KnowledgeFolder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.knowledge](package-summary.html)
 

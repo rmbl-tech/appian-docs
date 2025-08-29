@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Quick_Apps_Designer.html
 original_path: Quick_Apps_Designer.html
 version: "25.3"
+title: "Quick Apps Designer \[Deprecated\]"
+page_id: "Quick_Apps_Designer"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Forms_Designer.html
 original_path: Forms_Designer.html
 version: "25.3"
+title: "Forms Designer \[Removed\]"
+page_id: "Forms_Designer"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

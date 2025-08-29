@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/exceptions/AppianResponseError.Builder.html
 original_path: api/com/appiancorp/exceptions/AppianResponseError.Builder.html
 version: "25.3"
+title: "Class AppianResponseError.Builder"
+page_id: "api/com/appiancorp/exceptions/AppianResponseError.Builder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.exceptions](package-summary.html)
 

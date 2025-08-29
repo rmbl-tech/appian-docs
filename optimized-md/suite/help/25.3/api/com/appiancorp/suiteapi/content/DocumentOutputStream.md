@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/DocumentOutputStream.html
 original_path: api/com/appiancorp/suiteapi/content/DocumentOutputStream.html
 version: "25.3"
+title: "Class DocumentOutputStream"
+page_id: "api/com/appiancorp/suiteapi/content/DocumentOutputStream"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content](package-summary.html)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/exceptions/AppianException.html
 original_path: api/com/appiancorp/exceptions/AppianException.html
 version: "25.3"
+title: "Class AppianException"
+page_id: "api/com/appiancorp/exceptions/AppianException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.exceptions](package-summary.html)
 

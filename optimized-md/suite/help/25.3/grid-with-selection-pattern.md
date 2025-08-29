@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/grid-with-selection-pattern.html
 original_path: grid-with-selection-pattern.html
 version: "25.3"
+title: "Grid with Selection Pattern"
+page_id: "grid-with-selection-pattern"
+section: "Design structure"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

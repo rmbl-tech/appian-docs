@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Documents_Chat_Component.html
 original_path: Documents_Chat_Component.html
 version: "25.3"
+title: "Documents Chat"
+page_id: "Documents_Chat_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

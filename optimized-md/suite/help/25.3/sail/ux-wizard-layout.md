@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-wizard-layout.html
 original_path: sail/ux-wizard-layout.html
 version: "25.3"
+title: "Wizard Layout"
+page_id: "sail/ux-wizard-layout"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Wizard Layout \[SAIL Design System: Components\]
 

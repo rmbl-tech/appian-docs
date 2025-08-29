@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/forums/DiscussionMessageDataType.html
 original_path: api/com/appiancorp/suiteapi/forums/DiscussionMessageDataType.html
 version: "25.3"
+title: "Annotation Interface DiscussionMessageDataType"
+page_id: "api/com/appiancorp/suiteapi/forums/DiscussionMessageDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.forums](package-summary.html)
 

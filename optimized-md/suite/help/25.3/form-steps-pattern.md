@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/form-steps-pattern.html
 original_path: form-steps-pattern.html
 version: "25.3"
+title: "Form Steps"
+page_id: "form-steps-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

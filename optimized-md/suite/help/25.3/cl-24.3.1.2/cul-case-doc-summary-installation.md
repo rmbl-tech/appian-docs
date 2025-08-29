@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cl-24.3.1.2/cul-case-doc-summary-installation.html
 original_path: cl-24.3.1.2/cul-case-doc-summary-installation.html
 version: "25.3"
+title: "Installing Case Document Summary Module"
+page_id: "cl-24.3.1.2/cul-case-doc-summary-installation"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

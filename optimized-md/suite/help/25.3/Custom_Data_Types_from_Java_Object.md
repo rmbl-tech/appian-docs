@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Custom_Data_Types_from_Java_Object.html
 original_path: Custom_Data_Types_from_Java_Object.html
 version: "25.3"
+title: "Data Type Plug-ins"
+page_id: "Custom_Data_Types_from_Java_Object"
+section: "Create"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

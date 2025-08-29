@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/expression/annotations/package-tree.html
 original_path: api/com/appiancorp/suiteapi/expression/annotations/package-tree.html
 version: "25.3"
+title: "Hierarchy For Package com.appiancorp.suiteapi.expression.annotations"
+page_id: "api/com/appiancorp/suiteapi/expression/annotations/package-tree"
+section: "Annotation Interface Hierarchy"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # Hierarchy For Package com.appiancorp.suiteapi.expression.annotations
 

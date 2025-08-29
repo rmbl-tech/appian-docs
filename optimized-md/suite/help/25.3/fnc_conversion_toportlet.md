@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_conversion_toportlet.html
 original_path: fnc_conversion_toportlet.html
 version: "25.3"
+title: "toportlet() Function \[Deprecated\]"
+page_id: "fnc_conversion_toportlet"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

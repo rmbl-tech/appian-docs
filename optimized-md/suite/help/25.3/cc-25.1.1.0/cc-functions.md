@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cc-25.1.1.0/cc-functions.html
 original_path: cc-25.1.1.0/cc-functions.html
 version: "25.3"
+title: "Functions for Connected Claims Studio"
+page_id: "cc-25.1.1.0/cc-functions"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

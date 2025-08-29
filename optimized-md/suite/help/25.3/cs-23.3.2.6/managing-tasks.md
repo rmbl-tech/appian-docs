@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cs-23.3.2.6/managing-tasks.html
 original_path: cs-23.3.2.6/managing-tasks.html
 version: "25.3"
+title: "Managing Tasks"
+page_id: "cs-23.3.2.6/managing-tasks"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

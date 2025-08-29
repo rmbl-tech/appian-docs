@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/High_Availability_and_Distributed_Installations.html
 original_path: High_Availability_and_Distributed_Installations.html
 version: "25.3"
+title: "High Availability and Distributed Systems"
+page_id: "High_Availability_and_Distributed_Installations"
+section: "When and why to have a distributed installation"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

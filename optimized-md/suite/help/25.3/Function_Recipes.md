@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Function_Recipes.html
 original_path: Function_Recipes.html
 version: "25.3"
+title: "Function Recipes"
+page_id: "Function_Recipes"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

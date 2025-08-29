@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/applications/Application.Metadata.html
 original_path: api/com/appiancorp/suiteapi/applications/Application.Metadata.html
 version: "25.3"
+title: "Enum Class Application.Metadata"
+page_id: "api/com/appiancorp/suiteapi/applications/Application.Metadata"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.applications](package-summary.html)
 

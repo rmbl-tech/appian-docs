@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Settings_Page.html
 original_path: Settings_Page.html
 version: "25.3"
+title: "User Settings"
+page_id: "Settings_Page"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

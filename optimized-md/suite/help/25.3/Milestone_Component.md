@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Milestone_Component.html
 original_path: Milestone_Component.html
 version: "25.3"
+title: "Milestone Component"
+page_id: "Milestone_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

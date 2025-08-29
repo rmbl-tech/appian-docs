@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configuring_Connected_Environments_For_Private_Access_Sites.html
 original_path: Configuring_Connected_Environments_For_Private_Access_Sites.html
 version: "25.3"
+title: "Configuring Connected Environments for Private Access"
+page_id: "Configuring_Connected_Environments_For_Private_Access_Sites"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

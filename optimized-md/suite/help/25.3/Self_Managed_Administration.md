@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Self_Managed_Administration.html
 original_path: Self_Managed_Administration.html
 version: "25.3"
+title: "Self-Managed Server Administration"
+page_id: "Self_Managed_Administration"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

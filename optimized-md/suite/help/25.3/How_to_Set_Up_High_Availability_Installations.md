@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/How_to_Set_Up_High_Availability_Installations.html
 original_path: How_to_Set_Up_High_Availability_Installations.html
 version: "25.3"
+title: "How to Set Up High Availability"
+page_id: "How_to_Set_Up_High_Availability_Installations"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

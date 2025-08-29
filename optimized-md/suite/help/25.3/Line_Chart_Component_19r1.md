@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Line_Chart_Component_19r1.html
 original_path: Line_Chart_Component_19r1.html
 version: "25.3"
+title: "a!lineChartField\_19r1 Component"
+page_id: "Line_Chart_Component_19r1"
+section: "Line Chart"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

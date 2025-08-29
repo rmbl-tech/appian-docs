@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-designing-for-your-users.html
 original_path: sail/ux-designing-for-your-users.html
 version: "25.3"
+title: "Designing for Your Users"
+page_id: "sail/ux-designing-for-your-users"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Designing for Your Users \[SAIL Design System: Guidelines\]
 

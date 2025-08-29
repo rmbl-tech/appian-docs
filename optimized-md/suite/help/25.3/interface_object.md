@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/interface_object.html
 original_path: interface_object.html
 version: "25.3"
+title: "Interface Object"
+page_id: "interface_object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

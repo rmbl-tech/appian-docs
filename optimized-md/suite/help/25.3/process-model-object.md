@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/process-model-object.html
 original_path: process-model-object.html
 version: "25.3"
+title: "Process Model Object"
+page_id: "process-model-object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

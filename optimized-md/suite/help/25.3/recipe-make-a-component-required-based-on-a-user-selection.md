@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-make-a-component-required-based-on-a-user-selection.html
 original_path: recipe-make-a-component-required-based-on-a-user-selection.html
 version: "25.3"
+title: "Make a Component Required Based on a User Selection"
+page_id: "recipe-make-a-component-required-based-on-a-user-selection"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

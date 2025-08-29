@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-buttons.html
 original_path: sail/ux-buttons.html
 version: "25.3"
+title: "Buttons"
+page_id: "sail/ux-buttons"
+section: "Styles"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Buttons \[SAIL Design System: Components\]
 

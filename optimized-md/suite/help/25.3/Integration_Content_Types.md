@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Integration_Content_Types.html
 original_path: Integration_Content_Types.html
 version: "25.3"
+title: "Integration Content Types"
+page_id: "Integration_Content_Types"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

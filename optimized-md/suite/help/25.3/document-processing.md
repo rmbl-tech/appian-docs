@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/document-processing.html
 original_path: document-processing.html
 version: "25.3"
+title: "Intelligent Document Processing"
+page_id: "document-processing"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/returns/SortInfoReturnConverter.html
 original_path: api/com/appiancorp/common/query/returns/SortInfoReturnConverter.html
 version: "25.3"
+title: "Class SortInfoReturnConverter"
+page_id: "api/com/appiancorp/common/query/returns/SortInfoReturnConverter"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query.returns](package-summary.html)
 

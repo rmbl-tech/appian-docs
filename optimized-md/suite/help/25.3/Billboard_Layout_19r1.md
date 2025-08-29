@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Billboard_Layout_19r1.html
 original_path: Billboard_Layout_19r1.html
 version: "25.3"
+title: "a!billboardLayout\_19r1 Component"
+page_id: "Billboard_Layout_19r1"
+section: "Billboard"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

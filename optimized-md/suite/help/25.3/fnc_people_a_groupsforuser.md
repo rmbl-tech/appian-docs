@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_people_a_groupsforuser.html
 original_path: fnc_people_a_groupsforuser.html
 version: "25.3"
+title: "a!groupsForUser() Function"
+page_id: "fnc_people_a_groupsforuser"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

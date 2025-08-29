@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/ContentFilter.KeyValue.html
 original_path: api/com/appiancorp/suiteapi/content/ContentFilter.KeyValue.html
 version: "25.3"
+title: "Class ContentFilter.KeyValue"
+page_id: "api/com/appiancorp/suiteapi/content/ContentFilter.KeyValue"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content](package-summary.html)
 

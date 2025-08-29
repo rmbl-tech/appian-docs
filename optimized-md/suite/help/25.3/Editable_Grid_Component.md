@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Editable_Grid_Component.html
 original_path: Editable_Grid_Component.html
 version: "25.3"
+title: "Editable Grid Component"
+page_id: "Editable_Grid_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

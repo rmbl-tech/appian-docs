@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/type/config/ExceptionImportDiagnostic.html
 original_path: api/com/appiancorp/suiteapi/type/config/ExceptionImportDiagnostic.html
 version: "25.3"
+title: "Class ExceptionImportDiagnostic"
+page_id: "api/com/appiancorp/suiteapi/type/config/ExceptionImportDiagnostic"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.type.config](package-summary.html)
 

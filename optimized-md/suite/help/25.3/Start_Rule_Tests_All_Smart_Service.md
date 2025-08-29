@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Start_Rule_Tests_All_Smart_Service.html
 original_path: Start_Rule_Tests_All_Smart_Service.html
 version: "25.3"
+title: "Start Rule Tests (All)"
+page_id: "Start_Rule_Tests_All_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

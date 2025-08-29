@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-color-overview.html
 original_path: sail/ux-color-overview.html
 version: "25.3"
+title: "Using Colors"
+page_id: "sail/ux-color-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Using Colors \[SAIL Design System: Guidelines\]
 

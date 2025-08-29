@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/collaboration/DownloadStatistics.html
 original_path: api/com/appiancorp/suiteapi/collaboration/DownloadStatistics.html
 version: "25.3"
+title: "Class DownloadStatistics"
+page_id: "api/com/appiancorp/suiteapi/collaboration/DownloadStatistics"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.collaboration](package-summary.html)
 

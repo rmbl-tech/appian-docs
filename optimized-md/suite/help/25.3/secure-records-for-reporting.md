@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/secure-records-for-reporting.html
 original_path: secure-records-for-reporting.html
 version: "25.3"
+title: "Secure Data for Data Fabric Insights"
+page_id: "secure-records-for-reporting"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

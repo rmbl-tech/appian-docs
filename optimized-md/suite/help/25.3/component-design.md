@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/component-design.html
 original_path: component-design.html
 version: "25.3"
+title: "Design Considerations"
+page_id: "component-design"
+section: "Web content or component plug-in?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

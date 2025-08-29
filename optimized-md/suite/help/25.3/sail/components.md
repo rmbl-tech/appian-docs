@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/components.html
 original_path: sail/components.html
 version: "25.3"
+title: "Components Overview"
+page_id: "sail/components"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Components Overview \[SAIL Design System: Components\]
 

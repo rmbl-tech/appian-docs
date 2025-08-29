@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cms-security.html
 original_path: cms-security.html
 version: "25.3"
+title: "Configuring Security for Case Management Studio"
+page_id: "cms-security"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

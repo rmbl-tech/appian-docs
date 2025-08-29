@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-accessibility.html
 original_path: sail/ux-accessibility.html
 version: "25.3"
+title: "Accessibility"
+page_id: "sail/ux-accessibility"
+section: "Designing user interfaces for accessibility"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Accessibility \[SAIL Design System: Guidelines\]
 

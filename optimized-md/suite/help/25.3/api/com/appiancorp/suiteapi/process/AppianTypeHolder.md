@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/AppianTypeHolder.html
 original_path: api/com/appiancorp/suiteapi/process/AppianTypeHolder.html
 version: "25.3"
+title: "Interface AppianTypeHolder"
+page_id: "api/com/appiancorp/suiteapi/process/AppianTypeHolder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

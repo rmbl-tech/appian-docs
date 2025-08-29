@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/employee-home-pages.html
 original_path: sail/employee-home-pages.html
 version: "25.3"
+title: "Employee Home Pages"
+page_id: "sail/employee-home-pages"
+section: "What is an employee home page?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Employee Home Pages \[SAIL Design System: Patterns\]
 

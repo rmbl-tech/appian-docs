@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_informational_a_automationid.html
 original_path: fnc_informational_a_automationid.html
 version: "25.3"
+title: "a!automationId Function"
+page_id: "fnc_informational_a_automationid"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

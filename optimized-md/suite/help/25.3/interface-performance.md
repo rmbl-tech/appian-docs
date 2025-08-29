@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/interface-performance.html
 original_path: interface-performance.html
 version: "25.3"
+title: "Interface Performance Best Practices"
+page_id: "interface-performance"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

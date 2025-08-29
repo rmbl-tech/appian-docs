@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/ap2/PortletUpdateAction.html
 original_path: api/com/appiancorp/ap2/PortletUpdateAction.html
 version: "25.3"
+title: "Class PortletUpdateAction"
+page_id: "api/com/appiancorp/ap2/PortletUpdateAction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.ap2](package-summary.html)
 

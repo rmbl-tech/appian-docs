@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Export_Multiple_DSEs_to_Excel.html
 original_path: Export_Multiple_DSEs_to_Excel.html
 version: "25.3"
+title: "Export Multiple Data Store Entities to Excel or CSV"
+page_id: "Export_Multiple_DSEs_to_Excel"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

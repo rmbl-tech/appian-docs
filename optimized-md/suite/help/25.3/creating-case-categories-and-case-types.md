@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/creating-case-categories-and-case-types.html
 original_path: creating-case-categories-and-case-types.html
 version: "25.3"
+title: "How to Create Case Categories and Case Types with Case Management Studio"
+page_id: "creating-case-categories-and-case-types"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

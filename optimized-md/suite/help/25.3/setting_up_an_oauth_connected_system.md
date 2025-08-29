@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/setting_up_an_oauth_connected_system.html
 original_path: setting_up_an_oauth_connected_system.html
 version: "25.3"
+title: "Setting Up a Connected System with the OAuth 2.0 Authorization Code Grant"
+page_id: "setting_up_an_oauth_connected_system"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

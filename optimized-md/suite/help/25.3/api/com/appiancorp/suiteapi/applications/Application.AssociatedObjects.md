@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/applications/Application.AssociatedObjects.html
 original_path: api/com/appiancorp/suiteapi/applications/Application.AssociatedObjects.html
 version: "25.3"
+title: "Class Application.AssociatedObjects"
+page_id: "api/com/appiancorp/suiteapi/applications/Application.AssociatedObjects"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.applications](package-summary.html)
 

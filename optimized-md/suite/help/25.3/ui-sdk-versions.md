@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/ui-sdk-versions.html
 original_path: ui-sdk-versions.html
 version: "25.3"
+title: "UI SDK Version Compatibility"
+page_id: "ui-sdk-versions"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

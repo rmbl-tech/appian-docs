@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/card-choices-component.html
 original_path: card-choices-component.html
 version: "25.3"
+title: "Card Choices Component"
+page_id: "card-choices-component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

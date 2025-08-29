@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/default-filters.html
 original_path: default-filters.html
 version: "25.3"
+title: "Configure Default Filters"
+page_id: "default-filters"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

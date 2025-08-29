@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_for_Enterprise_Mobility_Management_EMM.html
 original_path: Appian_for_Enterprise_Mobility_Management_EMM.html
 version: "25.3"
+title: "Appian for Enterprise Mobility Management (EMM)"
+page_id: "Appian_for_Enterprise_Mobility_Management_EMM"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

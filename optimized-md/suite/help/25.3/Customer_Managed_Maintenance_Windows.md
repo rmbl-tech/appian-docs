@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Customer_Managed_Maintenance_Windows.html
 original_path: Customer_Managed_Maintenance_Windows.html
 version: "25.3"
+title: "Customer Managed Maintenance Windows"
+page_id: "Customer_Managed_Maintenance_Windows"
+section: "About your maintenance windows"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/collaboration/CollaborationRoleMap.html
 original_path: api/com/appiancorp/suiteapi/collaboration/CollaborationRoleMap.html
 version: "25.3"
+title: "Class CollaborationRoleMap"
+page_id: "api/com/appiancorp/suiteapi/collaboration/CollaborationRoleMap"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.collaboration](package-summary.html)
 

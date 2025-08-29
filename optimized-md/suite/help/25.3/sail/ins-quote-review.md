@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ins-quote-review.html
 original_path: sail/ins-quote-review.html
 version: "25.3"
+title: "Insurance Quote Review"
+page_id: "sail/ins-quote-review"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Insurance Quote Review \[SAIL Design System: Inspiration\]
 

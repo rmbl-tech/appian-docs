@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_crf_customfieldsubtract.html
 original_path: fnc_crf_customfieldsubtract.html
 version: "25.3"
+title: "a!customFieldSubtract() Function"
+page_id: "fnc_crf_customfieldsubtract"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

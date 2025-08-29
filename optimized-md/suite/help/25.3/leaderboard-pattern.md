@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/leaderboard-pattern.html
 original_path: leaderboard-pattern.html
 version: "25.3"
+title: "Leaderboard"
+page_id: "leaderboard-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

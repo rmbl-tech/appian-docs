@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/PaletteCategory.html
 original_path: api/com/appiancorp/suiteapi/process/PaletteCategory.html
 version: "25.3"
+title: "Class PaletteCategory"
+page_id: "api/com/appiancorp/suiteapi/process/PaletteCategory"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Header_Template_Full.html
 original_path: Header_Template_Full.html
 version: "25.3"
+title: "Full Header Template"
+page_id: "Header_Template_Full"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

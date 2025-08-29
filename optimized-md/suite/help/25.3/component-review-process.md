@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/component-review-process.html
 original_path: component-review-process.html
 version: "25.3"
+title: "Component Review Process"
+page_id: "component-review-process"
+section: "Why review components?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

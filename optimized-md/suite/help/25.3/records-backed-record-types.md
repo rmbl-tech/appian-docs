@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/records-backed-record-types.html
 original_path: records-backed-record-types.html
 version: "25.3"
+title: "Records-Backed Record Types"
+page_id: "records-backed-record-types"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

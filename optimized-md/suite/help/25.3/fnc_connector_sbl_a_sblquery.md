@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_connector_sbl_a_sblquery.html
 original_path: fnc_connector_sbl_a_sblquery.html
 version: "25.3"
+title: "a!sblQuery() Function \[Deprecated\]"
+page_id: "fnc_connector_sbl_a_sblquery"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

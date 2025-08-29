@@ -3,7 +3,11 @@ source_url: https://docs.appian.com/suite/help/25.3/sail/data-value-display.html
 original_path: sail/data-value-display.html
 version: "25.3"
 part: 4/6
+page_id: "sail/data-value-display"
+section: "Performance indicators with trend microcharts"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 ## Performance indicators with trend microcharts
 

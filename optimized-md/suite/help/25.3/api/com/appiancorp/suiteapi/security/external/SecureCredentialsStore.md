@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/security/external/SecureCredentialsStore.html
 original_path: api/com/appiancorp/suiteapi/security/external/SecureCredentialsStore.html
 version: "25.3"
+title: "Interface SecureCredentialsStore"
+page_id: "api/com/appiancorp/suiteapi/security/external/SecureCredentialsStore"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.security.external](package-summary.html)
 

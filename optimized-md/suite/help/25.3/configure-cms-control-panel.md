@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/configure-cms-control-panel.html
 original_path: configure-cms-control-panel.html
 version: "25.3"
+title: "Using the Control Panel with Case Management Studio"
+page_id: "configure-cms-control-panel"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

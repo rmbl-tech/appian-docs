@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/install-case-document-summary-module.html
 original_path: install-case-document-summary-module.html
 version: "25.3"
+title: "Installing Case Document Summary Module"
+page_id: "install-case-document-summary-module"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

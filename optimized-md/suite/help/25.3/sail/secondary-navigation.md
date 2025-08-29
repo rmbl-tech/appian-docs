@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/secondary-navigation.html
 original_path: sail/secondary-navigation.html
 version: "25.3"
+title: "Secondary Navigation"
+page_id: "sail/secondary-navigation"
+section: "Sidebars for secondary navigation"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Secondary Navigation \[SAIL Design System: Patterns\]
 

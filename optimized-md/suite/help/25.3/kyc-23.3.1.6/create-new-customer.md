@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/kyc-23.3.1.6/create-new-customer.html
 original_path: kyc-23.3.1.6/create-new-customer.html
 version: "25.3"
+title: "Create a New Customer"
+page_id: "kyc-23.3.1.6/create-new-customer"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

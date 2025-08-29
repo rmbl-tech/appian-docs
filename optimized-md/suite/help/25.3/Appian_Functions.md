@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Functions.html
 original_path: Appian_Functions.html
 version: "25.3"
+title: "All Functions"
+page_id: "Appian_Functions"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/expressions-best-practices.html
 original_path: expressions-best-practices.html
 version: "25.3"
+title: "Expressions Best Practices"
+page_id: "expressions-best-practices"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

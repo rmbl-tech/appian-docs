@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/forms/InternalForm.html
 original_path: api/com/appiancorp/suiteapi/process/forms/InternalForm.html
 version: "25.3"
+title: "Class InternalForm"
+page_id: "api/com/appiancorp/suiteapi/process/forms/InternalForm"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.forms](package-summary.html)
 

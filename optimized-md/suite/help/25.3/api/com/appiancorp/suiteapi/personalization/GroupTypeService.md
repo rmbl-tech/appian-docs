@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/personalization/GroupTypeService.html
 original_path: api/com/appiancorp/suiteapi/personalization/GroupTypeService.html
 version: "25.3"
+title: "Interface GroupTypeService"
+page_id: "api/com/appiancorp/suiteapi/personalization/GroupTypeService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.personalization](package-summary.html)
 

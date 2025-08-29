@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-add-and-populate-sections-dynamically.html
 original_path: recipe-add-and-populate-sections-dynamically.html
 version: "25.3"
+title: "Add and Populate Sections Dynamically"
+page_id: "recipe-add-and-populate-sections-dynamically"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

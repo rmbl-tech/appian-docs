@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_statistical_rank.html
 original_path: fnc_statistical_rank.html
 version: "25.3"
+title: "rank() Function"
+page_id: "fnc_statistical_rank"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

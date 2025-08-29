@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Starred_Processes.html
 original_path: Starred_Processes.html
 version: "25.3"
+title: "Starred Processes \[Deprecated\]"
+page_id: "Starred_Processes"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

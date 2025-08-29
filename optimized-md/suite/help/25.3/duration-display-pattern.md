@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/duration-display-pattern.html
 original_path: duration-display-pattern.html
 version: "25.3"
+title: "Duration Display"
+page_id: "duration-display-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

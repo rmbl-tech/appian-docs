@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_logical_true.html
 original_path: fnc_logical_true.html
 version: "25.3"
+title: "true() Function"
+page_id: "fnc_logical_true"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

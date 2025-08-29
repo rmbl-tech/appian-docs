@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Gauge_Fraction_Component.html
 original_path: Gauge_Fraction_Component.html
 version: "25.3"
+title: "Gauge Fraction"
+page_id: "Gauge_Fraction_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

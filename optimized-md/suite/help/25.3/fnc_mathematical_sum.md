@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_mathematical_sum.html
 original_path: fnc_mathematical_sum.html
 version: "25.3"
+title: "sum() Function"
+page_id: "fnc_mathematical_sum"
+section: "Functions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

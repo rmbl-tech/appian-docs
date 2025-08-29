@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Application_Portal.html
 original_path: Application_Portal.html
 version: "25.3"
+title: "Application Portal \[Deprecated\]"
+page_id: "Application_Portal"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

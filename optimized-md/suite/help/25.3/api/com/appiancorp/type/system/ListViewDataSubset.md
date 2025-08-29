@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/type/system/ListViewDataSubset.html
 original_path: api/com/appiancorp/type/system/ListViewDataSubset.html
 version: "25.3"
+title: "Class ListViewDataSubset<I>"
+page_id: "api/com/appiancorp/type/system/ListViewDataSubset"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.type.system](package-summary.html)
 

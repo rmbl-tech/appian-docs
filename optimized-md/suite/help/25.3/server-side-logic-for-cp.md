@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/server-side-logic-for-cp.html
 original_path: server-side-logic-for-cp.html
 version: "25.3"
+title: "Client APIs"
+page_id: "server-side-logic-for-cp"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

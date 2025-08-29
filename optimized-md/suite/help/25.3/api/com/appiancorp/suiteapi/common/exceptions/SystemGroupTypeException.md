@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/SystemGroupTypeException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/SystemGroupTypeException.html
 version: "25.3"
+title: "Class SystemGroupTypeException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/SystemGroupTypeException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

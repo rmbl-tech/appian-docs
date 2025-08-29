@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-view.html
 original_path: record-view.html
 version: "25.3"
+title: "Configure Record Views"
+page_id: "record-view"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

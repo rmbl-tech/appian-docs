@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_informational_cast.html
 original_path: fnc_informational_cast.html
 version: "25.3"
+title: "cast() Function"
+page_id: "fnc_informational_cast"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

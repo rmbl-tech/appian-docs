@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/query-editor.html
 original_path: query-editor.html
 version: "25.3"
+title: "About the Query Editor"
+page_id: "query-editor"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

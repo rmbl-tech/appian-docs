@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rm-24.4.2.2/accessing-rm-settings.html
 original_path: rm-24.4.2.2/accessing-rm-settings.html
 version: "25.3"
+title: "Accessing Requirement Management Settings Site"
+page_id: "rm-24.4.2.2/accessing-rm-settings"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

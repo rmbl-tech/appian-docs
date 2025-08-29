@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Radio_Button_Component_23r3.html
 original_path: Radio_Button_Component_23r3.html
 version: "25.3"
+title: "a!radioButtonField\_23r3 Component"
+page_id: "Radio_Button_Component_23r3"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

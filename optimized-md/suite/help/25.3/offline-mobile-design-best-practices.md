@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/offline-mobile-design-best-practices.html
 original_path: offline-mobile-design-best-practices.html
 version: "25.3"
+title: "Offline Mobile Design Best Practices"
+page_id: "offline-mobile-design-best-practices"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

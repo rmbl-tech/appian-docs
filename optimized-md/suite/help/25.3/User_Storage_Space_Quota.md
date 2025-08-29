@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/User_Storage_Space_Quota.html
 original_path: User_Storage_Space_Quota.html
 version: "25.3"
+title: "User Storage Space Quotas \[Deprecated\]"
+page_id: "User_Storage_Space_Quota"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/looping.html
 original_path: looping.html
 version: "25.3"
+title: "Looping Recipes"
+page_id: "looping"
+section: "Recipes for looping in Appian"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

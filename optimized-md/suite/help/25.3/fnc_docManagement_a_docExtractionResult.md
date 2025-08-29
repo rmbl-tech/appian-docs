@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_docManagement_a_docExtractionResult.html
 original_path: fnc_docManagement_a_docExtractionResult.html
 version: "25.3"
+title: "docExtractionResult() Function \[Deprecated\]"
+page_id: "fnc_docManagement_a_docExtractionResult"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

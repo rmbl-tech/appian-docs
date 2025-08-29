@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/records-create-sample-data.html
 original_path: records-create-sample-data.html
 version: "25.3"
+title: "Create Sample Data"
+page_id: "records-create-sample-data"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

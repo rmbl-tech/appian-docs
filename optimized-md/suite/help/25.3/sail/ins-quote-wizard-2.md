@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ins-quote-wizard-2.html
 original_path: sail/ins-quote-wizard-2.html
 version: "25.3"
+title: "Insurance Quote Wizard 2"
+page_id: "sail/ins-quote-wizard-2"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Insurance Quote Wizard 2 \[SAIL Design System: Inspiration\]
 

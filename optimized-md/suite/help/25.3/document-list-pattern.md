@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/document-list-pattern.html
 original_path: document-list-pattern.html
 version: "25.3"
+title: "Document List Pattern"
+page_id: "document-list-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/collect-data.html
 original_path: collect-data.html
 version: "25.3"
+title: "What Makes a Good Dataset?"
+page_id: "collect-data"
+section: "Why invest time in building a representative dataset?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

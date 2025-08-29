@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Chart_Heights.html
 original_path: Chart_Heights.html
 version: "25.3"
+title: "Chart Heights and Axes Styles"
+page_id: "Chart_Heights"
+section: "Chart Heights"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

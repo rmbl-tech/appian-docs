@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Form_Layout.html
 original_path: Form_Layout.html
 version: "25.3"
+title: "Form Layout"
+page_id: "Form_Layout"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

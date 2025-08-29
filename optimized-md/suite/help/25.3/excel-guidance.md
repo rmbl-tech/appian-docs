@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/excel-guidance.html
 original_path: excel-guidance.html
 version: "25.3"
+title: "Using Excel with Appian"
+page_id: "excel-guidance"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

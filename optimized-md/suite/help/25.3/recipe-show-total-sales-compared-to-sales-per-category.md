@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-show-total-sales-compared-to-sales-per-category.html
 original_path: recipe-show-total-sales-compared-to-sales-per-category.html
 version: "25.3"
+title: "Dynamically Show Sales by Product Category Compared to Total Sales"
+page_id: "recipe-show-total-sales-compared-to-sales-per-category"
+section: "Scenario"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

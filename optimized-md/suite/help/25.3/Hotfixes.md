@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Hotfixes.html
 original_path: Hotfixes.html
 version: "25.3"
+title: "Appian Hotfixes"
+page_id: "Hotfixes"
+section: "Hotfix package (28 Aug 2025)"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

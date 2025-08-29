@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Document_Browser_Component_173.html
 original_path: Document_Browser_Component_173.html
 version: "25.3"
+title: "a!documentBrowserFieldColumns\_17r3"
+page_id: "Document_Browser_Component_173"
+section: "Document Browser"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/ix/data/portlet/DefaultPortletIxHelper.html
 original_path: api/com/appiancorp/suiteapi/ix/data/portlet/DefaultPortletIxHelper.html
 version: "25.3"
+title: "Class DefaultPortletIxHelper"
+page_id: "api/com/appiancorp/suiteapi/ix/data/portlet/DefaultPortletIxHelper"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.ix.data.portlet](package-summary.html)
 

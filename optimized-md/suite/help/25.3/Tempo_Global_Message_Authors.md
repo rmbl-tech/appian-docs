@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Tempo_Global_Message_Authors.html
 original_path: Tempo_Global_Message_Authors.html
 version: "25.3"
+title: "Tempo Global Message Authors \[Deprecated\]"
+page_id: "Tempo_Global_Message_Authors"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

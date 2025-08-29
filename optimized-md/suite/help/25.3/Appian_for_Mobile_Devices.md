@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_for_Mobile_Devices.html
 original_path: Appian_for_Mobile_Devices.html
 version: "25.3"
+title: "Appian Mobile"
+page_id: "Appian_for_Mobile_Devices"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Starred_Process_Models.html
 original_path: Starred_Process_Models.html
 version: "25.3"
+title: "Starring Objects \[Deprecated\]"
+page_id: "Starred_Process_Models"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

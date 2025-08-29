@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_text_upper.html
 original_path: fnc_text_upper.html
 version: "25.3"
+title: "upper() Function"
+page_id: "fnc_text_upper"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Multiple_Dropdown_By_Index_Component_20r2.html
 original_path: Multiple_Dropdown_By_Index_Component_20r2.html
 version: "25.3"
+title: "a!multipleDropdownFieldByIndex\_20r2() Component"
+page_id: "Multiple_Dropdown_By_Index_Component_20r2"
+section: "Multiple dropdown by index"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

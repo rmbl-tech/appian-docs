@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/inspiration.html
 original_path: sail/inspiration.html
 version: "25.3"
+title: "Inspiration"
+page_id: "sail/inspiration"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Inspiration \[SAIL Design System: Inspiration\]
 

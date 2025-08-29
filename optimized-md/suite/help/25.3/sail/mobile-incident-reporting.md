@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/mobile-incident-reporting.html
 original_path: sail/mobile-incident-reporting.html
 version: "25.3"
+title: "Mobile Incident Reporting"
+page_id: "sail/mobile-incident-reporting"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Mobile Incident Reporting \[SAIL Design System: Inspiration\]
 

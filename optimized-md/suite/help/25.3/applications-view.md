@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/applications-view.html
 original_path: applications-view.html
 version: "25.3"
+title: "Applications View"
+page_id: "applications-view"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

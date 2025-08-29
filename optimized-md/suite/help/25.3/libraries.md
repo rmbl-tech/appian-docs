@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/libraries.html
 original_path: libraries.html
 version: "25.3"
+title: "Libraries"
+page_id: "libraries"
+section: "What is a library?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

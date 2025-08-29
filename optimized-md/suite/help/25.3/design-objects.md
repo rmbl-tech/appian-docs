@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/design-objects.html
 original_path: design-objects.html
 version: "25.3"
+title: "Design Objects"
+page_id: "design-objects"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

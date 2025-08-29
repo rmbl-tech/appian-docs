@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/methods_of_integrations.html
 original_path: methods_of_integrations.html
 version: "25.3"
+title: "Methods of Integrations"
+page_id: "methods_of_integrations"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

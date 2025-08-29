@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/working_in_design_mode.html
 original_path: working_in_design_mode.html
 version: "25.3"
+title: "Design Mode"
+page_id: "working_in_design_mode"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

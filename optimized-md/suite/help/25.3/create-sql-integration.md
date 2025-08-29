@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/create-sql-integration.html
 original_path: create-sql-integration.html
 version: "25.3"
+title: "Create a SQL Integration"
+page_id: "create-sql-integration"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

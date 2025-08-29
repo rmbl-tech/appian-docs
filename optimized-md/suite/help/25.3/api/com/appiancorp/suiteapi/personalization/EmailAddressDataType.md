@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/personalization/EmailAddressDataType.html
 original_path: api/com/appiancorp/suiteapi/personalization/EmailAddressDataType.html
 version: "25.3"
+title: "Annotation Interface EmailAddressDataType"
+page_id: "api/com/appiancorp/suiteapi/personalization/EmailAddressDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.personalization](package-summary.html)
 

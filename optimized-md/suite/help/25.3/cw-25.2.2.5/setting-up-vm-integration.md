@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cw-25.2.2.5/setting-up-vm-integration.html
 original_path: cw-25.2.2.5/setting-up-vm-integration.html
 version: "25.3"
+title: "Setting up VM Integration"
+page_id: "cw-25.2.2.5/setting-up-vm-integration"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

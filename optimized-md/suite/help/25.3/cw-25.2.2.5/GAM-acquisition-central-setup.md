@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cw-25.2.2.5/GAM-acquisition-central-setup.html
 original_path: cw-25.2.2.5/GAM-acquisition-central-setup.html
 version: "25.3"
+title: "Setting up GAM Acquisition Central Integration"
+page_id: "cw-25.2.2.5/GAM-acquisition-central-setup"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

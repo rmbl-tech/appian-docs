@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/idp-app.html
 original_path: idp-app.html
 version: "25.3"
+title: "Intelligent Document Processing \[Deprecated\]"
+page_id: "idp-app"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

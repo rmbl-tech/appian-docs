@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Decisions.html
 original_path: Appian_Decisions.html
 version: "25.3"
+title: "Decision Tables in Appian"
+page_id: "Appian_Decisions"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

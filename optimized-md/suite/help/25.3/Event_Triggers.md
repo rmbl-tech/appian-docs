@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Event_Triggers.html
 original_path: Event_Triggers.html
 version: "25.3"
+title: "Event Triggers"
+page_id: "Event_Triggers"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

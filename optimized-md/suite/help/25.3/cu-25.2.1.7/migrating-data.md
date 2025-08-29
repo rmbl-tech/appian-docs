@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cu-25.2.1.7/migrating-data.html
 original_path: cu-25.2.1.7/migrating-data.html
 version: "25.3"
+title: "Migrate Customer and Broker Data"
+page_id: "cu-25.2.1.7/migrating-data"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

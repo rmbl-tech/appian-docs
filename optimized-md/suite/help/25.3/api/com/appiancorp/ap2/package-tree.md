@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/ap2/package-tree.html
 original_path: api/com/appiancorp/ap2/package-tree.html
 version: "25.3"
+title: "Hierarchy For Package com.appiancorp.ap2"
+page_id: "api/com/appiancorp/ap2/package-tree"
+section: "Class Hierarchy"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # Hierarchy For Package com.appiancorp.ap2
 

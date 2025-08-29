@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/google-cloud-natural-language.html
 original_path: google-cloud-natural-language.html
 version: "25.3"
+title: "Google Cloud Natural Language"
+page_id: "google-cloud-natural-language"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

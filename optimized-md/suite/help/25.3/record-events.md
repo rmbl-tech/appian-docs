@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-events.html
 original_path: record-events.html
 version: "25.3"
+title: "About Record Events"
+page_id: "record-events"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

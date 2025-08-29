@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/Application.html
 original_path: api/com/appiancorp/suiteapi/portal/Application.html
 version: "25.3"
+title: "Class Application"
+page_id: "api/com/appiancorp/suiteapi/portal/Application"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal](package-summary.html)
 

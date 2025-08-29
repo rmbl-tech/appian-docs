@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Paging_Grid_Component_24r3.html
 original_path: Paging_Grid_Component_24r3.html
 version: "25.3"
+title: "a!gridField\_24r3 Component"
+page_id: "Paging_Grid_Component_24r3"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

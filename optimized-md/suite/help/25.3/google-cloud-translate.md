@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/google-cloud-translate.html
 original_path: google-cloud-translate.html
 version: "25.3"
+title: "Google Cloud Translation"
+page_id: "google-cloud-translate"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

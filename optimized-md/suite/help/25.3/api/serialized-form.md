@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/serialized-form.html
 original_path: api/serialized-form.html
 version: "25.3"
+title: "Serialized Form"
+page_id: "api/serialized-form"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # Serialized Form
 

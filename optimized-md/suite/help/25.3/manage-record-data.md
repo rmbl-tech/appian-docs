@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/manage-record-data.html
 original_path: manage-record-data.html
 version: "25.3"
+title: "Recipes for Writing and Deleting Records"
+page_id: "manage-record-data"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

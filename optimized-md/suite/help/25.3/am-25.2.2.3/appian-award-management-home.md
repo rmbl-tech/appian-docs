@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/am-25.2.2.3/appian-award-management-home.html
 original_path: am-25.2.2.3/appian-award-management-home.html
 version: "25.3"
+title: "Appian Award Management Overview"
+page_id: "am-25.2.2.3/appian-award-management-home"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/exceptions/ErrorCodeHolder.html
 original_path: api/com/appiancorp/exceptions/ErrorCodeHolder.html
 version: "25.3"
+title: "Interface ErrorCodeHolder"
+page_id: "api/com/appiancorp/exceptions/ErrorCodeHolder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.exceptions](package-summary.html)
 

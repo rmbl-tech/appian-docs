@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/configure-record-data-source.html
 original_path: configure-record-data-source.html
 version: "25.3"
+title: "Choose a Data Source for Your Record Type"
+page_id: "configure-record-data-source"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

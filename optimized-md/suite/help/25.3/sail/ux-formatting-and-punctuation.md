@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-formatting-and-punctuation.html
 original_path: sail/ux-formatting-and-punctuation.html
 version: "25.3"
+title: "Formatting and Punctuation"
+page_id: "sail/ux-formatting-and-punctuation"
+section: "Capitalization"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Formatting and Punctuation \[SAIL Design System: Guidelines\]
 

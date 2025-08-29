@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Publishing_Process_Models_as_Web_Services.html
 original_path: Publishing_Process_Models_as_Web_Services.html
 version: "25.3"
+title: "Publishing Process Models as Web Services"
+page_id: "Publishing_Process_Models_as_Web_Services"
+section: "Publishing process models as web services"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

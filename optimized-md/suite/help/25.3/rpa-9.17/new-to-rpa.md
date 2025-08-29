@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/new-to-rpa.html
 original_path: rpa-9.17/new-to-rpa.html
 version: "25.3"
+title: "Learn About Appian RPA"
+page_id: "rpa-9.17/new-to-rpa"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

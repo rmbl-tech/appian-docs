@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/update-source-from-record-type.html
 original_path: update-source-from-record-type.html
 version: "25.3"
+title: "Update a Database Table from Your Record Type"
+page_id: "update-source-from-record-type"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

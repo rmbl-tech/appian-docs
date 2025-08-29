@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Columns_Browser_Node_Component.html
 original_path: Columns_Browser_Node_Component.html
 version: "25.3"
+title: "Hierarchy Browser Node (Columns) Component"
+page_id: "Columns_Browser_Node_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Subscribing_to_Knowledge_Centers.html
 original_path: Subscribing_to_Knowledge_Centers.html
 version: "25.3"
+title: "Subscribing to Knowledge Centers \[Deprecated\]"
+page_id: "Subscribing_to_Knowledge_Centers"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

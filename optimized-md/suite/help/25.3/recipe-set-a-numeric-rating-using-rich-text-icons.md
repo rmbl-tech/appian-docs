@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-set-a-numeric-rating-using-rich-text-icons.html
 original_path: recipe-set-a-numeric-rating-using-rich-text-icons.html
 version: "25.3"
+title: "Set a Numeric Rating Using Rich Text Icons"
+page_id: "recipe-set-a-numeric-rating-using-rich-text-icons"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

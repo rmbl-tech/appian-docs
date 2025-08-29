@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/connected-system-plug-in-landing.html
 original_path: connected-system-plug-in-landing.html
 version: "25.3"
+title: "Connected System Plug-ins"
+page_id: "connected-system-plug-in-landing"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/configuring_site_typefaces.html
 original_path: configuring_site_typefaces.html
 version: "25.3"
+title: "Custom Typefaces"
+page_id: "configuring_site_typefaces"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-show-sales-growth.html
 original_path: recipe-show-sales-growth.html
 version: "25.3"
+title: "Year-Over-Year Sales Growth"
+page_id: "recipe-show-sales-growth"
+section: "Scenario"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

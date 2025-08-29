@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/type/config/xsd/exceptions/InvalidXsdException.html
 original_path: api/com/appiancorp/suiteapi/type/config/xsd/exceptions/InvalidXsdException.html
 version: "25.3"
+title: "Class InvalidXsdException"
+page_id: "api/com/appiancorp/suiteapi/type/config/xsd/exceptions/InvalidXsdException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.type.config.xsd.exceptions](package-summary.html)
 

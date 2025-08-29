@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/test/Controller.ControllerException.html
 original_path: api/com/appiancorp/suiteapi/process/test/Controller.ControllerException.html
 version: "25.3"
+title: "Class Controller.ControllerException"
+page_id: "api/com/appiancorp/suiteapi/process/test/Controller.ControllerException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.test](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-events-configuration.html
 original_path: record-events-configuration.html
 version: "25.3"
+title: "Configure Record Events"
+page_id: "record-events-configuration"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

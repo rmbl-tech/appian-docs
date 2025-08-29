@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Internationalization.html
 original_path: Process_Internationalization.html
 version: "25.3"
+title: "Process Internationalization \[Deprecated\]"
+page_id: "Process_Internationalization"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

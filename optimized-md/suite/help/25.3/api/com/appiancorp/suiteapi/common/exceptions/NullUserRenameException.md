@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/NullUserRenameException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/NullUserRenameException.html
 version: "25.3"
+title: "Class NullUserRenameException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/NullUserRenameException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

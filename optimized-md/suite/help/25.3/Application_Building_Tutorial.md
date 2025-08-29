@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Application_Building_Tutorial.html
 original_path: Application_Building_Tutorial.html
 version: "25.3"
+title: "Application Building Tutorial"
+page_id: "Application_Building_Tutorial"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

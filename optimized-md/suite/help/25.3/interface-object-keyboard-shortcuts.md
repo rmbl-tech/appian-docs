@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/interface-object-keyboard-shortcuts.html
 original_path: interface-object-keyboard-shortcuts.html
 version: "25.3"
+title: "Keyboard Shortcuts"
+page_id: "interface-object-keyboard-shortcuts"
+section: "General shortcuts"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/blue-prism-connected-system.html
 original_path: blue-prism-connected-system.html
 version: "25.3"
+title: "Blue Prism"
+page_id: "blue-prism-connected-system"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

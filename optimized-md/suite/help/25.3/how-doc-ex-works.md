@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/how-doc-ex-works.html
 original_path: how-doc-ex-works.html
 version: "25.3"
+title: "How Document Extraction Works"
+page_id: "how-doc-ex-works"
+section: "About your documents"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

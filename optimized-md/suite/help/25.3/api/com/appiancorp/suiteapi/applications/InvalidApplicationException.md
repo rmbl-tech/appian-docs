@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/applications/InvalidApplicationException.html
 original_path: api/com/appiancorp/suiteapi/applications/InvalidApplicationException.html
 version: "25.3"
+title: "Class InvalidApplicationException"
+page_id: "api/com/appiancorp/suiteapi/applications/InvalidApplicationException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.applications](package-summary.html)
 

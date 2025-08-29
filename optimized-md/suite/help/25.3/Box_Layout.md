@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Box_Layout.html
 original_path: Box_Layout.html
 version: "25.3"
+title: "Box Layout"
+page_id: "Box_Layout"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Create_a_Decision.html
 original_path: Create_a_Decision.html
 version: "25.3"
+title: "Create a Decision"
+page_id: "Create_a_Decision"
+section: "Create the object"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

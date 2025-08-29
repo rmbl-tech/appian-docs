@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_scripting_a_aggregationfields.html
 original_path: fnc_scripting_a_aggregationfields.html
 version: "25.3"
+title: "a!aggregationFields() Function"
+page_id: "fnc_scripting_a_aggregationfields"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

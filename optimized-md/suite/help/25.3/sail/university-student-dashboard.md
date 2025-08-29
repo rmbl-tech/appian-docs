@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/university-student-dashboard.html
 original_path: sail/university-student-dashboard.html
 version: "25.3"
+title: "University Student Dashboard"
+page_id: "sail/university-student-dashboard"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) University Student Dashboard \[SAIL Design System: Inspiration\]
 

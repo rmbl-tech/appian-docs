@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/monitoring-applications.html
 original_path: monitoring-applications.html
 version: "25.3"
+title: "Monitoring Applications"
+page_id: "monitoring-applications"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

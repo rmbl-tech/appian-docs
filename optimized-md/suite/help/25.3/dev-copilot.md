@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/dev-copilot.html
 original_path: dev-copilot.html
 version: "25.3"
+title: "Appian AI Copilot for Developers"
+page_id: "dev-copilot"
+section: "Generate an interface from a PDF"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

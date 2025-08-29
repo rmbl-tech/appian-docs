@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/portal/portlets/leadermessage/LeaderMessage.html
 original_path: api/com/appiancorp/suiteapi/portal/portlets/leadermessage/LeaderMessage.html
 version: "25.3"
+title: "Class LeaderMessage"
+page_id: "api/com/appiancorp/suiteapi/portal/portlets/leadermessage/LeaderMessage"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.portal.portlets.leadermessage](package-summary.html)
 

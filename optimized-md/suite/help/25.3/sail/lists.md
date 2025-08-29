@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/lists.html
 original_path: sail/lists.html
 version: "25.3"
+title: "Lists"
+page_id: "sail/lists"
+section: "Photo gallery card record list"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Lists \[SAIL Design System: Patterns\]
 

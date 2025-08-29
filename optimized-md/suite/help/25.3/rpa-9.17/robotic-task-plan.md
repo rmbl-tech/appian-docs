@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/robotic-task-plan.html
 original_path: rpa-9.17/robotic-task-plan.html
 version: "25.3"
+title: "What Makes a Good Robotic Task?"
+page_id: "rpa-9.17/robotic-task-plan"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

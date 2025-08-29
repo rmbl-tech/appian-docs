@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Expressions.html
 original_path: Expressions.html
 version: "25.3"
+title: "Expressions"
+page_id: "Expressions"
+section: "About expressions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

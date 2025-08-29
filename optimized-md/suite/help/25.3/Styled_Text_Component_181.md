@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Styled_Text_Component_181.html
 original_path: Styled_Text_Component_181.html
 version: "25.3"
+title: "a!richTextItem\_18r1 Component"
+page_id: "Styled_Text_Component_181"
+section: "Styled Text"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

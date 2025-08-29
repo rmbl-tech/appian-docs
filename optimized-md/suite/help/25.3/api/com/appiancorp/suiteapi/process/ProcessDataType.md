@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/ProcessDataType.html
 original_path: api/com/appiancorp/suiteapi/process/ProcessDataType.html
 version: "25.3"
+title: "Annotation Interface ProcessDataType"
+page_id: "api/com/appiancorp/suiteapi/process/ProcessDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

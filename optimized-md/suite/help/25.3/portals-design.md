@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portals-design.html
 original_path: portals-design.html
 version: "25.3"
+title: "Portal Best Practices"
+page_id: "portals-design"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

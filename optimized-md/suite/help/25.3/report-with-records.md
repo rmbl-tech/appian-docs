@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/report-with-records.html
 original_path: report-with-records.html
 version: "25.3"
+title: "Build Reports from Records"
+page_id: "report-with-records"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

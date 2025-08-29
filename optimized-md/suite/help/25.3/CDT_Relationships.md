@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/CDT_Relationships.html
 original_path: CDT_Relationships.html
 version: "25.3"
+title: "Custom Data Type (CDT) Relationships"
+page_id: "CDT_Relationships"
+section: "Terminology"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

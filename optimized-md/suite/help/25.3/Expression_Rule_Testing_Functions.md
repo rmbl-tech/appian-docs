@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Expression_Rule_Testing_Functions.html
 original_path: Expression_Rule_Testing_Functions.html
 version: "25.3"
+title: "Expression Rule Testing Functions"
+page_id: "Expression_Rule_Testing_Functions"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

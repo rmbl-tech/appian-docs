@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Create_New_Version_Smart_Service.html
 original_path: Create_New_Version_Smart_Service.html
 version: "25.3"
+title: "Create New Version Smart Service \[Deprecated\]"
+page_id: "Create_New_Version_Smart_Service"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

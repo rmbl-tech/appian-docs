@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portals-manage-portals.html
 original_path: portals-manage-portals.html
 version: "25.3"
+title: "Manage a Portal"
+page_id: "portals-manage-portals"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

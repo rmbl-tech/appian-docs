@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Cloud_Site_Maintenance.html
 original_path: Appian_Cloud_Site_Maintenance.html
 version: "25.3"
+title: "Appian Cloud Environment Maintenance"
+page_id: "Appian_Cloud_Site_Maintenance"
+section: "Environment maintenance"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

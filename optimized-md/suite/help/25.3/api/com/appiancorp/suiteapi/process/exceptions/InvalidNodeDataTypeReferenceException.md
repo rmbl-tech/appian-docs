@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/exceptions/InvalidNodeDataTypeReferenceException.html
 original_path: api/com/appiancorp/suiteapi/process/exceptions/InvalidNodeDataTypeReferenceException.html
 version: "25.3"
+title: "Class InvalidNodeDataTypeReferenceException"
+page_id: "api/com/appiancorp/suiteapi/process/exceptions/InvalidNodeDataTypeReferenceException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.exceptions](package-summary.html)
 

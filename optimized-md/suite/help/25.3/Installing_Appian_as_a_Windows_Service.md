@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Installing_Appian_as_a_Windows_Service.html
 original_path: Installing_Appian_as_a_Windows_Service.html
 version: "25.3"
+title: "Installing Appian as a Windows Service"
+page_id: "Installing_Appian_as_a_Windows_Service"
+section: "Installing Tomcat as a Windows service"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

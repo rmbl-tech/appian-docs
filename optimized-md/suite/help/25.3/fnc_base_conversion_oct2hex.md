@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_base_conversion_oct2hex.html
 original_path: fnc_base_conversion_oct2hex.html
 version: "25.3"
+title: "oct2hex() Function"
+page_id: "fnc_base_conversion_oct2hex"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

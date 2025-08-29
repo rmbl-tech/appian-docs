@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-columns-layout.html
 original_path: sail/ux-columns-layout.html
 version: "25.3"
+title: "Columns Layout"
+page_id: "sail/ux-columns-layout"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Columns Layout \[SAIL Design System: Components\]
 

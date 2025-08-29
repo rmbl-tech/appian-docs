@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Mapping_CDTs_to_Pre-defined_Database_Tables.html
 original_path: Mapping_CDTs_to_Pre-defined_Database_Tables.html
 version: "25.3"
+title: "Mapping Custom Data Types (CDTs) to Pre-defined Database Tables"
+page_id: "Mapping_CDTs_to_Pre-defined_Database_Tables"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

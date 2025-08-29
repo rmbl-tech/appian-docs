@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Process_Model_Dashboards.html
 original_path: Process_Model_Dashboards.html
 version: "25.3"
+title: "Process Model Dashboards \[Deprecated\]"
+page_id: "Process_Model_Dashboards"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

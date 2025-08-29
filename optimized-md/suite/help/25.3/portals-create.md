@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portals-create.html
 original_path: portals-create.html
 version: "25.3"
+title: "Create a Portal"
+page_id: "portals-create"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

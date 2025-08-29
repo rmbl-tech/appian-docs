@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Bootstrap_Locale_and_Timezone.html
 original_path: Bootstrap_Locale_and_Timezone.html
 version: "25.3"
+title: "Bootstrap Locale and Timezone"
+page_id: "Bootstrap_Locale_and_Timezone"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

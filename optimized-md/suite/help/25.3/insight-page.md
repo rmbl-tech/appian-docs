@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/insight-page.html
 original_path: insight-page.html
 version: "25.3"
+title: "Insight Page"
+page_id: "insight-page"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

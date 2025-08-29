@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/deprecated-list.html
 original_path: api/deprecated-list.html
 version: "25.3"
+title: "Deprecated API"
+page_id: "api/deprecated-list"
+section: "Contents"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # Deprecated API
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/allclasses-index.html
 original_path: api/allclasses-index.html
 version: "25.3"
+title: "All Classes and Interfaces"
+page_id: "api/allclasses-index"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # All Classes and Interfaces
 

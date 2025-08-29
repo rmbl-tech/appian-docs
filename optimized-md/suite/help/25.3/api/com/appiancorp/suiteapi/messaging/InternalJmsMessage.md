@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/messaging/InternalJmsMessage.html
 original_path: api/com/appiancorp/suiteapi/messaging/InternalJmsMessage.html
 version: "25.3"
+title: "Class InternalJmsMessage"
+page_id: "api/com/appiancorp/suiteapi/messaging/InternalJmsMessage"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.messaging](package-summary.html)
 

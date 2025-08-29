@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Choosing_the_Right_Type_of_Integration.html
 original_path: Choosing_the_Right_Type_of_Integration.html
 version: "25.3"
+title: "Choosing the Right Type of Integration"
+page_id: "Choosing_the_Right_Type_of_Integration"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

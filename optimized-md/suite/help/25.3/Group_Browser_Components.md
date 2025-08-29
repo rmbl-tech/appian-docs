@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Group_Browser_Components.html
 original_path: Group_Browser_Components.html
 version: "25.3"
+title: "Group Browser Component"
+page_id: "Group_Browser_Components"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

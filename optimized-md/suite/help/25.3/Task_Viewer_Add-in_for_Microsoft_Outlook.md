@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Task_Viewer_Add-in_for_Microsoft_Outlook.html
 original_path: Task_Viewer_Add-in_for_Microsoft_Outlook.html
 version: "25.3"
+title: "Task Viewer Add-in for Microsoft Outlook"
+page_id: "Task_Viewer_Add-in_for_Microsoft_Outlook"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

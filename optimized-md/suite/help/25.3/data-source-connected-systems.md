@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/data-source-connected-systems.html
 original_path: data-source-connected-systems.html
 version: "25.3"
+title: "Data Source Connected Systems"
+page_id: "data-source-connected-systems"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

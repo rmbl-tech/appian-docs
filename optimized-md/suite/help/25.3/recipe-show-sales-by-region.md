@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-show-sales-by-region.html
 original_path: recipe-show-sales-by-region.html
 version: "25.3"
+title: "Sales by Region"
+page_id: "recipe-show-sales-by-region"
+section: "Scenario"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

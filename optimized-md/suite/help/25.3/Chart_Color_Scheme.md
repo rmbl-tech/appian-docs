@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Chart_Color_Scheme.html
 original_path: Chart_Color_Scheme.html
 version: "25.3"
+title: "Chart Color Schemes"
+page_id: "Chart_Color_Scheme"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

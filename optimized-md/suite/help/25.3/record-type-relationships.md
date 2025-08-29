@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-type-relationships.html
 original_path: record-type-relationships.html
 version: "25.3"
+title: "Add Record Type Relationships"
+page_id: "record-type-relationships"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

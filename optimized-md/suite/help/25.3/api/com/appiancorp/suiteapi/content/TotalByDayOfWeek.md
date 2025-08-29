@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/TotalByDayOfWeek.html
 original_path: api/com/appiancorp/suiteapi/content/TotalByDayOfWeek.html
 version: "25.3"
+title: "Class TotalByDayOfWeek"
+page_id: "api/com/appiancorp/suiteapi/content/TotalByDayOfWeek"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content](package-summary.html)
 

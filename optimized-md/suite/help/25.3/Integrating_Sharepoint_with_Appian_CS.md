@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Integrating_Sharepoint_with_Appian_CS.html
 original_path: Integrating_Sharepoint_with_Appian_CS.html
 version: "25.3"
+title: "Integrating SharePoint with Appian's Connected System"
+page_id: "Integrating_Sharepoint_with_Appian_CS"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

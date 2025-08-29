@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cu-25.2.1.7/cu-authenticated-broker-portal-overview.html
 original_path: cu-25.2.1.7/cu-authenticated-broker-portal-overview.html
 version: "25.3"
+title: "Authenticated Broker Portal Overview"
+page_id: "cu-25.2.1.7/cu-authenticated-broker-portal-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

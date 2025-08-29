@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/manage-docs-with-records.html
 original_path: manage-docs-with-records.html
 version: "25.3"
+title: "Manage Documents with Record Types"
+page_id: "manage-docs-with-records"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

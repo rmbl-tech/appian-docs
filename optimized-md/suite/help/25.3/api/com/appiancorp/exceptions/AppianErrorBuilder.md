@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/exceptions/AppianErrorBuilder.html
 original_path: api/com/appiancorp/exceptions/AppianErrorBuilder.html
 version: "25.3"
+title: "Class AppianErrorBuilder"
+page_id: "api/com/appiancorp/exceptions/AppianErrorBuilder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.exceptions](package-summary.html)
 

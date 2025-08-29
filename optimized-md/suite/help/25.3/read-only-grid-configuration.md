@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/read-only-grid-configuration.html
 original_path: read-only-grid-configuration.html
 version: "25.3"
+title: "Configuring the Read-Only Grid"
+page_id: "read-only-grid-configuration"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Tiers.html
 original_path: Appian_Tiers.html
 version: "25.3"
+title: "Appian's Capability Tiers"
+page_id: "Appian_Tiers"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

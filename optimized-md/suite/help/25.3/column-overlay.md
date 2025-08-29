@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/column-overlay.html
 original_path: column-overlay.html
 version: "25.3"
+title: "Column Overlay"
+page_id: "column-overlay"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

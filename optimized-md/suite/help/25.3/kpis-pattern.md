@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/kpis-pattern.html
 original_path: kpis-pattern.html
 version: "25.3"
+title: "KPI Patterns"
+page_id: "kpis-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

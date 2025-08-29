@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/paging/PagingInfoConverter.html
 original_path: api/com/appiancorp/suiteapi/common/paging/PagingInfoConverter.html
 version: "25.3"
+title: "Class PagingInfoConverter"
+page_id: "api/com/appiancorp/suiteapi/common/paging/PagingInfoConverter"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.paging](package-summary.html)
 

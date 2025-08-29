@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/install-case-comments-summary.html
 original_path: install-case-comments-summary.html
 version: "25.3"
+title: "Installing Case Comments Summary Module"
+page_id: "install-case-comments-summary"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

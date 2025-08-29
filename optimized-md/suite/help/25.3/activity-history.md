@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/activity-history.html
 original_path: activity-history.html
 version: "25.3"
+title: "Activity History Pattern"
+page_id: "activity-history"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

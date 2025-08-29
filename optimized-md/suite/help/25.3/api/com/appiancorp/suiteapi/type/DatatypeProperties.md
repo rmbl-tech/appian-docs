@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/type/DatatypeProperties.html
 original_path: api/com/appiancorp/suiteapi/type/DatatypeProperties.html
 version: "25.3"
+title: "Class DatatypeProperties"
+page_id: "api/com/appiancorp/suiteapi/type/DatatypeProperties"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.type](package-summary.html)
 

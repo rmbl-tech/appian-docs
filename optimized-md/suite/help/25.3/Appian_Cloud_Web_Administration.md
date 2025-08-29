@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Cloud_Web_Administration.html
 original_path: Appian_Cloud_Web_Administration.html
 version: "25.3"
+title: "Appian Cloud Web Administration"
+page_id: "Appian_Cloud_Web_Administration"
+section: "Updating the Site Logo"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

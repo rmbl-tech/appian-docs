@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/analytics2/ProcessAnalyticsService.html
 original_path: api/com/appiancorp/suiteapi/process/analytics2/ProcessAnalyticsService.html
 version: "25.3"
+title: "Interface ProcessAnalyticsService"
+page_id: "api/com/appiancorp/suiteapi/process/analytics2/ProcessAnalyticsService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.analytics2](package-summary.html)
 

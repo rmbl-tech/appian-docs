@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/configure-security.html
 original_path: configure-security.html
 version: "25.3"
+title: "Configure Security for Process Insights"
+page_id: "configure-security"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/case-management-studio-overview.html
 original_path: case-management-studio-overview.html
 version: "25.3"
+title: "Case Management Studio Overview"
+page_id: "case-management-studio-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

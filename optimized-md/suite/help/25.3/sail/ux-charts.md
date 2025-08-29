@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-charts.html
 original_path: sail/ux-charts.html
 version: "25.3"
+title: "Charts"
+page_id: "sail/ux-charts"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Charts \[SAIL Design System: Components\]
 

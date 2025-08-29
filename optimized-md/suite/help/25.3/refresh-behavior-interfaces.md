@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/refresh-behavior-interfaces.html
 original_path: refresh-behavior-interfaces.html
 version: "25.3"
+title: "Refresh Behavior in Interfaces"
+page_id: "refresh-behavior-interfaces"
+section: "About Refresh Behavior"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

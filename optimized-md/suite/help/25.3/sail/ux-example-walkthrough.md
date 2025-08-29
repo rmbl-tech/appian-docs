@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-example-walkthrough.html
 original_path: sail/ux-example-walkthrough.html
 version: "25.3"
+title: "Example Walk-Through"
+page_id: "sail/ux-example-walkthrough"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Example Walk-Through \[SAIL Design System: Guidelines\]
 

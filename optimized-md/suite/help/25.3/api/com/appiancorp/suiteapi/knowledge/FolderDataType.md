@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/knowledge/FolderDataType.html
 original_path: api/com/appiancorp/suiteapi/knowledge/FolderDataType.html
 version: "25.3"
+title: "Annotation Interface FolderDataType"
+page_id: "api/com/appiancorp/suiteapi/knowledge/FolderDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.knowledge](package-summary.html)
 

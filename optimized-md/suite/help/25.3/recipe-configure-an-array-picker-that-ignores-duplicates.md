@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-configure-an-array-picker-that-ignores-duplicates.html
 original_path: recipe-configure-an-array-picker-that-ignores-duplicates.html
 version: "25.3"
+title: "Configure an Array Picker that Ignores Duplicates"
+page_id: "recipe-configure-an-array-picker-that-ignores-duplicates"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

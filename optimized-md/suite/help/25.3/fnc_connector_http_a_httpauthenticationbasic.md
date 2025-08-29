@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_connector_http_a_httpauthenticationbasic.html
 original_path: fnc_connector_http_a_httpauthenticationbasic.html
 version: "25.3"
+title: "a!httpAuthenticationBasic() Function"
+page_id: "fnc_connector_http_a_httpauthenticationbasic"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

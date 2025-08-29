@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_scripting_linktofolder.html
 original_path: fnc_scripting_linktofolder.html
 version: "25.3"
+title: "linktofolder() Function \[Deprecated\]"
+page_id: "fnc_scripting_linktofolder"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

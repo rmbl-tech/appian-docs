@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Forum_Data_Type.html
 original_path: Forum_Data_Type.html
 version: "25.3"
+title: "Forum Data Type \[Deprecated\]"
+page_id: "Forum_Data_Type"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

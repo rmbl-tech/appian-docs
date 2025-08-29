@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/k8s-0.184.0/init-and-sidecar-containers.html
 original_path: k8s-0.184.0/init-and-sidecar-containers.html
 version: "25.3"
+title: "Init and Sidecar Containers"
+page_id: "k8s-0.184.0/init-and-sidecar-containers"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

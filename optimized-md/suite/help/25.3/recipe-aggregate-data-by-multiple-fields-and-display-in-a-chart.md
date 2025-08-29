@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-aggregate-data-by-multiple-fields-and-display-in-a-chart.html
 original_path: recipe-aggregate-data-by-multiple-fields-and-display-in-a-chart.html
 version: "25.3"
+title: "Aggregate Data by Multiple Fields and Display in a Chart"
+page_id: "recipe-aggregate-data-by-multiple-fields-and-display-in-a-chart"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

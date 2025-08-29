@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Log_Collection_Script.html
 original_path: Log_Collection_Script.html
 version: "25.3"
+title: "Log Collection Script"
+page_id: "Log_Collection_Script"
+section: "Purpose"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

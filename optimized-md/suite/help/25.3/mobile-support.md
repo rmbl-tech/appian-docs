@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/mobile-support.html
 original_path: mobile-support.html
 version: "25.3"
+title: "Mobile Support"
+page_id: "mobile-support"
+section: "Android"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

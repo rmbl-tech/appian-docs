@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/setup-case-record-chat.html
 original_path: setup-case-record-chat.html
 version: "25.3"
+title: "Setup the Case Record Chat Module"
+page_id: "setup-case-record-chat"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/versioning-csp.html
 original_path: versioning-csp.html
 version: "25.3"
+title: "Release a New Version"
+page_id: "versioning-csp"
+section: "Major versioning"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

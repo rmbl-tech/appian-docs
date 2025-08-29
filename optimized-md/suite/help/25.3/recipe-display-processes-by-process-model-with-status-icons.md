@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-display-processes-by-process-model-with-status-icons.html
 original_path: recipe-display-processes-by-process-model-with-status-icons.html
 version: "25.3"
+title: "Display Processes by Process Model with Status Icons"
+page_id: "recipe-display-processes-by-process-model-with-status-icons"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

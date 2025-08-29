@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/PasswordExpiredException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/PasswordExpiredException.html
 version: "25.3"
+title: "Class PasswordExpiredException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/PasswordExpiredException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/forums/package-tree.html
 original_path: api/com/appiancorp/suiteapi/forums/package-tree.html
 version: "25.3"
+title: "Hierarchy For Package com.appiancorp.suiteapi.forums"
+page_id: "api/com/appiancorp/suiteapi/forums/package-tree"
+section: "Class Hierarchy"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # Hierarchy For Package com.appiancorp.suiteapi.forums
 

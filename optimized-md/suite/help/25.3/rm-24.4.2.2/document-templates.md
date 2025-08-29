@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rm-24.4.2.2/document-templates.html
 original_path: rm-24.4.2.2/document-templates.html
 version: "25.3"
+title: "Modifying Document Templates"
+page_id: "rm-24.4.2.2/document-templates"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

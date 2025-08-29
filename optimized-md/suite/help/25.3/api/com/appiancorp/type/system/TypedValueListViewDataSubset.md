@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/type/system/TypedValueListViewDataSubset.html
 original_path: api/com/appiancorp/type/system/TypedValueListViewDataSubset.html
 version: "25.3"
+title: "Class TypedValueListViewDataSubset"
+page_id: "api/com/appiancorp/type/system/TypedValueListViewDataSubset"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.type.system](package-summary.html)
 

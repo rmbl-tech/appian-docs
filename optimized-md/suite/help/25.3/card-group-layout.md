@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/card-group-layout.html
 original_path: card-group-layout.html
 version: "25.3"
+title: "Card Group Layout"
+page_id: "card-group-layout"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

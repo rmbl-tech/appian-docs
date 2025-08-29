@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/administration/Folder.html
 original_path: api/com/appiancorp/suiteapi/administration/Folder.html
 version: "25.3"
+title: "Class Folder"
+page_id: "api/com/appiancorp/suiteapi/administration/Folder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.administration](package-summary.html)
 

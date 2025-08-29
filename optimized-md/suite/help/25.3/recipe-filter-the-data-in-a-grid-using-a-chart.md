@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-filter-the-data-in-a-grid-using-a-chart.html
 original_path: recipe-filter-the-data-in-a-grid-using-a-chart.html
 version: "25.3"
+title: "Filter the Data in a Grid Using a Chart"
+page_id: "recipe-filter-the-data-in-a-grid-using-a-chart"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

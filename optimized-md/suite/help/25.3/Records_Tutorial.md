@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Records_Tutorial.html
 original_path: Records_Tutorial.html
 version: "25.3"
+title: "Record Type Tutorial (Database)"
+page_id: "Records_Tutorial"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

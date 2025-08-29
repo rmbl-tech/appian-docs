@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/personalization/UserDataType.html
 original_path: api/com/appiancorp/suiteapi/personalization/UserDataType.html
 version: "25.3"
+title: "Annotation Interface UserDataType"
+page_id: "api/com/appiancorp/suiteapi/personalization/UserDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.personalization](package-summary.html)
 

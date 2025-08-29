@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/task-recorder.html
 original_path: rpa-9.17/task-recorder.html
 version: "25.3"
+title: "Use the Task Recorder"
+page_id: "rpa-9.17/task-recorder"
+section: "About the task recorder"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

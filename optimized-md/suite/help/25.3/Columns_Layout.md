@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Columns_Layout.html
 original_path: Columns_Layout.html
 version: "25.3"
+title: "Columns Layout"
+page_id: "Columns_Layout"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

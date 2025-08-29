@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/tabs-pattern.html
 original_path: tabs-pattern.html
 version: "25.3"
+title: "Tabs Patterns"
+page_id: "tabs-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

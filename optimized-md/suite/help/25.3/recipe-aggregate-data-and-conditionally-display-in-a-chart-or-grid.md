@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-aggregate-data-and-conditionally-display-in-a-chart-or-grid.html
 original_path: recipe-aggregate-data-and-conditionally-display-in-a-chart-or-grid.html
 version: "25.3"
+title: "Aggregate Data and Conditionally Display in a Chart or Grid"
+page_id: "recipe-aggregate-data-and-conditionally-display-in-a-chart-or-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

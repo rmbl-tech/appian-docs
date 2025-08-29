@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/learner_journey.html
 original_path: learner_journey.html
 version: "25.3"
+title: "Appian Learning Journey"
+page_id: "learner_journey"
+section: "Your learning journey"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

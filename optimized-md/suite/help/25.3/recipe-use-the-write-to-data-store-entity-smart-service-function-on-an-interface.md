@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-use-the-write-to-data-store-entity-smart-service-function-on-an-interface.html
 original_path: recipe-use-the-write-to-data-store-entity-smart-service-function-on-an-interface.html
 version: "25.3"
+title: "Use the Write to Data Store Entity Smart Service Function on an Interface"
+page_id: "recipe-use-the-write-to-data-store-entity-smart-service-function-on-an-interface"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

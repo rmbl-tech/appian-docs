@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/help-doc.html
 original_path: api/help-doc.html
 version: "25.3"
+title: "JavaDoc Help"
+page_id: "api/help-doc"
+section: "Navigation"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # JavaDoc Help
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/gss-25.2.2.4/gss-setting-up-vm.html
 original_path: gss-25.2.2.4/gss-setting-up-vm.html
 version: "25.3"
+title: "Setting up Vendor Management Integration"
+page_id: "gss-25.2.2.4/gss-setting-up-vm"
+section: "**Introduction**"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

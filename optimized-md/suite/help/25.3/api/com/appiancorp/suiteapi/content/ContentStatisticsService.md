@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/content/ContentStatisticsService.html
 original_path: api/com/appiancorp/suiteapi/content/ContentStatisticsService.html
 version: "25.3"
+title: "Interface ContentStatisticsService"
+page_id: "api/com/appiancorp/suiteapi/content/ContentStatisticsService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.content](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/passing-a-web-api-document-into-a-process-model.html
 original_path: passing-a-web-api-document-into-a-process-model.html
 version: "25.3"
+title: "Pass a Web API Document Upload into a Process Model"
+page_id: "passing-a-web-api-document-into-a-process-model"
+section: "Create a process model"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

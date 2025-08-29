@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Submit_Link_Component.html
 original_path: Submit_Link_Component.html
 version: "25.3"
+title: "Submit Link"
+page_id: "Submit_Link_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

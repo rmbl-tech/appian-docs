@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/java-module-appian-services.html
 original_path: rpa-9.17/java-module-appian-services.html
 version: "25.3"
+title: "Appian Services Java Module"
+page_id: "rpa-9.17/java-module-appian-services"
+section: "Using the Appian Services Java module"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

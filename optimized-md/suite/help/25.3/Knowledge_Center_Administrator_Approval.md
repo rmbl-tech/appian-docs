@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Knowledge_Center_Administrator_Approval.html
 original_path: Knowledge_Center_Administrator_Approval.html
 version: "25.3"
+title: "Knowledge Center Administrator Approval \[Deprecated\]"
+page_id: "Knowledge_Center_Administrator_Approval"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

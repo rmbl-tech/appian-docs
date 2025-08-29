@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/what-is-ai.html
 original_path: what-is-ai.html
 version: "25.3"
+title: "What is Artificial Intelligence?"
+page_id: "what-is-ai"
+section: "What is artificial intelligence?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

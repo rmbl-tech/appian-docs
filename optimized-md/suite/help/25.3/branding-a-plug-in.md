@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/branding-a-plug-in.html
 original_path: branding-a-plug-in.html
 version: "25.3"
+title: "Add Logos"
+page_id: "branding-a-plug-in"
+section: "Using a single image"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

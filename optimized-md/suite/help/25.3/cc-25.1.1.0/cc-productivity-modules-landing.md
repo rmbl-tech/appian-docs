@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cc-25.1.1.0/cc-productivity-modules-landing.html
 original_path: cc-25.1.1.0/cc-productivity-modules-landing.html
 version: "25.3"
+title: "Productivity Add-On Module"
+page_id: "cc-25.1.1.0/cc-productivity-modules-landing"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

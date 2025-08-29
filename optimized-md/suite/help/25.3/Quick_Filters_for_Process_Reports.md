@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Quick_Filters_for_Process_Reports.html
 original_path: Quick_Filters_for_Process_Reports.html
 version: "25.3"
+title: "Quick Filters for Process Reports \[Deprecated\]"
+page_id: "Quick_Filters_for_Process_Reports"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

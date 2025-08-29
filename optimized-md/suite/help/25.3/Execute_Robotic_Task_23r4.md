@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Execute_Robotic_Task_23r4.html
 original_path: Execute_Robotic_Task_23r4.html
 version: "25.3"
+title: "Execute Robotic Task Smart Service (23.4)"
+page_id: "Execute_Robotic_Task_23r4"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

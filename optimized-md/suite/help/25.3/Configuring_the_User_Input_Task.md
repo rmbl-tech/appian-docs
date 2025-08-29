@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configuring_the_User_Input_Task.html
 original_path: Configuring_the_User_Input_Task.html
 version: "25.3"
+title: "User Input Task"
+page_id: "Configuring_the_User_Input_Task"
+section: "General tab"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/folder-and-document-management.html
 original_path: folder-and-document-management.html
 version: "25.3"
+title: "Manage Documents with Folders"
+page_id: "folder-and-document-management"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

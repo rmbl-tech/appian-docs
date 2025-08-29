@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Themes_for_Embedded_Interfaces.html
 original_path: Themes_for_Embedded_Interfaces.html
 version: "25.3"
+title: "Themes for Embedded Interfaces"
+page_id: "Themes_for_Embedded_Interfaces"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

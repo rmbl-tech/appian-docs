@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-buttons-vs-links.html
 original_path: sail/ux-buttons-vs-links.html
 version: "25.3"
+title: "Buttons vs. Links"
+page_id: "sail/ux-buttons-vs-links"
+section: "When to use buttons versus links"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Buttons vs. Links \[SAIL Design System: Guidelines\]
 

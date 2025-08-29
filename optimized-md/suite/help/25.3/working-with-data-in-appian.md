@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/working-with-data-in-appian.html
 original_path: working-with-data-in-appian.html
 version: "25.3"
+title: "Objects that Access Data"
+page_id: "working-with-data-in-appian"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

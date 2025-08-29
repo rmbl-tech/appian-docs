@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/configure-edit-tab.html
 original_path: rpa-9.17/configure-edit-tab.html
 version: "25.3"
+title: "Configure the Edit Tab"
+page_id: "rpa-9.17/configure-edit-tab"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

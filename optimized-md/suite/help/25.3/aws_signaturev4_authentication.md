@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/aws_signaturev4_authentication.html
 original_path: aws_signaturev4_authentication.html
 version: "25.3"
+title: "AWS Signature Version 4 Authentication"
+page_id: "aws_signaturev4_authentication"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

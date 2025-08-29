@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/build-best-data-fabric.html
 original_path: build-best-data-fabric.html
 version: "25.3"
+title: "Build Your Best Data Fabric"
+page_id: "build-best-data-fabric"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

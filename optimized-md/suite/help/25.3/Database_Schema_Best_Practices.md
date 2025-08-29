@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Database_Schema_Best_Practices.html
 original_path: Database_Schema_Best_Practices.html
 version: "25.3"
+title: "Database Schema Best Practices"
+page_id: "Database_Schema_Best_Practices"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

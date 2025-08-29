@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_logical_if.html
 original_path: fnc_logical_if.html
 version: "25.3"
+title: "if() Function"
+page_id: "fnc_logical_if"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/palette/Communication.html
 original_path: api/com/appiancorp/suiteapi/process/palette/Communication.html
 version: "25.3"
+title: "Annotation Interface Communication"
+page_id: "api/com/appiancorp/suiteapi/process/palette/Communication"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.palette](package-summary.html)
 

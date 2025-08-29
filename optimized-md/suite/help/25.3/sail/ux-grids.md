@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-grids.html
 original_path: sail/ux-grids.html
 version: "25.3"
+title: "Grids"
+page_id: "sail/ux-grids"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Grids \[SAIL Design System: Components\]
 

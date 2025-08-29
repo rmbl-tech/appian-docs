@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/extending-appian.html
 original_path: extending-appian.html
 version: "25.3"
+title: "Extending Appian"
+page_id: "extending-appian"
+section: "Types of plug-ins"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

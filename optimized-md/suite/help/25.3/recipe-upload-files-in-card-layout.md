@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-upload-files-in-card-layout.html
 original_path: recipe-upload-files-in-card-layout.html
 version: "25.3"
+title: "Upload Multiple Documents and Edit Document Properties"
+page_id: "recipe-upload-files-in-card-layout"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

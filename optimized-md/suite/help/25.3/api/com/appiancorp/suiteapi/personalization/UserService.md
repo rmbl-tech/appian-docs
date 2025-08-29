@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/personalization/UserService.html
 original_path: api/com/appiancorp/suiteapi/personalization/UserService.html
 version: "25.3"
+title: "Interface UserService"
+page_id: "api/com/appiancorp/suiteapi/personalization/UserService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.personalization](package-summary.html)
 

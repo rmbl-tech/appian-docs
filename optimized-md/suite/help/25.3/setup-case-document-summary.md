@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/setup-case-document-summary.html
 original_path: setup-case-document-summary.html
 version: "25.3"
+title: "Setting Up Case Document Summary Module"
+page_id: "setup-case-document-summary"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/folder-object.html
 original_path: folder-object.html
 version: "25.3"
+title: "Folder Object"
+page_id: "folder-object"
+section: "About folders"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

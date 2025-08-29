@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/install-case-creation-via-email.html
 original_path: install-case-creation-via-email.html
 version: "25.3"
+title: "Installing Case Creation via Email Module"
+page_id: "install-case-creation-via-email"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

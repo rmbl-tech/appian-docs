@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-refresh-data-after-executing-a-smart-service.html
 original_path: recipe-refresh-data-after-executing-a-smart-service.html
 version: "25.3"
+title: "Refresh Data After Executing a Smart Service"
+page_id: "recipe-refresh-data-after-executing-a-smart-service"
+section: "Expression"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

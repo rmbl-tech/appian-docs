@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Opaque_URL_Guidance.html
 original_path: Opaque_URL_Guidance.html
 version: "25.3"
+title: "Opaque URL Guidance"
+page_id: "Opaque_URL_Guidance"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -3,7 +3,11 @@ source_url: https://docs.appian.com/suite/help/25.3/sail/forms.html
 original_path: sail/forms.html
 version: "25.3"
 part: 3/4
+page_id: "sail/forms"
+section: "Providing confirmation and review pages"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 ## Providing confirmation and review pages
 

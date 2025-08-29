@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portal-capabilities.html
 original_path: portal-capabilities.html
 version: "25.3"
+title: "Portal Capabilities"
+page_id: "portal-capabilities"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Adapt_a_SAIL_Recipe_to_Work_with_My_Applications.html
 original_path: Adapt_a_SAIL_Recipe_to_Work_with_My_Applications.html
 version: "25.3"
+title: "How to Adapt a Pattern for Your Application"
+page_id: "Adapt_a_SAIL_Recipe_to_Work_with_My_Applications"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

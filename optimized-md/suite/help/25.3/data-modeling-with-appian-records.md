@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/data-modeling-with-appian-records.html
 original_path: data-modeling-with-appian-records.html
 version: "25.3"
+title: "About Data Modeling in Appian"
+page_id: "data-modeling-with-appian-records"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

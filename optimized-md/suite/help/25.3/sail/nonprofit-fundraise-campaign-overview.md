@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/nonprofit-fundraise-campaign-overview.html
 original_path: sail/nonprofit-fundraise-campaign-overview.html
 version: "25.3"
+title: "Non-Profit Fundraising Campaign Overview"
+page_id: "sail/nonprofit-fundraise-campaign-overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Non-Profit Fundraising Campaign Overview \[SAIL Design System: Inspiration\]
 

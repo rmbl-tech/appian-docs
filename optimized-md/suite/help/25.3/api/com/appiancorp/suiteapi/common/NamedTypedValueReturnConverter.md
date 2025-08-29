@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/NamedTypedValueReturnConverter.html
 original_path: api/com/appiancorp/suiteapi/common/NamedTypedValueReturnConverter.html
 version: "25.3"
+title: "Class NamedTypedValueReturnConverter"
+page_id: "api/com/appiancorp/suiteapi/common/NamedTypedValueReturnConverter"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/rpa-modules.html
 original_path: rpa-9.17/rpa-modules.html
 version: "25.3"
+title: "RPA Actions Palette"
+page_id: "rpa-9.17/rpa-modules"
+section: "Low-code actions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

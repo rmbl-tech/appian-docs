@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/k8s-0.184.0/migration-tool.html
 original_path: k8s-0.184.0/migration-tool.html
 version: "25.3"
+title: "Using the Appian on Kubernetes Migration Tool"
+page_id: "k8s-0.184.0/migration-tool"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

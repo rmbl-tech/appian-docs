@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Mail_Server_Setup.html
 original_path: Mail_Server_Setup.html
 version: "25.3"
+title: "Mail Server Setup"
+page_id: "Mail_Server_Setup"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cms-workspace-overview.html
 original_path: cms-workspace-overview.html
 version: "25.3"
+title: "Workspace Overview"
+page_id: "cms-workspace-overview"
+section: "Workspace"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

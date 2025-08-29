@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/procuresight-plus-overview.html
 original_path: procuresight-plus-overview.html
 version: "25.3"
+title: "Overview"
+page_id: "procuresight-plus-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

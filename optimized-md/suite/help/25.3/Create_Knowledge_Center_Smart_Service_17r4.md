@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Create_Knowledge_Center_Smart_Service_17r4.html
 original_path: Create_Knowledge_Center_Smart_Service_17r4.html
 version: "25.3"
+title: "Create Knowledge Center Smart Service (17.4)"
+page_id: "Create_Knowledge_Center_Smart_Service_17r4"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

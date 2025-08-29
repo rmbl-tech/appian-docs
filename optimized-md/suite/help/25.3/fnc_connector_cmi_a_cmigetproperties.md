@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_connector_cmi_a_cmigetproperties.html
 original_path: fnc_connector_cmi_a_cmigetproperties.html
 version: "25.3"
+title: "a!cmiGetProperties() Function \[Deprecated\]"
+page_id: "fnc_connector_cmi_a_cmigetproperties"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

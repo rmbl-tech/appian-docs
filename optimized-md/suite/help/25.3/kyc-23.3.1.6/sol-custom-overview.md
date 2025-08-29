@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/kyc-23.3.1.6/sol-custom-overview.html
 original_path: kyc-23.3.1.6/sol-custom-overview.html
 version: "25.3"
+title: "Overview"
+page_id: "kyc-23.3.1.6/sol-custom-overview"
+section: "How do I tailor a solution for my needs?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

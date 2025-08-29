@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-conditionally-hide-a-column-in-a-grid.html
 original_path: recipe-conditionally-hide-a-column-in-a-grid.html
 version: "25.3"
+title: "Conditionally Hide a Column in a Grid"
+page_id: "recipe-conditionally-hide-a-column-in-a-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

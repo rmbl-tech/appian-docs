@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/forums/Attachment.html
 original_path: api/com/appiancorp/suiteapi/forums/Attachment.html
 version: "25.3"
+title: "Class Attachment"
+page_id: "api/com/appiancorp/suiteapi/forums/Attachment"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.forums](package-summary.html)
 

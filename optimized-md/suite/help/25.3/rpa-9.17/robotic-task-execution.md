@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/robotic-task-execution.html
 original_path: rpa-9.17/robotic-task-execution.html
 version: "25.3"
+title: "Methods for Robotic Task Execution"
+page_id: "rpa-9.17/robotic-task-execution"
+section: "Execute a robotic task in a process model"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

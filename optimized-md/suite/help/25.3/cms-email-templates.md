@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cms-email-templates.html
 original_path: cms-email-templates.html
 version: "25.3"
+title: "How to Create Email Templates"
+page_id: "cms-email-templates"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

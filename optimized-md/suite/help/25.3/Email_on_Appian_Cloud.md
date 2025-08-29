@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Email_on_Appian_Cloud.html
 original_path: Email_on_Appian_Cloud.html
 version: "25.3"
+title: "Email on Appian Cloud"
+page_id: "Email_on_Appian_Cloud"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

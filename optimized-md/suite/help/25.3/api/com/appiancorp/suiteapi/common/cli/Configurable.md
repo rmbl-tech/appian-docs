@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/cli/Configurable.html
 original_path: api/com/appiancorp/suiteapi/common/cli/Configurable.html
 version: "25.3"
+title: "Interface Configurable"
+page_id: "api/com/appiancorp/suiteapi/common/cli/Configurable"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.cli](package-summary.html)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/customer-acct-management.html
 original_path: sail/customer-acct-management.html
 version: "25.3"
+title: "Customer Account Management Page"
+page_id: "sail/customer-acct-management"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Customer Account Management Page \[SAIL Design System: Inspiration\]
 

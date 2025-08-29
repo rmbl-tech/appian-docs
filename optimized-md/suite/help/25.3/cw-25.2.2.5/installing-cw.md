@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cw-25.2.2.5/installing-cw.html
 original_path: cw-25.2.2.5/installing-cw.html
 version: "25.3"
+title: "Installing Contract Writing"
+page_id: "cw-25.2.2.5/installing-cw"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

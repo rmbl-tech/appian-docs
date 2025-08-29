@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-update-an-entity-backed-record-from-its-summary-view.html
 original_path: recipe-update-an-entity-backed-record-from-its-summary-view.html
 version: "25.3"
+title: "Update an Entity-Backed Record Type from its Summary View"
+page_id: "recipe-update-an-entity-backed-record-from-its-summary-view"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

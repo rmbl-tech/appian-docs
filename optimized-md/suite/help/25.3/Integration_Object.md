@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Integration_Object.html
 original_path: Integration_Object.html
 version: "25.3"
+title: "Integration Object"
+page_id: "Integration_Object"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/grid-with-detail-pattern.html
 original_path: grid-with-detail-pattern.html
 version: "25.3"
+title: "Grid With Detail Pattern"
+page_id: "grid-with-detail-pattern"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

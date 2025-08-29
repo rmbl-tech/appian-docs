@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Documentation_General_Disclaimer.html
 original_path: Appian_Documentation_General_Disclaimer.html
 version: "25.3"
+title: "Appian Documentation General Disclaimer"
+page_id: "Appian_Documentation_General_Disclaimer"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

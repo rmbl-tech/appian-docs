@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Internal_Data.html
 original_path: Internal_Data.html
 version: "25.3"
+title: "Internal Data"
+page_id: "Internal_Data"
+section: "Default directories"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

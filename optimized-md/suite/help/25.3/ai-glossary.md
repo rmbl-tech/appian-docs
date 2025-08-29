@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/ai-glossary.html
 original_path: ai-glossary.html
 version: "25.3"
+title: "AI/ML Glossary"
+page_id: "ai-glossary"
+section: "A"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

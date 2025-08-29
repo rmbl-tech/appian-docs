@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/sales-perform-dashboard.html
 original_path: sail/sales-perform-dashboard.html
 version: "25.3"
+title: "Sales Performance Dashboard"
+page_id: "sail/sales-perform-dashboard"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Sales Performance Dashboard \[SAIL Design System: Inspiration\]
 

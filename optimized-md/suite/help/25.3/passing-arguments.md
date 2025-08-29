@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/passing-arguments.html
 original_path: passing-arguments.html
 version: "25.3"
+title: "Passing Arguments"
+page_id: "passing-arguments"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Create_Custom_Group_Smart_Service.html
 original_path: Create_Custom_Group_Smart_Service.html
 version: "25.3"
+title: "Create Custom Group Smart Service \[Deprecated\]"
+page_id: "Create_Custom_Group_Smart_Service"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

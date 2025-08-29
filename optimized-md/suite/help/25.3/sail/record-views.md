@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/record-views.html
 original_path: sail/record-views.html
 version: "25.3"
+title: "Record Views"
+page_id: "sail/record-views"
+section: "Basic record view with cards"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Record Views \[SAIL Design System: Patterns\]
 

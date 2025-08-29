@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Enhanced_Data_Pipeline_for_Appian_Cloud.html
 original_path: Enhanced_Data_Pipeline_for_Appian_Cloud.html
 version: "25.3"
+title: "Enhanced Data Pipeline for Appian Cloud"
+page_id: "Enhanced_Data_Pipeline_for_Appian_Cloud"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

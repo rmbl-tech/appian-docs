@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-overview.html
 original_path: integration-sdk-overview.html
 version: "25.3"
+title: "Integration SDK Overview"
+page_id: "integration-sdk-overview"
+section: "Connected system plug-ins"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

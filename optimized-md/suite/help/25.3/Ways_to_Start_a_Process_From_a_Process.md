@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Ways_to_Start_a_Process_From_a_Process.html
 original_path: Ways_to_Start_a_Process_From_a_Process.html
 version: "25.3"
+title: "Ways to Start a Process"
+page_id: "Ways_to_Start_a_Process_From_a_Process"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

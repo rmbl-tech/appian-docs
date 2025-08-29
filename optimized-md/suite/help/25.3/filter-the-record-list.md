@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/filter-the-record-list.html
 original_path: filter-the-record-list.html
 version: "25.3"
+title: "Add User Filters"
+page_id: "filter-the-record-list"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

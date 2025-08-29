@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/troubleshoot-reports.html
 original_path: troubleshoot-reports.html
 version: "25.3"
+title: "Troubleshoot Data Fabric Insights"
+page_id: "troubleshoot-reports"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

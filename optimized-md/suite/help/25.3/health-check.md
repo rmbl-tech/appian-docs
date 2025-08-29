@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/health-check.html
 original_path: health-check.html
 version: "25.3"
+title: "Health Check"
+page_id: "health-check"
+section: "What is Health Check?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

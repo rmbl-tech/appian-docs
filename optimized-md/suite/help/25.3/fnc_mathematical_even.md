@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_mathematical_even.html
 original_path: fnc_mathematical_even.html
 version: "25.3"
+title: "even() Function"
+page_id: "fnc_mathematical_even"
+section: "Functions"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

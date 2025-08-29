@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/procuresight-plus-landing-page.html
 original_path: procuresight-plus-landing-page.html
 version: "25.3"
+title: "What is ProcureSight Plus?"
+page_id: "procuresight-plus-landing-page"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

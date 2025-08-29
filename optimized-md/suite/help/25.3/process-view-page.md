@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/process-view-page.html
 original_path: process-view-page.html
 version: "25.3"
+title: "View Page"
+page_id: "process-view-page"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-styled-icons.html
 original_path: sail/ux-styled-icons.html
 version: "25.3"
+title: "Standard Icons"
+page_id: "sail/ux-styled-icons"
+section: "Available icons"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Standard Icons \[SAIL Design System: Components\]
 

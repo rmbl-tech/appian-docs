@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-limit-the-number-of-rows-in-a-grid-that-can-be-selected.html
 original_path: recipe-limit-the-number-of-rows-in-a-grid-that-can-be-selected.html
 version: "25.3"
+title: "Limit the Number of Rows in a Grid That Can Be Selected"
+page_id: "recipe-limit-the-number-of-rows-in-a-grid-that-can-be-selected"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/forums/ForumDataType.html
 original_path: api/com/appiancorp/suiteapi/forums/ForumDataType.html
 version: "25.3"
+title: "Annotation Interface ForumDataType"
+page_id: "api/com/appiancorp/suiteapi/forums/ForumDataType"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.forums](package-summary.html)
 

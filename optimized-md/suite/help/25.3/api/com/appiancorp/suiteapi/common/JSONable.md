@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/JSONable.html
 original_path: api/com/appiancorp/suiteapi/common/JSONable.html
 version: "25.3"
+title: "Interface JSONable"
+page_id: "api/com/appiancorp/suiteapi/common/JSONable"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

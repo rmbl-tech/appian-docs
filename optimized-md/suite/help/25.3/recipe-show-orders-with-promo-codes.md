@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-show-orders-with-promo-codes.html
 original_path: recipe-show-orders-with-promo-codes.html
 version: "25.3"
+title: "Total Orders Compared to Orders Purchased with Promo Codes"
+page_id: "recipe-show-orders-with-promo-codes"
+section: "Scenario"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

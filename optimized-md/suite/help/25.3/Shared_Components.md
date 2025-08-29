@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Shared_Components.html
 original_path: Shared_Components.html
 version: "25.3"
+title: "AppMarket Submission Policies for Plug-Ins"
+page_id: "Shared_Components"
+section: "Submit plug-ins for approval"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

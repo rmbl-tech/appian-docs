@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/installing-cms.html
 original_path: installing-cms.html
 version: "25.3"
+title: "Install Case Management Studio for Self-Managed Customers"
+page_id: "installing-cms"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

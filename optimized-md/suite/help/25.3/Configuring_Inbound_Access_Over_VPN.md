@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configuring_Inbound_Access_Over_VPN.html
 original_path: Configuring_Inbound_Access_Over_VPN.html
 version: "25.3"
+title: "Configuring Inbound Access Over VPN"
+page_id: "Configuring_Inbound_Access_Over_VPN"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

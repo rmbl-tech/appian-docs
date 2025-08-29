@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/UDDI_Configuration.html
 original_path: UDDI_Configuration.html
 version: "25.3"
+title: "UDDI Configuration \[Deprecated\]"
+page_id: "UDDI_Configuration"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

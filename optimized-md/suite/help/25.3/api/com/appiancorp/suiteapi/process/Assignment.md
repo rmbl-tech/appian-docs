@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/Assignment.html
 original_path: api/com/appiancorp/suiteapi/process/Assignment.html
 version: "25.3"
+title: "Class Assignment"
+page_id: "api/com/appiancorp/suiteapi/process/Assignment"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

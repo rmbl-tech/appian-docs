@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Configuring_Process_Reports.html
 original_path: Configuring_Process_Reports.html
 version: "25.3"
+title: "Configuring Process Reports"
+page_id: "Configuring_Process_Reports"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portals-data.html
 original_path: portals-data.html
 version: "25.3"
+title: "Working with Data in a Portal"
+page_id: "portals-data"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

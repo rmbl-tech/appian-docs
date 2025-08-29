@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/page-titles.html
 original_path: sail/page-titles.html
 version: "25.3"
+title: "Page Titles"
+page_id: "sail/page-titles"
+section: "Standard page title"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Page Titles \[SAIL Design System: Patterns\]
 

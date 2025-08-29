@@ -3,7 +3,12 @@ source_url: https://docs.appian.com/suite/help/25.3/sail/data-value-display.html
 original_path: sail/data-value-display.html
 version: "25.3"
 part: 1/6
+title: "Data Value Display"
+page_id: "sail/data-value-display"
+section: "Easy-to-scan field summary"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

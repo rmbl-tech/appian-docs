@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Sync_Records_Smart_Service_22r2.html
 original_path: Sync_Records_Smart_Service_22r2.html
 version: "25.3"
+title: "Sync Records Smart Service (22.2)"
+page_id: "Sync_Records_Smart_Service_22r2"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

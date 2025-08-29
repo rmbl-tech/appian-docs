@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Encrypted_Text_Component.html
 original_path: Encrypted_Text_Component.html
 version: "25.3"
+title: "Encrypted Text Component"
+page_id: "Encrypted_Text_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

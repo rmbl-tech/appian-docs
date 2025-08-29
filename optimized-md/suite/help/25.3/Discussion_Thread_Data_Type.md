@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Discussion_Thread_Data_Type.html
 original_path: Discussion_Thread_Data_Type.html
 version: "25.3"
+title: "Discussion Thread Data Type \[Deprecated\]"
+page_id: "Discussion_Thread_Data_Type"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

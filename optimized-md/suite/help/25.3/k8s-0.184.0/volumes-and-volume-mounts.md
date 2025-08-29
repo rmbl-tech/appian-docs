@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/k8s-0.184.0/volumes-and-volume-mounts.html
 original_path: k8s-0.184.0/volumes-and-volume-mounts.html
 version: "25.3"
+title: "Volumes and Volume Mounts"
+page_id: "k8s-0.184.0/volumes-and-volume-mounts"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

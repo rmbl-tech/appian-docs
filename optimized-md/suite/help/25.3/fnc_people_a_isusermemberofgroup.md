@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_people_a_isusermemberofgroup.html
 original_path: fnc_people_a_isusermemberofgroup.html
 version: "25.3"
+title: "a!isUserMemberOfGroup() Function"
+page_id: "fnc_people_a_isusermemberofgroup"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

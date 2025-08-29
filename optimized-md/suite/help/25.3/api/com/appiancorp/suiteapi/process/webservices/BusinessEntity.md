@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/webservices/BusinessEntity.html
 original_path: api/com/appiancorp/suiteapi/process/webservices/BusinessEntity.html
 version: "25.3"
+title: "Class BusinessEntity"
+page_id: "api/com/appiancorp/suiteapi/process/webservices/BusinessEntity"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.webservices](package-summary.html)
 

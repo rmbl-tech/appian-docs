@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/tabular-data-display.html
 original_path: sail/tabular-data-display.html
 version: "25.3"
+title: "Tabular Data Display"
+page_id: "sail/tabular-data-display"
+section: "List-style grid"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Tabular Data Display \[SAIL Design System: Patterns\]
 

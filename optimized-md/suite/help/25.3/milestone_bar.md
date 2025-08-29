@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/milestone_bar.html
 original_path: milestone_bar.html
 version: "25.3"
+title: "Milestone Patterns"
+page_id: "milestone_bar"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

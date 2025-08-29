@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/heading-component.html
 original_path: heading-component.html
 version: "25.3"
+title: "Heading Component"
+page_id: "heading-component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

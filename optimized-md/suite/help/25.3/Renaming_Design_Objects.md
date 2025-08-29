@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Renaming_Design_Objects.html
 original_path: Renaming_Design_Objects.html
 version: "25.3"
+title: "Renaming Design Objects"
+page_id: "Renaming_Design_Objects"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

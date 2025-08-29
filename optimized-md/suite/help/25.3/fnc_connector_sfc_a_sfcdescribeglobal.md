@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_connector_sfc_a_sfcdescribeglobal.html
 original_path: fnc_connector_sfc_a_sfcdescribeglobal.html
 version: "25.3"
+title: "a!sfcDescribeGlobal() Function \[Deprecated\]"
+page_id: "fnc_connector_sfc_a_sfcdescribeglobal"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

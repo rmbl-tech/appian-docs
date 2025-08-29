@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/custom-record-fields.html
 original_path: custom-record-fields.html
 version: "25.3"
+title: "Create Custom Record Fields"
+page_id: "custom-record-fields"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

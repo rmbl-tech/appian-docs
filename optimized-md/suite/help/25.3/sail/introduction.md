@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/introduction.html
 original_path: sail/introduction.html
 version: "25.3"
+title: "How to Use Patterns"
+page_id: "sail/introduction"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) How to Use Patterns \[SAIL Design System: Patterns\]
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/process-insights-page.html
 original_path: process-insights-page.html
 version: "25.3"
+title: "Process Insights Page"
+page_id: "process-insights-page"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

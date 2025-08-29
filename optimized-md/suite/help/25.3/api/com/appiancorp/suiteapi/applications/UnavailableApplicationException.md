@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/applications/UnavailableApplicationException.html
 original_path: api/com/appiancorp/suiteapi/applications/UnavailableApplicationException.html
 version: "25.3"
+title: "Class UnavailableApplicationException"
+page_id: "api/com/appiancorp/suiteapi/applications/UnavailableApplicationException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.applications](package-summary.html)
 

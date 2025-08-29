@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-presenting-information-clearly.html
 original_path: sail/ux-presenting-information-clearly.html
 version: "25.3"
+title: "Presenting Information Clearly"
+page_id: "sail/ux-presenting-information-clearly"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Presenting Information Clearly \[SAIL Design System: Guidelines\]
 

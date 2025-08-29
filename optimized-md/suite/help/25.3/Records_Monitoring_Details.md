@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Records_Monitoring_Details.html
 original_path: Records_Monitoring_Details.html
 version: "25.3"
+title: "Troubleshoot Data Sync"
+page_id: "Records_Monitoring_Details"
+section: "Types of sync errors"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

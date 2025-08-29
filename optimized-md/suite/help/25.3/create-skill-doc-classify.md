@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/create-skill-doc-classify.html
 original_path: create-skill-doc-classify.html
 version: "25.3"
+title: "Create a Document Classification AI Skill"
+page_id: "create-skill-doc-classify"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

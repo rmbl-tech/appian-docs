@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/expression-advanced-evaluation.html
 original_path: expression-advanced-evaluation.html
 version: "25.3"
+title: "Advanced Expression Evaluation"
+page_id: "expression-advanced-evaluation"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

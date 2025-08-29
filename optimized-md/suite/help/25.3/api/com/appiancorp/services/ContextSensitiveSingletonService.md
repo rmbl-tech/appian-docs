@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/services/ContextSensitiveSingletonService.html
 original_path: api/com/appiancorp/services/ContextSensitiveSingletonService.html
 version: "25.3"
+title: "Interface ContextSensitiveSingletonService"
+page_id: "api/com/appiancorp/services/ContextSensitiveSingletonService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.services](package-summary.html)
 

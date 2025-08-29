@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/PartialResultReturnConverter.html
 original_path: api/com/appiancorp/suiteapi/common/PartialResultReturnConverter.html
 version: "25.3"
+title: "Class PartialResultReturnConverter"
+page_id: "api/com/appiancorp/suiteapi/common/PartialResultReturnConverter"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

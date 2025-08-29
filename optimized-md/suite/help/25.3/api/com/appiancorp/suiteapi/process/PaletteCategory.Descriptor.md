@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/PaletteCategory.Descriptor.html
 original_path: api/com/appiancorp/suiteapi/process/PaletteCategory.Descriptor.html
 version: "25.3"
+title: "Class PaletteCategory.Descriptor"
+page_id: "api/com/appiancorp/suiteapi/process/PaletteCategory.Descriptor"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

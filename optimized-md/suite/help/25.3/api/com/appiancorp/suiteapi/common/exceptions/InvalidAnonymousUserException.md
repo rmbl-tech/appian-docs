@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/InvalidAnonymousUserException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/InvalidAnonymousUserException.html
 version: "25.3"
+title: "Class InvalidAnonymousUserException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/InvalidAnonymousUserException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

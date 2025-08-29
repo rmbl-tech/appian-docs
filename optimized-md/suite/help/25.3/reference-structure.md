@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/reference-structure.html
 original_path: reference-structure.html
 version: "25.3"
+title: "Package Structure"
+page_id: "reference-structure"
+section: "Package structure"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

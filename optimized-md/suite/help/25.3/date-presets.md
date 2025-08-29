@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/date-presets.html
 original_path: date-presets.html
 version: "25.3"
+title: "Filter by Date Presets"
+page_id: "date-presets"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

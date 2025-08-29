@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Submit_Button_Component.html
 original_path: Submit_Button_Component.html
 version: "25.3"
+title: "Submit Button Component \[Deprecated\]"
+page_id: "Submit_Button_Component"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

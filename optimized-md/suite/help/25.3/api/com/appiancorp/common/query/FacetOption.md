@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/FacetOption.html
 original_path: api/com/appiancorp/common/query/FacetOption.html
 version: "25.3"
+title: "Class FacetOption<T>"
+page_id: "api/com/appiancorp/common/query/FacetOption"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/framework/Attended.html
 original_path: api/com/appiancorp/suiteapi/process/framework/Attended.html
 version: "25.3"
+title: "Annotation Interface Attended"
+page_id: "api/com/appiancorp/suiteapi/process/framework/Attended"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process.framework](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Managing_Import_Customization_Files.html
 original_path: Managing_Import_Customization_Files.html
 version: "25.3"
+title: "Managing Import Customization Files"
+page_id: "Managing_Import_Customization_Files"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

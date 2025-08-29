@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/portal-publishing-manager.html
 original_path: portal-publishing-manager.html
 version: "25.3"
+title: "Portal Publishing Manager \[Removed\]"
+page_id: "portal-publishing-manager"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

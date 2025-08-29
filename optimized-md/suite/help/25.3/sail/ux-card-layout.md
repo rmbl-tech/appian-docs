@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-card-layout.html
 original_path: sail/ux-card-layout.html
 version: "25.3"
+title: "Card Layout"
+page_id: "sail/ux-card-layout"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Card Layout \[SAIL Design System: Components\]
 

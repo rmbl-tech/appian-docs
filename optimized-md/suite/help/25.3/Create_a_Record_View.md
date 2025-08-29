@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Create_a_Record_View.html
 original_path: Create_a_Record_View.html
 version: "25.3"
+title: "Create a Record View Interface"
+page_id: "Create_a_Record_View"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

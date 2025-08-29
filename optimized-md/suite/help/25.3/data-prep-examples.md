@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/data-prep-examples.html
 original_path: data-prep-examples.html
 version: "25.3"
+title: "Data Preparation Examples"
+page_id: "data-prep-examples"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

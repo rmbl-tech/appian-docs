@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Service-Backed_Record_Tutorial.html
 original_path: Service-Backed_Record_Tutorial.html
 version: "25.3"
+title: "Record Type Tutorial (Web Service)"
+page_id: "Service-Backed_Record_Tutorial"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

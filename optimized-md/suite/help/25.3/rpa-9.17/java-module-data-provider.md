@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/java-module-data-provider.html
 original_path: rpa-9.17/java-module-data-provider.html
 version: "25.3"
+title: "Data-Provider Java Module"
+page_id: "rpa-9.17/java-module-data-provider"
+section: "Using the Data Provider module"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

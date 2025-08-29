@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/appian-records-security.html
 original_path: appian-records-security.html
 version: "25.3"
+title: "Overview of Record Type Security"
+page_id: "appian-records-security"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

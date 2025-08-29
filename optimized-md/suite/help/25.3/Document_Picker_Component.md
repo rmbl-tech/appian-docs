@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Document_Picker_Component.html
 original_path: Document_Picker_Component.html
 version: "25.3"
+title: "Document Picker Component"
+page_id: "Document_Picker_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Leave_Group_Smart_Service.html
 original_path: Leave_Group_Smart_Service.html
 version: "25.3"
+title: "Leave Group Smart Service"
+page_id: "Leave_Group_Smart_Service"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

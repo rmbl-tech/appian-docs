@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/exceptions/InvalidRoleException.html
 original_path: api/com/appiancorp/suiteapi/common/exceptions/InvalidRoleException.html
 version: "25.3"
+title: "Class InvalidRoleException"
+page_id: "api/com/appiancorp/suiteapi/common/exceptions/InvalidRoleException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.exceptions](package-summary.html)
 

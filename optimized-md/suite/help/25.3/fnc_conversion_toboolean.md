@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_conversion_toboolean.html
 original_path: fnc_conversion_toboolean.html
 version: "25.3"
+title: "toboolean() Function"
+page_id: "fnc_conversion_toboolean"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

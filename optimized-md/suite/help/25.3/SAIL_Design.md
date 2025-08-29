@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/SAIL_Design.html
 original_path: SAIL_Design.html
 version: "25.3"
+title: "SAIL Technology"
+page_id: "SAIL_Design"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

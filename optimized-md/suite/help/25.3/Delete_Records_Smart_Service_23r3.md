@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Delete_Records_Smart_Service_23r3.html
 original_path: Delete_Records_Smart_Service_23r3.html
 version: "25.3"
+title: "Delete Records Smart Service (23.3)"
+page_id: "Delete_Records_Smart_Service_23r3"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

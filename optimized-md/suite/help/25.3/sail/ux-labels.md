@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-labels.html
 original_path: sail/ux-labels.html
 version: "25.3"
+title: "Labels"
+page_id: "sail/ux-labels"
+section: "Position"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Labels \[SAIL Design System: Guidelines\]
 

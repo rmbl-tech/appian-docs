@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/integration-sdk-javadocs/connected-systems-core/1.2.0/help-doc.html
 original_path: integration-sdk-javadocs/connected-systems-core/1.2.0/help-doc.html
 version: "25.3"
+title: "How This API Document Is Organized"
+page_id: "integration-sdk-javadocs/connected-systems-core/1.2.0/help-doc"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 [Skip navigation links](#skip.navbar.top "Skip navigation links")
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/constructing-data-type-values.html
 original_path: constructing-data-type-values.html
 version: "25.3"
+title: "Create a Type Constructor"
+page_id: "constructing-data-type-values"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

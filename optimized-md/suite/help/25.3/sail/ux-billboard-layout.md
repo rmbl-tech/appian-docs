@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/ux-billboard-layout.html
 original_path: sail/ux-billboard-layout.html
 version: "25.3"
+title: "Billboard Layout"
+page_id: "sail/ux-billboard-layout"
+section: "When to use a billboard layout"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Billboard Layout \[SAIL Design System: Components\]
 

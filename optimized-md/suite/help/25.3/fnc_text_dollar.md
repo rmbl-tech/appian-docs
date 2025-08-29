@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_text_dollar.html
 original_path: fnc_text_dollar.html
 version: "25.3"
+title: "dollar() Function \[Deprecated\]"
+page_id: "fnc_text_dollar"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

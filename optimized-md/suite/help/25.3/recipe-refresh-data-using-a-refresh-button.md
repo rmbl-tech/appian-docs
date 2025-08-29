@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-refresh-data-using-a-refresh-button.html
 original_path: recipe-refresh-data-using-a-refresh-button.html
 version: "25.3"
+title: "Refresh Data Using a Refresh Button"
+page_id: "recipe-refresh-data-using-a-refresh-button"
+section: "Expression"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

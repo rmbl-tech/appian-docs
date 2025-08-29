@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-use-guage-fraction-and-percentage-configurations.html
 original_path: recipe-use-guage-fraction-and-percentage-configurations.html
 version: "25.3"
+title: "Use the Gauge Fraction and Gauge Percentage Configurations"
+page_id: "recipe-use-guage-fraction-and-percentage-configurations"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

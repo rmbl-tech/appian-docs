@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/record-action-security.html
 original_path: record-action-security.html
 version: "25.3"
+title: "Record Action Security"
+page_id: "record-action-security"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

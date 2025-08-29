@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/returns/package-tree.html
 original_path: api/com/appiancorp/common/query/returns/package-tree.html
 version: "25.3"
+title: "Hierarchy For Package com.appiancorp.common.query.returns"
+page_id: "api/com/appiancorp/common/query/returns/package-tree"
+section: "Class Hierarchy"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 # Hierarchy For Package com.appiancorp.common.query.returns
 

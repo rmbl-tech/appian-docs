@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/data-governance-page.html
 original_path: data-governance-page.html
 version: "25.3"
+title: "Data Governance Page"
+page_id: "data-governance-page"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

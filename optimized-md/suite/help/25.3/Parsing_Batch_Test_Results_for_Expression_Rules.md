@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Parsing_Batch_Test_Results_for_Expression_Rules.html
 original_path: Parsing_Batch_Test_Results_for_Expression_Rules.html
 version: "25.3"
+title: "Parsing Batch Test Results for Expression Rules"
+page_id: "Parsing_Batch_Test_Results_for_Expression_Rules"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

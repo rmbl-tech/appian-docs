@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/objects-view.html
 original_path: objects-view.html
 version: "25.3"
+title: "Objects View"
+page_id: "objects-view"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

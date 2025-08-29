@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Wizard_Step_Component.html
 original_path: Wizard_Step_Component.html
 version: "25.3"
+title: "Wizard Step"
+page_id: "Wizard_Step_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

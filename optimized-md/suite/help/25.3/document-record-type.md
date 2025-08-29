@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/document-record-type.html
 original_path: document-record-type.html
 version: "25.3"
+title: "Document Record Type"
+page_id: "document-record-type"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

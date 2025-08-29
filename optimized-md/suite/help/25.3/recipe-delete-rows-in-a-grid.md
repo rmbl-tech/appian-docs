@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/recipe-delete-rows-in-a-grid.html
 original_path: recipe-delete-rows-in-a-grid.html
 version: "25.3"
+title: "Delete Rows in a Grid"
+page_id: "recipe-delete-rows-in-a-grid"
+section: "Goal"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

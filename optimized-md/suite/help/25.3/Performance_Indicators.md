@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Performance_Indicators.html
 original_path: Performance_Indicators.html
 version: "25.3"
+title: "Performance Indicators \[Deprecated\]"
+page_id: "Performance_Indicators"
+section: "Feedback"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

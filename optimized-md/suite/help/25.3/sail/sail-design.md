@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/sail-design.html
 original_path: sail/sail-design.html
 version: "25.3"
+title: "How to Design with SAIL"
+page_id: "sail/sail-design"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) How to Design with SAIL \[SAIL Design System: Getting Started\]
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/ValidationItem.html
 original_path: api/com/appiancorp/suiteapi/common/ValidationItem.html
 version: "25.3"
+title: "Class ValidationItem"
+page_id: "api/com/appiancorp/suiteapi/common/ValidationItem"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common](package-summary.html)
 

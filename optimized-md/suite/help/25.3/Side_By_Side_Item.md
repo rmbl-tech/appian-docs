@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Side_By_Side_Item.html
 original_path: Side_By_Side_Item.html
 version: "25.3"
+title: "Side By Side Item"
+page_id: "Side_By_Side_Item"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

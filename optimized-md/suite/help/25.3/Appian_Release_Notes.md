@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Appian_Release_Notes.html
 original_path: Appian_Release_Notes.html
 version: "25.3"
+title: "Appian Release Notes"
+page_id: "Appian_Release_Notes"
+section: "Release highlights"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

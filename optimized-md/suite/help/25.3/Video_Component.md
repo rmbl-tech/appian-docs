@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Video_Component.html
 original_path: Video_Component.html
 version: "25.3"
+title: "Video Component"
+page_id: "Video_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

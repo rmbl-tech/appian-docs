@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/collaboration/FolderService.html
 original_path: api/com/appiancorp/suiteapi/collaboration/FolderService.html
 version: "25.3"
+title: "Interface FolderService"
+page_id: "api/com/appiancorp/suiteapi/collaboration/FolderService"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.collaboration](package-summary.html)
 

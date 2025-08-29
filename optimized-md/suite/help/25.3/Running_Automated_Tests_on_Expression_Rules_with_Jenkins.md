@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Running_Automated_Tests_on_Expression_Rules_with_Jenkins.html
 original_path: Running_Automated_Tests_on_Expression_Rules_with_Jenkins.html
 version: "25.3"
+title: "Running Automated Tests on Expression Rules with Jenkins"
+page_id: "Running_Automated_Tests_on_Expression_Rules_with_Jenkins"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

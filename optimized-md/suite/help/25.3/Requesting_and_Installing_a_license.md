@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Requesting_and_Installing_a_license.html
 original_path: Requesting_and_Installing_a_license.html
 version: "25.3"
+title: "How to Request and Install Appian Product License Files"
+page_id: "Requesting_and_Installing_a_license"
+section: "License types and what they mean"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

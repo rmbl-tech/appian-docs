@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Service-Backed_Record_Tutorial_JDBC.html
 original_path: Service-Backed_Record_Tutorial_JDBC.html
 version: "25.3"
+title: "Record Type Tutorial (JDBC SQL Integration)"
+page_id: "Service-Backed_Record_Tutorial_JDBC"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/rpa-9.17/how-to-navigate-console.html
 original_path: rpa-9.17/how-to-navigate-console.html
 version: "25.3"
+title: "Navigate the Console"
+page_id: "rpa-9.17/how-to-navigate-console"
+section: "Open the Appian RPA console"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

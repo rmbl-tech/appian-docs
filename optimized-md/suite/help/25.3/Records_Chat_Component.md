@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Records_Chat_Component.html
 original_path: Records_Chat_Component.html
 version: "25.3"
+title: "Records Chat Component"
+page_id: "Records_Chat_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

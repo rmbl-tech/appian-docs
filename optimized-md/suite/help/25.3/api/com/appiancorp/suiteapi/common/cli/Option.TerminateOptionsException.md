@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/common/cli/Option.TerminateOptionsException.html
 original_path: api/com/appiancorp/suiteapi/common/cli/Option.TerminateOptionsException.html
 version: "25.3"
+title: "Class Option.TerminateOptionsException"
+page_id: "api/com/appiancorp/suiteapi/common/cli/Option.TerminateOptionsException"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.common.cli](package-summary.html)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_connector_recaptcha_verifyrecaptcha.html
 original_path: fnc_connector_recaptcha_verifyrecaptcha.html
 version: "25.3"
+title: "a!verifyRecaptcha"
+page_id: "fnc_connector_recaptcha_verifyrecaptcha"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

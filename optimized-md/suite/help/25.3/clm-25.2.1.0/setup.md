@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/clm-25.2.1.0/setup.html
 original_path: clm-25.2.1.0/setup.html
 version: "25.3"
+title: "Contract Lifecycle Management Setup Guide"
+page_id: "clm-25.2.1.0/setup"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

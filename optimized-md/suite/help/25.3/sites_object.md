@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sites_object.html
 original_path: sites_object.html
 version: "25.3"
+title: "Site Object"
+page_id: "sites_object"
+section: "What is a site object?"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

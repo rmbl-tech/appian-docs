@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Complex_Gateway_Node.html
 original_path: Complex_Gateway_Node.html
 version: "25.3"
+title: "Complex Gateway"
+page_id: "Complex_Gateway_Node"
+section: "Configuring incoming flows for a complex gateway"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

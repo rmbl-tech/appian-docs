@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/appian-recommendations.html
 original_path: appian-recommendations.html
 version: "25.3"
+title: "Appian Design Guidance"
+page_id: "appian-recommendations"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

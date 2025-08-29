@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Web_Content_Component.html
 original_path: Web_Content_Component.html
 version: "25.3"
+title: "Web Content Component"
+page_id: "Web_Content_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

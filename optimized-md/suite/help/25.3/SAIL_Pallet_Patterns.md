@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/SAIL_Pallet_Patterns.html
 original_path: SAIL_Pallet_Patterns.html
 version: "25.3"
+title: "Drag & Drop Patterns"
+page_id: "SAIL_Pallet_Patterns"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

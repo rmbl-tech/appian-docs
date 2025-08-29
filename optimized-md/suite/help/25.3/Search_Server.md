@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Search_Server.html
 original_path: Search_Server.html
 version: "25.3"
+title: "Search Server"
+page_id: "Search_Server"
+section: "Configuring the search server"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

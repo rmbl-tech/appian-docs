@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Smart_Services.html
 original_path: Smart_Services.html
 version: "25.3"
+title: "Process Nodes and Smart Services"
+page_id: "Smart_Services"
+section: "Workflow"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

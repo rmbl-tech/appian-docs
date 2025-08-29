@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Section_Layout_171.html
 original_path: Section_Layout_171.html
 version: "25.3"
+title: "a!sectionLayout\_17r1 Component"
+page_id: "Section_Layout_171"
+section: "Section layout component"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

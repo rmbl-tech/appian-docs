@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/search-the-record-list.html
 original_path: search-the-record-list.html
 version: "25.3"
+title: "Customize the Record List Search"
+page_id: "search-the-record-list"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

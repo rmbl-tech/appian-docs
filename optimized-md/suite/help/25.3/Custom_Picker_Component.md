@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Custom_Picker_Component.html
 original_path: Custom_Picker_Component.html
 version: "25.3"
+title: "Custom Picker Component"
+page_id: "Custom_Picker_Component"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cl-24.3.1.2/cul-eur-module-overview.html
 original_path: cl-24.3.1.2/cul-eur-module-overview.html
 version: "25.3"
+title: "End-User Reporting Module Overview"
+page_id: "cl-24.3.1.2/cul-eur-module-overview"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

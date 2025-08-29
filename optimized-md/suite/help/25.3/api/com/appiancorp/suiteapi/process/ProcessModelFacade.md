@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/suiteapi/process/ProcessModelFacade.html
 original_path: api/com/appiancorp/suiteapi/process/ProcessModelFacade.html
 version: "25.3"
+title: "Class ProcessModelFacade"
+page_id: "api/com/appiancorp/suiteapi/process/ProcessModelFacade"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.suiteapi.process](package-summary.html)
 

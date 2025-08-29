@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/fnc_array_rdrop.html
 original_path: fnc_array_rdrop.html
 version: "25.3"
+title: "rdrop() Function"
+page_id: "fnc_array_rdrop"
+section: "Function"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

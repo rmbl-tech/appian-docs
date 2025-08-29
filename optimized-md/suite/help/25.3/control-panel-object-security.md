@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/control-panel-object-security.html
 original_path: control-panel-object-security.html
 version: "25.3"
+title: "Control Panel Object Security"
+page_id: "control-panel-object-security"
+section: "Overview"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

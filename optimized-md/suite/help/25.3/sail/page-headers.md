@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/page-headers.html
 original_path: sail/page-headers.html
 version: "25.3"
+title: "Page Headers"
+page_id: "sail/page-headers"
+section: "Title bar header"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Page Headers \[SAIL Design System: Patterns\]
 

@@ -2,7 +2,11 @@
 source_url: https://docs.appian.com/suite/help/25.3/api/com/appiancorp/common/query/Projection.html
 original_path: api/com/appiancorp/common/query/Projection.html
 version: "25.3"
+title: "Interface Projection<T extends [Column](Column.html \"class in com.appiancorp.common.query\")\>"
+page_id: "api/com/appiancorp/common/query/Projection"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Package [com.appiancorp.common.query](package-summary.html)
 

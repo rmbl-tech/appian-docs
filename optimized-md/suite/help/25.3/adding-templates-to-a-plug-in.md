@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/adding-templates-to-a-plug-in.html
 original_path: adding-templates-to-a-plug-in.html
 version: "25.3"
+title: "Add Templates"
+page_id: "adding-templates-to-a-plug-in"
+section: "Adding a new connected system template"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

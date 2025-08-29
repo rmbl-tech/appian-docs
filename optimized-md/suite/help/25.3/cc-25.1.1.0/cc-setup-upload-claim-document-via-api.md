@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/cc-25.1.1.0/cc-setup-upload-claim-document-via-api.html
 original_path: cc-25.1.1.0/cc-setup-upload-claim-document-via-api.html
 version: "25.3"
+title: "Uploading Claim Document API Module"
+page_id: "cc-25.1.1.0/cc-setup-upload-claim-document-via-api"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 

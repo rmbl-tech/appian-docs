@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/sail/content-structure.html
 original_path: sail/content-structure.html
 version: "25.3"
+title: "Content Structure"
+page_id: "sail/content-structure"
+section: "Primary section heading"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/) Content Structure \[SAIL Design System: Patterns\]
 

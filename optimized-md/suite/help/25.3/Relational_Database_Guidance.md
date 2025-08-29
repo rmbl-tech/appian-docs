@@ -2,7 +2,12 @@
 source_url: https://docs.appian.com/suite/help/25.3/Relational_Database_Guidance.html
 original_path: Relational_Database_Guidance.html
 version: "25.3"
+title: "Relational Database Guidance"
+page_id: "Relational_Database_Guidance"
+section: "Introduction"
+tags: ["appian","docs","v25.3"]
 ---
+
 
 Free cookie consent management tool by [TermsFeed](https://www.termsfeed.com/)
 
